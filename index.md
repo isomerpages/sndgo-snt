@@ -1,15 +1,15 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Smart Nation Singapore - #SmartNationTogether
 description: Brief site description here
 image: /images/SNS logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        title: Welcome to SmartNationTogether
+        subtitle: We have a wide range of online workshops - to cater for all ages and interests!
+        background: /images/SNT-hero.jpeg
         button: Contact Us
         url: /contact-us/
         key_highlights:
