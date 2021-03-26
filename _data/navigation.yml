@@ -7,9 +7,7 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About Snt
+  - title: About SmartNationTogether
     url: /about-snt/
   - title: Kids And Young Parents
     url: /kids-and-young-parents/
@@ -17,3 +15,5 @@ links:
     url: /working-adults/
   - title: Seniors
     url: /seniors/
+  - title: Contact Us
+    url: /contact-us/
