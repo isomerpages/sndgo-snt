@@ -10,8 +10,6 @@ sections:
         title: Welcome to SmartNationTogether
         subtitle: We have a wide range of online workshops - to cater for all ages and interests!
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
         key_highlights:
             - title: For Kids And Young Parents
               description: Important highlight B is equally important
