@@ -1,5 +1,5 @@
 ---
-title: Kids And Young Parents
+title: Kids and Young Parents
 permalink: /kids-and-young-parents
 ---
 Parents can sign their children up for the **TECH@PLAY** or **FUN WITH TECH** interactive, hands-on workshop series. Children will have the opportunity to learn skills such as coding, 3D printing and artificial intelligence.
