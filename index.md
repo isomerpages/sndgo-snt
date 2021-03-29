@@ -4,7 +4,7 @@ title: Smart Nation Singapore
 description: Brief site description here
 image: /images/SNS logo.png
 permalink: /
-notification: 29 March: New programme added for seniors!
+notification: 29 March - New programme added for seniors!
 sections:
   - hero:
       title: '#SmartNationTogether'
