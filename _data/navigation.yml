@@ -7,9 +7,9 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: About SmartNationTogether
+  - title: About #SmartNationTogether
     url: /about-snt/
-  - title: Kids And Young Parents
+  - title: Kids and Young Parents
     url: /kids-and-young-parents/
   - title: Working Adults
     url: /working-adults/
