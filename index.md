@@ -11,7 +11,7 @@ sections:
       subtitle: >-
         We have a wide range of online workshops - to cater for all ages and
         interests!
-      background: /images/SNT Logo.jpg
+      background: /images/hero-banner.png
       key_highlights:
         - title: For Kids And Young Parents
           description: Important highlight B is equally important
