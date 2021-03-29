@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Smart Nation Singapore -
+title: Smart Nation Singapore
 description: Brief site description here
 image: /images/SNS logo.png
 permalink: /
@@ -14,12 +14,9 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: For Kids And Young Parents
-          description: Important highlight B is equally important
           url: /kids-and-young-parents
         - title: For Working Adults
-          description: Important highlight B is equally important
           url: /working-adults
         - title: For Seniors
-          description: Page A is important too
           url: /seniors
 ---
