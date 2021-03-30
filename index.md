@@ -8,9 +8,6 @@ notification: 29 March - Added new programme for seniors!
 sections:
   - hero:
       title: '#SmartNationTogether'
-      subtitle: >-
-        We have a wide range of online workshops - to cater for all ages and
-        interests!
       background: /images/hero-banner.png
   - infopic:
       title: Introduction
