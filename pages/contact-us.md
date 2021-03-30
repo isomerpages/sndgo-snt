@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: ''
-      - email: Enquiries@smartnation.gov.sg
+      - email: enquiries@smartnation.gov.sg
       - other: ''
     title: General Enquiries & Feedback
 ---
