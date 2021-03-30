@@ -13,7 +13,7 @@ sections:
         interests!
       background: /images/hero-banner.png
       key_highlights:
-        - title: For Kids And Young Parents
+        - title: For Kids and Young Parents
           url: /kids-and-young-parents
         - title: For Working Adults
           url: /working-adults
