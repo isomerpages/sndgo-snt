@@ -2,7 +2,7 @@
 layout: homepage
 title: Smart Nation Singapore
 description: Brief site description here
-image: /images/SNS logo.png
+image: /images/SNS-logo.png
 permalink: /
 notification: 29 March - Added new programme for seniors!
 sections:
