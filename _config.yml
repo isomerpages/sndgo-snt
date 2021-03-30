@@ -1,8 +1,6 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: '#SmartNationTogether'
+url: ''
 favicon: /images/favicon-isomer.ico
-
-# Site colors
 colors:
   primary-color: '#ed1a3b'
   secondary-color: '#1a5ded'
@@ -17,26 +15,31 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-
-
-
 description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
-baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+baseurl: ''
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
-      path: ""
+      path: ''
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
