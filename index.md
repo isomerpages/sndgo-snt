@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Smart Nation Singapore
+title: '#SmartNationTogether'
 description: Brief site description here
 image: /images/SNS-logo.png
 permalink: /
