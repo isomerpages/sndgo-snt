@@ -24,6 +24,7 @@ sections:
       button: Find out more
       url: 'https://sndgo-snt-staging.netlify.app/kids-and-young-parents'
       alt: Image alt text
+      image: /images/cyyp.png
   - infopic:
       title: Working Adults
       description: >-
@@ -33,6 +34,7 @@ sections:
       button: Find out more
       url: 'https://sndgo-snt-staging.netlify.app/working-adults'
       alt: Image alt text
+      image: /images/wa.png
   - infopic:
       title: Seniors
       description: >-
@@ -41,4 +43,5 @@ sections:
       button: Find out more
       url: 'https://sndgo-snt-staging.netlify.app/seniors'
       alt: Image alt text
+      image: /images/s.png
 ---
