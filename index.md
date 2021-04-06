@@ -8,14 +8,14 @@ notification: 29 March - Added new programme for seniors!
 sections:
   - hero:
       title: '#SmartNationTogether'
-      background: /images/hero-banner.png
+      background: /images/SNT logo for website (2).png
   - infopic:
       title: Introduction
       description: >-
         #SmartNationTogether is an online channel featuring tech-related talks
         and workshops for kids & young parents, working adults, and seniors. 
-      image: /images/SNT Logo.jpg
-      alt: Image alt text
+      image: /images/SNT logo for website (1).png
+      alt: '#SmartNationTogether'
   - infopic:
       title: Kids and Young Parents
       description: >-
