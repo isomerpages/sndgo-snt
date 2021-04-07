@@ -16,6 +16,10 @@ sections:
         and workshops for kids & young parents, working adults, and seniors. 
       image: /images/SNT logo for website (1).png
       alt: '#SmartNationTogether'
+  - resources:
+      title: What's On
+      subtitle: Latest Events
+      button: FIND OUT MORE
   - infopic:
       title: Kids and Young Parents
       description: >-
