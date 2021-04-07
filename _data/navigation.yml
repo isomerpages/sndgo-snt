@@ -2,11 +2,12 @@ logo: /images/SNS-logo.png
 links:
   - title: About
     url: /about-snt/
+  - title: Whats On
+    resource_room: true
   - title: Kids and Young Parents
     url: /kids-and-young-parents/
   - title: Working Adults
     url: /working-adults/
   - title: Seniors
     url: /seniors/
-  - title: Whats On
-    resource_room: true
+
