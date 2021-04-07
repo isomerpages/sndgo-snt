@@ -48,3 +48,4 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+resources_name: whats-on
