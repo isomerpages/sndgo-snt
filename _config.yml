@@ -43,9 +43,12 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+resources_name: whats-on
+staging: https://sndgo-snt-staging.netlify.app
+prod: https://sndgo-snt-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-resources_name: whats-on
+  - jekyll-remote-theme
