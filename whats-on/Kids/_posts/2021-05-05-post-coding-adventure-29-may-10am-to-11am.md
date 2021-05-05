@@ -1,8 +1,9 @@
 ---
-title: Coding Adventure 29 May 10am To 11am
+title: Coding Adventure (29 May, 10am to 11am)
 date: 2021-05-05
 permalink: /codingadventure
 ---
+
 
 
 
