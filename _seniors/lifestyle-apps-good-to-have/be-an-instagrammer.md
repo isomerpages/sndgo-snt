@@ -3,7 +3,6 @@ title: Be an Instagrammer!
 permalink: /seniors/instagrammer
 third_nav_title: Lifestyle Apps Good To Have
 ---
-**Webinar series:** Lifestyle Apps Good to Have   **Topic:** Be an Instagrammer!  
 **Date:** 16 June 2021, Wednesday  
 **Time:** 3pm - 4pm  
 **Conducted by:** RSVP
