@@ -3,7 +3,11 @@ title: How to use Grab app
 permalink: /seniors/grab
 third_nav_title: Free Webinars
 ---
-**Webinar series:** Lifestyle Apps Good to Have</br> **Topic:** How to use Grab app</br> **Date:** 9 June 2021, Wednesday</br> **Time:** 3pm - 4pm </br> **Conducted by:** VMWare
+**Webinar series:** Lifestyle Apps Good to Have  
+**Topic:** How to use Grab app  
+**Date:** 9 June 2021, Wednesday  
+**Time:** 3pm - 4pm  
+**Conducted by:** VMWare
 
 Suitable for ages 55 and above
 
