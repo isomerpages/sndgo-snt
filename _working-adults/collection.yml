@@ -1,4 +1,5 @@
 collections:
   working-adults:
     output: true
-    order: []
+    order:
+      - working-adults.md
