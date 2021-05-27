@@ -1,5 +1,5 @@
 collections:
-  kids:
+  kids-and-young-parents:
     output: true
     order:
       - kids-and-young-parents.md
