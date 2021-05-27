@@ -1,7 +1,8 @@
 ---
 title: Be a Junior Game Developer!
-permalink: /junior-developer
+permalink: /kids/junior-developer
 ---
+
 **Webinar series:** Fun with Tech</br>
 **Topic:** Be a Junior Game Developer!</br> 
 **Date:** 12 June 2021, Thursday</br>
