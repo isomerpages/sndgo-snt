@@ -4,5 +4,4 @@ collections:
     order:
       - free-webinars/.keep
       - free-webinars/make-mobile-digital-art.md
-      - be-a-junior-game-developer.md
       - scratch-coding-workshop.md
