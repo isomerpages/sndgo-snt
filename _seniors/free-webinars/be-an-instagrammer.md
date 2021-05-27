@@ -3,7 +3,10 @@ title: Be an Instagrammer!
 permalink: /seniors/instagrammer
 third_nav_title: Free Webinars
 ---
-**Webinar series:** Lifestyle Apps Good to Have</br> **Topic:** Be an Instagrammer!</br> **Date:** 16 June 2021, Wednesday</br> **Time:** 3pm - 4pm </br> **Conducted by:** RSVP
+**Webinar series:** Lifestyle Apps Good to Have   **Topic:** Be an Instagrammer!  
+**Date:** 16 June 2021, Wednesday  
+**Time:** 3pm - 4pm  
+**Conducted by:** RSVP
 
 Suitable for ages 55 and above
 
