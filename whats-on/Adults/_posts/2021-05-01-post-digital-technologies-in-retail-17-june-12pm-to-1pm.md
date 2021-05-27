@@ -1,0 +1,13 @@
+---
+title: Digital technologies in Retail 17 June 12pm to 1pm
+date: 2021-05-01
+permalink: /whats-on/Adults/permalink
+layout: post
+---
+
+**Webinar series: 101 Guide </br>
+Topic: Digital Technologies in Retail</br> 
+Date: 17 June 2021, Thursday</br>
+Time: 12pm - 1pm**
+
+Registration will be open soon! Watch this space.
