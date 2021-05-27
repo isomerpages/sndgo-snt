@@ -1,0 +1,4 @@
+collections:
+  kids:
+    output: true
+    order: []
