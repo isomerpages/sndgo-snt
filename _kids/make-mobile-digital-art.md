@@ -4,8 +4,8 @@ permalink: /kids/permalink
 ---
 **Webinar series:** Digital Art Club </br>
 **Topic:** Make Mobile Digital Art</br> 
-**Date:** 3 June 2021, Thursday</br>
-**Time:** 12pm - 1pm </br>
+**Date:** 8 June 2021, Tuesday</br>
+**Time:** 7pm - 8.30pm </br>
 **Conducted by:** GoLibrary
 
 Suitable for ages 13 & Above
