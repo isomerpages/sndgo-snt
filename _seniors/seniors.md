@@ -1,4 +1,0 @@
----
-title: Seniors
-permalink: /seniors
----
