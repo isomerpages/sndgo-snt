@@ -1,7 +1,0 @@
----
-title: 'Preventing Virtual Crime and Introducing ScamShield App (14 Apr, 3pm - 4pm)'
-date: '2021-04-07'
-permalink: /permalink
----
-
-
