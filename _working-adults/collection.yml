@@ -2,6 +2,7 @@ collections:
   working-adults:
     output: true
     order:
+      - 101-guide/.keep
       - deep-dive-certifiable-courses/.keep
       - deep-dive-certifiable-courses/professional-certificate-in-artificial-intelligence-for-non-ai-scientists.md
       - digital-technologies-in-banking-and-finance.md
