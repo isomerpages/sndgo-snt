@@ -1,4 +1,5 @@
 collections:
   seniors:
     output: true
-    order: []
+    order:
+      - seniors.md
