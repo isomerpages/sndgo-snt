@@ -1,7 +1,8 @@
 ---
 title: "Digital Technologies in Banking and Finance "
-permalink: /working-adults/permalink
+permalink: /working-adults/banking-finance
 ---
+
 **Webinar series: 101 Guide**
 
 Topic: Digital Technologies in Banking and Finance
