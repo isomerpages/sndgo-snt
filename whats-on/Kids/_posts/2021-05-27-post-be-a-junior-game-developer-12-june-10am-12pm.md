@@ -4,15 +4,6 @@ date: 2021-05-27
 permalink: /developer
 layout: post
 ---
+Join us to create your very first game through Scratch, a drag-and-drop based programming software. Students will exercise both their logical sequential thinking skills, as well as their creative artistic skills to create interactive games with attractive graphics. Learn how to create Cookie Clicker and Hungry Shark games in this 2 hour workshop. This session is suitable for students aged 9 and above.
 
-
-
-
-
-
-CodeMonkey curriculum offers a friendly but challenging introduction to computer programming, with a bit more rigor and knowledge transfer that can be found in the elementary coding tools. The easy-to-read code and easy-to-follow connection between the code and the action make it a perfect platform for talking about some core concepts in programming. Students will enjoy the challenging puzzles and the cartoon setting.
-
-Young learners will:
-*  Learn coding in real programming language “CoffeeScript” as they help a monkey catch bananas
-*  Introduce and better understand coding concepts such as “turn” using degrees, “step” backwards, etc
-*  Attempt to complete and solve  challenges 0-15 (up to 30 challenges)
+`CLICK HERE TO REGISTER`https://sg.nullspacegroup.com/smart-nation-together-workshops/
