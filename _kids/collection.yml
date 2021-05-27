@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - make-mobile-digital-art.md
-      - kids-and-young-parents.md
+      - be-a-junior-game-developer.md
