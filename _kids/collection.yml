@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - june-progs/.keep
-      - june-progs/make-mobile-digital-art.md
       - kids-and-young-parents.md
