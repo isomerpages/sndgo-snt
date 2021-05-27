@@ -3,8 +3,6 @@ title: Digital technologies in Healthcare
 permalink: /working-adults/healthcare
 third_nav_title: Free Webinars
 ---
-**Webinar series:** 101 Guide  
-**Topic:** Digital Technologies in Healthcare  
 **Date:** 17 June 2021, Thursday  
 **Time:** 12pm - 1pm  
 **Conducted by:** Cognizant
