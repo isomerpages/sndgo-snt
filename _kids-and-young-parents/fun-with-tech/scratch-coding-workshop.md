@@ -3,8 +3,6 @@ title: Scratch Coding Workshop
 permalink: /kids/scratch
 third_nav_title: Fun With Tech
 ---
-**Webinar series:** Fun with Tech  
-**Topic:** Scratch Coding Workshop  
 **Date:** 26 June 2021, Saturday  
 **Time:** 10am - 11.30am  
 **Conducted by:** ICanCode Asia
