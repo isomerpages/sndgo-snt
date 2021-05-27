@@ -3,7 +3,6 @@ title: Introduction To Cloud Computing
 permalink: /seniors/cloud
 third_nav_title: Time Of Your Life
 ---
-**Webinar series:** Time Of Your Life x Future of Work  **Topic:** Introduction To Cloud Computing  
 **Date:** 8 June 2021, Tuesday   
 **Time:** 3pm - 4.30pm  
 **Conducted by:** GoLibrary
