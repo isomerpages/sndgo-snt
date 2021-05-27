@@ -1,0 +1,4 @@
+collections:
+  working-adults:
+    output: true
+    order: []
