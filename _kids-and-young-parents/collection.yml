@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - free-webinars/.keep
-      - make-mobile-digital-art.md
       - be-a-junior-game-developer.md
       - scratch-coding-workshop.md
