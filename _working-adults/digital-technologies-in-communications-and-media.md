@@ -1,6 +1,7 @@
 ---
 title: Digital technologies in Communications and Media
-permalink: /working-adults/permalink
+permalink: /working-adults/comms-media
 ---
+
 
 
