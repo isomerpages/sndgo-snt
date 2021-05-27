@@ -2,8 +2,8 @@ collections:
   kids-and-young-parents:
     output: true
     order:
-      - digital-art-club/.keep
-      - digital-art-club/make-mobile-digital-art.md
       - fun-with-tech/.keep
       - fun-with-tech/be-a-junior-game-developer.md
       - fun-with-tech/scratch-coding-workshop.md
+      - digital-art-club/.keep
+      - digital-art-club/make-mobile-digital-art.md
