@@ -4,9 +4,9 @@ links:
     url: /about-snt/
   - title: Whats On
     resource_room: true
-  - title: Working Adults
-    collection: working-adults
   - title: Kids and Young Parents
     collection: kids-and-young-parents
   - title: Seniors
     collection: seniors
+  - title: Working Adults
+    collection: working-adults
