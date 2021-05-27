@@ -10,12 +10,8 @@ permalink: /kids/scratch
 
 Suitable for ages 7 to 12
 
-Scratch is a block-based visual programming language for children. Users can create projects using the block-based interface.
-
-With Scratch, you can program your own interactive stories, animations, games and
-share your creations with others in the online community.
-
-Students will learn about the basics of Scratch coding, programming logic and how to create moving and
+Scratch is a block-based visual programming language for children. Users can create projects using the block-based interface. With Scratch, you can program your own interactive stories, animations, games and
+share your creations with others in the online community. Students will learn about the basics of Scratch coding, programming logic and how to create moving and
 customisable sprites.
 
 [Register now](https://www.eventbrite.sg/e/smart-nation-collaboration-icancode-scratch-coding-workshop-tickets-106857878792?aff=ebdssbonlinesearch)
