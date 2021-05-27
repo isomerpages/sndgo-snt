@@ -10,3 +10,5 @@ links:
     url: /working-adults/
   - title: Seniors
     url: /seniors/
+  - title: Working Adults
+    collection: working-adults
