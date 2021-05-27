@@ -2,7 +2,6 @@ collections:
   seniors:
     output: true
     order:
-      - seniors.md
       - protect-yourself-against-cybercrime.md
       - using-microsoft-windows-10-part-1.md
       - introduction-to-cloud-computing.md
