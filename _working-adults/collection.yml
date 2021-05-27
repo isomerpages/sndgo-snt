@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 101-guide/.keep
-      - 101-guide/digital-technologies-in-banking-and-finance.md
       - 101-guide/digital-technologies-in-retail.md
       - 101-guide/digital-technologies-in-healthcare.md
       - 101-guide/digital-technologies-in-communications-and-media.md
