@@ -3,8 +3,6 @@ title: Protect Yourself Against Cybercrime
 permalink: /seniors/cybercrime
 third_nav_title: Time Of Your Life
 ---
-**Webinar series:** Time Of Your Life x Future of Work  
-**Topic:** Protect Yourself Against Cybercrime  
 **Date:** 2 June 2021, Wednesday  
 **Time:** 3pm - 4.30pm  
 **Conducted by:** GoLibrary
