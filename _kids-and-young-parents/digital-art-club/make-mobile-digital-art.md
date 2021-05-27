@@ -3,8 +3,6 @@ title: Make Mobile Digital Art
 permalink: /kids/mobile-art
 third_nav_title: Digital Art Club
 ---
-**Webinar series:** Digital Art Club  
-**Topic:** Make Mobile Digital Art  
 **Date:** 8 June 2021, Tuesday  
 **Time:** 7pm - 8.30pm  
 **Conducted by:** GoLibrary  
