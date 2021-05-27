@@ -2,7 +2,6 @@ collections:
   kids-and-young-parents:
     output: true
     order:
-      - kids-and-young-parents.md
       - make-mobile-digital-art.md
       - be-a-junior-game-developer.md
       - scratch-coding-workshop.md
