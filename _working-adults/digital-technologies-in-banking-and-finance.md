@@ -2,9 +2,7 @@
 title: "Digital Technologies in Banking and Finance "
 permalink: /working-adults/permalink
 ---
-
-
-**Webinar series: 101 Guide** 
+**Webinar series: 101 Guide**
 
 Topic: Digital Technologies in Banking and Finance
 Date: 3 June 2021, Thursday
