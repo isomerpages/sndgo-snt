@@ -3,8 +3,6 @@ title: Be a Junior Game Developer!
 permalink: /kids/junior-developer
 third_nav_title: Fun With Tech
 ---
-**Webinar series:** Fun with Tech  
-**Topic:** Be a Junior Game Developer!  
 **Date:** 12 June 2021, Thursday  
 **Time:** 10am - 12pm   
 **Conducted by:** GoLibrary
