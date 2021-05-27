@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - kids-and-young-parents.md
-      - scratch-coding-workshop.md
+      - make-mobile-digital-art.md
       - be-a-junior-game-developer.md
