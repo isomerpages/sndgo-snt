@@ -3,7 +3,10 @@ title: Using Microsoft Windows 10 (Part 2)
 permalink: /seniors/windows10-2
 third_nav_title: Free Webinars
 ---
-**Webinar series:** Time Of Your Life x Future of Work</br> **Topic:** Using Microsoft Windows 10 (Part 2)</br> **Date:** 17 June 2021, Thursday</br> **Time:** 9pm - 10pm </br> **Conducted by:** GoLibrary
+**Webinar series:** Time Of Your Life x Future of Work   **Topic:** Using Microsoft Windows 10 (Part 2)  
+**Date:** 17 June 2021, Thursday  
+**Time:** 9pm - 10pm  
+**Conducted by:** GoLibrary
 
 Suitable for ages 50 and above
 
