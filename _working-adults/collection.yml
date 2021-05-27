@@ -2,9 +2,9 @@ collections:
   working-adults:
     output: true
     order:
-      - deep-dive-certifiable-courses/.keep
       - free-webinars/.keep
       - free-webinars/digital-technologies-in-banking-and-finance.md
       - free-webinars/digital-technologies-in-communications-and-media.md
       - free-webinars/digital-technologies-in-healthcare.md
       - free-webinars/digital-technologies-in-retail.md
+      - deep-dive-certifiable-courses/.keep
