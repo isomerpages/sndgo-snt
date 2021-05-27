@@ -2,6 +2,6 @@ collections:
   kids:
     output: true
     order:
+      - kids-and-young-parents.md
       - make-mobile-digital-art.md
       - be-a-junior-game-developer.md
-      - kids-and-young-parents.md
