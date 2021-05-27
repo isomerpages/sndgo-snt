@@ -2,6 +2,7 @@ collections:
   seniors:
     output: true
     order:
+      - lifestyle-apps-good-to-have/.keep
       - time-of-your-life/.keep
       - free-webinars/.keep
       - free-webinars/protect-yourself-against-cybercrime.md
