@@ -1,0 +1,4 @@
+collections:
+  seniors:
+    output: true
+    order: []
