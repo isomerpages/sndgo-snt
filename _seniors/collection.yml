@@ -2,6 +2,7 @@ collections:
   seniors:
     output: true
     order:
+      - free-webinars/.keep
       - protect-yourself-against-cybercrime.md
       - using-microsoft-windows-10-part-1.md
       - introduction-to-cloud-computing.md
