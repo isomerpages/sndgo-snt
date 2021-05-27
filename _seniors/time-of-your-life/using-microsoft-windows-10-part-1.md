@@ -3,8 +3,6 @@ title: Using Microsoft Windows 10 (Part 1)
 permalink: /seniors/windows10
 third_nav_title: Time Of Your Life
 ---
-**Webinar series:** Time Of Your Life x Future of Work  
-**Topic:** Using Microsoft Windows 10 (Part 1)  
 **Date:** 3 June 2021, Thursday  
 **Time:** 9pm - 10pm  
 **Conducted by:** GoLibrary
