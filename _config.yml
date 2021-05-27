@@ -1,23 +1,23 @@
-title: '#SmartNationTogether'
-url: ''
+title: "#SmartNationTogether"
+url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: '#ed1a3b'
-  secondary-color: '#1a5ded'
+  primary-color: "#ed1a3b"
+  secondary-color: "#1a5ded"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#c800ff"
     - title: media-color-three
-      color: '#00838f'
+      color: "#ff7c00"
     - title: media-color-four
-      color: '#00838f'
+      color: "#0037ff"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
 description: An Isomer site of the Singapore Government
 permalink: none
-baseurl: ''
+baseurl: ""
 exclude:
   - travis-script.js
   - .travis.yml
@@ -35,7 +35,7 @@ include:
   - _redirects
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
       layout: page
 custom_css_path: /misc/custom.css
