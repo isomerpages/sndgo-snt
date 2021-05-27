@@ -3,8 +3,6 @@ title: Introduction to Blockchain and Cryptocurrency
 permalink: /seniors/blockchain-cryptocurrency
 third_nav_title: Free Webinars
 ---
-**Webinar series:** Time Of Your Life  
-**Topic:** Introduction to Blockchain and Cryptocurrency  
 **Date:** 15 June 2021, Wednesday  
 **Time:** 3pm - 4.30pm  
 **Conducted by:** GoLibrary
