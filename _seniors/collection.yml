@@ -4,10 +4,10 @@ collections:
     order:
       - free-webinars/.keep
       - free-webinars/protect-yourself-against-cybercrime.md
-      - free-webinars/using-microsoft-windows-10-part-2.md
+      - free-webinars/using-microsoft-windows-10-part-1.md
       - free-webinars/introduction-to-cloud-computing.md
       - free-webinars/how-to-use-grab-app.md
       - free-webinars/be-an-instagrammer.md
       - free-webinars/introduction-to-blockchain-and-cryptocurrency.md
-      - free-webinars/using-microsoft-windows-10-part-1.md
+      - free-webinars/using-microsoft-windows-10-part-2.md
       - free-webinars/learn-about-the-newly-revamped-nlb-mobile-app.md
