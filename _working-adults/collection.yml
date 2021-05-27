@@ -2,10 +2,10 @@ collections:
   working-adults:
     output: true
     order:
-      - free-webinars/.keep
-      - free-webinars/digital-technologies-in-banking-and-finance.md
-      - free-webinars/digital-technologies-in-communications-and-media.md
-      - free-webinars/digital-technologies-in-healthcare.md
-      - free-webinars/digital-technologies-in-retail.md
+      - 101-guide/.keep
+      - 101-guide/digital-technologies-in-banking-and-finance.md
+      - 101-guide/digital-technologies-in-communications-and-media.md
+      - 101-guide/digital-technologies-in-healthcare.md
+      - 101-guide/digital-technologies-in-retail.md
       - deep-dive-certifiable-courses/.keep
       - deep-dive-certifiable-courses/professional-certificate-in-artificial-intelligence-for-non-ai-scientists.md
