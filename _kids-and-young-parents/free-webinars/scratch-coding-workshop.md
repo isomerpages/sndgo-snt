@@ -3,10 +3,10 @@ title: Scratch Coding Workshop
 permalink: /kids/scratch
 third_nav_title: Free Webinars
 ---
-**Webinar series:** Fun with Tech </br>
-**Topic:** Scratch Coding Workshop</br> 
-**Date:** 26 June 2021, Saturday</br>
-**Time:** 10am - 11.30am </br>
+**Webinar series:** Fun with Tech  
+**Topic:** Scratch Coding Workshop  
+**Date:** 26 June 2021, Saturday  
+**Time:** 10am - 11.30am  
 **Conducted by:** ICanCode Asia
 
 Suitable for ages 7 to 12
