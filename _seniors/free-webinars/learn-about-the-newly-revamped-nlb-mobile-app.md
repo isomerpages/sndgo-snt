@@ -3,8 +3,6 @@ title: " Learn about the newly revamped NLB Mobile app"
 permalink: /seniors/nlb
 third_nav_title: Free Webinars
 ---
-**Webinar series:** Lifestyle Apps Good to Have  
-**Topic:** Learn about the newly revamped NLB Mobile app  
 **Date:** 23 June 2021, Wednesday  
 **Time:** 3pm - 4pm  
 **Conducted by:** GoLibrary
