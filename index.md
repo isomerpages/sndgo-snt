@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "#SmartNationTogether"
+title: "#SmartNation</br>Together"
 description: Brief site description here
 image: /images/SNS-logo.png
 permalink: /
