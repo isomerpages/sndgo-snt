@@ -1,20 +1,20 @@
 ---
 layout: homepage
-title: "#SmartNation</br>Together"
+title: "#SmartNationTogether"
 description: Brief site description here
 image: /images/SNS-logo.png
 permalink: /
 notification: "Welcome to the revamped #SmartNationTogether site!"
 sections:
   - hero:
-      title: "#SmartNationTogether"
+      title: /images/SNT logo.png
       background: /images/SNT logo for website (2).png
   - infopic:
       title: Introduction
       description: "#SmartNationTogether is an online channel featuring tech-related
         talks and workshops for kids & young parents, working adults, and
         seniors. "
-      image: /images/SNT logo for website (1).png
+      image: /images/SNT logo.png
       alt: "#SmartNationTogether"
   - resources:
       title: What's On
