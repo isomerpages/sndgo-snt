@@ -1,5 +1,5 @@
 ---
-title: Professional Certificate in Artificial Intelligence for Non-AI Scientists
+title: Professional Certificate in </br> Artificial Intelligence </br>for Non-AI Scientists
 permalink: /working-adults/deep-dive/nus-ai
 third_nav_title: Deep Dive Certifiable Courses
 ---
