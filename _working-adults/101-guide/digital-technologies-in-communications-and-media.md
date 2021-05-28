@@ -1,5 +1,5 @@
 ---
-title: Digital Technologies in </br>Communications and Media
+title: Digital Technologies in</br>Communications and Media
 permalink: /working-adults/comms-media
 third_nav_title: 101 Guide
 ---
