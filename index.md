@@ -7,7 +7,7 @@ permalink: /
 notification: "Welcome to the revamped #SmartNationTogether site!"
 sections:
   - hero:
-      title: /images/SNT logo.png
+      title: "#SmartNation</br>Together"
       background: /images/SNT logo for website (2).png
   - infopic:
       title: Introduction
