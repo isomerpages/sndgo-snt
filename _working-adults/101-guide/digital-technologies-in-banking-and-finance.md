@@ -1,5 +1,5 @@
 ---
-title: "Digital Technologies in <br>Banking and Finance "
+title: "Digital Technologies in<br>Banking and Finance "
 permalink: /working-adults/banking-finance
 third_nav_title: 101 Guide
 ---
