@@ -4,7 +4,7 @@ title: "#SmartNationTogether"
 description: Brief site description here
 image: /images/SNS-logo.png
 permalink: /
-notification: "Welcome to the brand new #SmartNationTogether site!"
+notification: "Welcome to the revamped #SmartNationTogether site!"
 sections:
   - hero:
       title: "#SmartNationTogether"
