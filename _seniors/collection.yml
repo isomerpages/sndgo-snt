@@ -1,0 +1,14 @@
+collections:
+  seniors:
+    output: true
+    order:
+      - lifestyle-apps-good-to-have/.keep
+      - lifestyle-apps-good-to-have/how-to-use-grab-app.md
+      - lifestyle-apps-good-to-have/be-an-instagrammer.md
+      - lifestyle-apps-good-to-have/learn-about-the-newly-revamped-nlb-mobile-app.md
+      - time-of-your-life/.keep
+      - time-of-your-life/protect-yourself-against-cybercrime.md
+      - time-of-your-life/using-microsoft-windows-10-part-1.md
+      - time-of-your-life/introduction-to-cloud-computing.md
+      - time-of-your-life/introduction-to-blockchain-and-cryptocurrency.md
+      - time-of-your-life/using-microsoft-windows-10-part-2.md

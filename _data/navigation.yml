@@ -1,19 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SNS-logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About Snt
+  - title: About
     url: /about-snt/
-  - title: Kids And Young Parents
-    url: /kids-and-young-parents/
+  - title: Whats On
+    resource_room: true
+  - title: Kids and Young Parents
+    collection: kids-and-young-parents
   - title: Working Adults
-    url: /working-adults/
+    collection: working-adults
   - title: Seniors
-    url: /seniors/
+    collection: seniors

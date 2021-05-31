@@ -2,31 +2,23 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Smart Nation and Digital Government Office
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - '109 North Bridge Road, '
+      - '#06-01 Funan O2 Office,'
+      - Singapore 179097
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: >-
+      https://www.google.com.sg/maps/place/Smart+Nation+and+Digital+Government+Office/@1.2915157,103.8479451,17z/data=!3m1!4b1!4m5!3m4!1s0x31da194fce96d93d:0x76f02b2ff35495bf!8m2!3d1.2915157!4d103.8501338
+    title: Main Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ''
+      - email: enquiries@smartnation.gov.sg
+      - other: ''
+    title: General Enquiries & Feedback
 ---
