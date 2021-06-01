@@ -1,6 +1,6 @@
 title: "#SmartNationTogether"
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/SNS-burst.ico
 colors:
   primary-color: "#ed1a3b"
   secondary-color: "#1a5ded"
@@ -52,3 +52,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+is_government: true
+google_analytics: "274208100"
