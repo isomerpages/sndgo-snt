@@ -1,8 +1,9 @@
 ---
 title: Digital Technologies in Banking and Finance
-permalink: /working-adults/101-guide/banking-finance
+permalink: /working-adults/banking-finance
 third_nav_title: 101 Guide
 ---
+
 
 **Date:** 30 June 2021, Wednesday  
 **Time:** 12pm - 1pm  
