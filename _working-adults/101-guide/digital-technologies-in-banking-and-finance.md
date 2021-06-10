@@ -3,7 +3,7 @@ title: Digital Technologies in Banking and Finance
 permalink: /working-adults/101-guide/banking-finance
 third_nav_title: 101 Guide
 ---
-**Date:** 3 June 2021, Thursday  
+**Date:** 30 June 2021, Wednesday  
 **Time:** 12pm - 1pm  
 **Conducted by:** Cognizant  
 
