@@ -1,9 +1,10 @@
 ---
 title: Digital Technologies in Banking and Finance (30 June, 12pm to 1pm)
 date: 2021-04-02
-permalink: /banking-finance
+permalink: /working-adults/banking-finance
 layout: post
 ---
+
 
 **Date:** 3 June 2021, Thursday  
 **Time:** 12pm - 1pm  
