@@ -2,6 +2,7 @@ collections:
   seniors:
     output: true
     order:
+      - digital-pods/.keep
       - good-to-have-lifestyle-apps/.keep
       - good-to-have-lifestyle-apps/how-to-use-grab-app.md
       - good-to-have-lifestyle-apps/be-an-instagrammer.md
