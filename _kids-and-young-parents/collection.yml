@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - fun-with-tech/.keep
-      - fun-with-tech/be-a-junior-game-developer.md
       - fun-with-tech/scratch-coding-workshop.md
       - fun-with-tech/coding-adventure-codemonkey.md
       - digital-art-club/.keep
