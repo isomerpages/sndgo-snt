@@ -3,7 +3,7 @@ title: Staying active with the ActiveSG App
 permalink: /seniors/good-to-have-lifestyle-apps/activesg
 third_nav_title: Good To Have Lifestyle Apps
 ---
-**Date**: 14 July  
+**Date**: 14 July, Wednesday  
 **Time**:  3pm - 4pm   
 **Conducted by**: SportSG
 
