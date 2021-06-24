@@ -25,7 +25,7 @@ sections:
       description: Parents can sign their children up for the TECH@PLAY or FUN WITH
         TECH interactive workshop series to learn skills such as coding and AI.
       button: Find out more
-      url: https://sndgo-snt-staging.netlify.app/kids/junior-developer
+      url: https://together.smartnation.gov.sg/kids-and-young-parents/overview
       alt: Image alt text
       image: /images/cyyp.png
   - infopic:
