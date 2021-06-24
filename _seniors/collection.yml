@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - good-to-have-lifestyle-apps/.keep
+      - good-to-have-lifestyle-apps/staying-active-with-the-activesg-app.md
       - time-of-your-life/.keep
       - time-of-your-life/introduction-to-cloud-computing.md
       - time-of-your-life/introduction-to-blockchain-and-cryptocurrency.md
