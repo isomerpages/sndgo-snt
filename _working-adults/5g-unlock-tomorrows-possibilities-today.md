@@ -2,6 +2,7 @@
 title: "5G: Unlock tomorrow's possibilities today"
 permalink: /working-adults/5g
 ---
+
 **Date:** 22 July, Thursday  
 **Time:** 12pm - 1.15pm  
 **Conducted by:** National University of Singapore  
