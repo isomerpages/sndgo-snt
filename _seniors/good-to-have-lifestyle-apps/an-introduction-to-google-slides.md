@@ -3,7 +3,7 @@ title: An Introduction to Google Slides
 permalink: /seniors/good-to-have-lifestyle-apps/googleslides
 third_nav_title: Good To Have Lifestyle Apps
 ---
-**Date**: 28 July  
+**Date**: 28 July, Wednesday  
 **Time**:  3pm - 4pm   
 **Conducted by**: Cognizant
 
