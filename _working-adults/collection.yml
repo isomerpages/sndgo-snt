@@ -2,6 +2,7 @@ collections:
   working-adults:
     output: true
     order:
+      - monthly-calendar-july.md
       - launching-a-career-in-e-commerce.md
       - cybersecurity-and-data-privacy.md
       - 5g-unlock-tomorrows-possibilities-today.md
@@ -11,4 +12,3 @@ collections:
       - 101-guide/digital-technologies-in-banking-and-finance.md
       - deep-dive-certifiable-courses/.keep
       - deep-dive-certifiable-courses/professional-certificate-in-artificial-intelligence-for-non-ai-scientists.md
-      - monthly-calendar-july.md
