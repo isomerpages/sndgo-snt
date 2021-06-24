@@ -16,4 +16,4 @@ Young learners will:
 - Introduce and better understand coding concepts such as “turn” using degrees, “step” backwards, etc
 - Attempt to complete and solve  challenges 0-15 (up to 30 challenges)
 
-[Register now](https://www.eventbrite.sg/e/smart-nation-collaboration-icancode-roblox-coding-workshop-tickets-108095755314)
+[Register now](https://steemskids.com/smartnation-registration/)
