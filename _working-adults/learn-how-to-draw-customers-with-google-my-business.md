@@ -1,7 +1,8 @@
 ---
-title: Learn how to draw customers with Google my business
+title: Learn how to draw customers with Google My Business
 permalink: /working-adults/google-my-business
 ---
+
 **Date:** 26 July 2021, Monday  
 **Time:** 3.30pm - 4.30pm  
 **Conducted by:** Kirby Poh  
