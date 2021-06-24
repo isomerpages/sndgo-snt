@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - monthly-calendar-july/.keep
-      - monthly-calendar-july.md
       - launching-a-career-in-e-commerce.md
       - cybersecurity-and-data-privacy.md
       - 5g-unlock-tomorrows-possibilities-today.md
