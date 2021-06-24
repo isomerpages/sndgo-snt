@@ -2,7 +2,6 @@ collections:
   working-adults:
     output: true
     order:
-      - monthly-calendar-july/.keep
       - 101-guide/.keep
       - 101-guide/digital-technologies-in-banking-and-finance.md
       - deep-dive-certifiable-courses/.keep
