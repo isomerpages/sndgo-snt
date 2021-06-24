@@ -2,9 +2,9 @@
 title: "5G: Unlock tomorrow's possibilities today"
 permalink: /working-adults/5g
 ---
-**Date:** 30 June 2021, Wednesday  
-**Time:** 12pm - 1pm  
-**Conducted by:** Cognizant  
+**Date:** 22 July, Thursday  
+**Time:** 12pm - 1.15pm  
+**Conducted by:** National University of Singapore  
 
 Join the National University of Singapore, Singapore Polytechnic and Tech Talent Assembly to learn about Singapore’s journey into 5G and Artificial Intelligence of Things (AIoT) applications.
 
