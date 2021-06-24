@@ -3,7 +3,7 @@ title: Coding Adventure (CodeMonkey)
 permalink: /kids-and-young-parents/fun-with-tech/coding
 third_nav_title: Fun With Tech
 ---
-**Date:** 10 July, Saturday
+**Date:** 10 July, Saturday  
 **Time:** 10am - 11am   
 **Conducted by:** MangoSTEEMS
 
