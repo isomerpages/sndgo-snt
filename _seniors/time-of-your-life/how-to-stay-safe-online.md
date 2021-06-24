@@ -3,7 +3,7 @@ title: How to Stay Safe Online
 permalink: /seniors/time-of-your-life/howtostaysafeonline
 third_nav_title: Time Of Your Life
 ---
-**Date**: 28 July 2021, Wednesday  
+**Date**: 28 July, Wednesday  
 **Time**: 3pm - 4pm  
 **Conducted by**: NLB
 
