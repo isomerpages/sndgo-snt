@@ -3,7 +3,7 @@ title: How To Navigate Using Google Maps
 permalink: /seniors/good-to-have-lifestyle-apps/googlemaps
 third_nav_title: Good To Have Lifestyle Apps
 ---
-**Date**: 21 July  
+**Date**: 21 July, Wednesday  
 **Time**:  3pm - 4pm   
 **Conducted by**: Cognizant
 
