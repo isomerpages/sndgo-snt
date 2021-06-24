@@ -2,9 +2,9 @@ collections:
   kids-and-young-parents:
     output: true
     order:
+      - overview.md
       - fun-with-tech/.keep
       - fun-with-tech/coding-adventure-codemonkey.md
       - fun-with-tech/roblox-coding-workshop.md
       - digital-art-club/.keep
       - digital-art-club/make-mobile-digital-art.md
-      - overview.md
