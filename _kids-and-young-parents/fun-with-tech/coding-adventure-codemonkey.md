@@ -3,7 +3,7 @@ title: Coding Adventure (CodeMonkey)
 permalink: /kids-and-young-parents/fun-with-tech/coding
 third_nav_title: Fun With Tech
 ---
-**Date:** 10 July, Saturday
+**Date:** 10 July, Saturday  
 **Time:** 10am - 11am   
 **Conducted by:** MangoSTEEMS
 
@@ -16,4 +16,4 @@ Young learners will:
 - Introduce and better understand coding concepts such as “turn” using degrees, “step” backwards, etc
 - Attempt to complete and solve  challenges 0-15 (up to 30 challenges)
 
-[Register now](hhttps://steemskids.com/smartnation-registration/)
+[Register now](https://steemskids.com/smartnation-registration/)
