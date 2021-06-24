@@ -34,7 +34,7 @@ sections:
         experts discuss the latest tech policies in  our ‘Smart Nation: In
         Conversation’ series."
       button: Find out more
-      url: https://sndgo-snt-staging.netlify.app/working-adults/banking-finance
+      url: https://together.smartnation.gov.sg/working-adults/overview
       alt: Image alt text
       image: /images/wa.png
   - infopic:
@@ -43,7 +43,7 @@ sections:
         lives with your peers in our My Smart Ahma Top Picks and Live Smart
         series.
       button: Find out more
-      url: https://sndgo-snt-staging.netlify.app/seniors/grab
+      url: https://together.smartnation.gov.sg/seniors/overview
       alt: Image alt text
       image: /images/s.png
 ---
