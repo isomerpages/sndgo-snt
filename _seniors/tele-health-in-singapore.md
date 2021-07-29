@@ -2,7 +2,7 @@
 title: Tele-health in Singapore
 permalink: /seniors/telehealth
 ---
-**Date**: 15 Sept, Wednesday  
+**Date**: 15 Sept, Wednesday (Subject to changes)  
 **Time**: 3pm - 4pm  
 **Conducted by**: IHiS
 
