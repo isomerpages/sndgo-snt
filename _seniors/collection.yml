@@ -2,7 +2,7 @@ collections:
   seniors:
     output: true
     order:
-      - monthly-calendar-july.md
+      - monthly-calendar.md
       - good-to-have-lifestyle-apps/.keep
       - good-to-have-lifestyle-apps/staying-active-with-the-activesg-app.md
       - good-to-have-lifestyle-apps/how-to-navigate-using-google-maps.md
