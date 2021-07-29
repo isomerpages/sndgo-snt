@@ -2,5 +2,6 @@
 title: Monthly calendar
 permalink: /seniors/overview
 ---
+#SmartNationTogether will be back with a new season of webinars on digital and tech in September 2021. 
 
-![Alt text for image on Isomer site](/images/Seniors%20-%20Jul.png)
+Stay tuned!
