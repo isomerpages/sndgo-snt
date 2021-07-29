@@ -2,7 +2,8 @@
 title: Augmented Reality in Social Media
 permalink: /working-adults/ar-in-sm
 ---
+Date: 23 Sept, Thursday   
+Time: 12pm - 2pm  
+Conducted by: MAGES
 
-Our new season of #SmartNationTogether will begin in September 2021! 
-
-Stay tuned!
+Stay-tuned for the registration information.
