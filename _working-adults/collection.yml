@@ -2,9 +2,9 @@ collections:
   working-adults:
     output: true
     order:
+      - monthly-calendar.md
       - monthly-calendar-july.md
       - augmented-reality-in-social-media.md
       - launching-a-career-in-health-tech.md
       - deep-dive-certifiable-courses/.keep
       - deep-dive-certifiable-courses/professional-certificate-in-artificial-intelligence-for-non-ai-scientists.md
-      - monthly-calendar.md
