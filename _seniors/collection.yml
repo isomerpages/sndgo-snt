@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - monthly-calendar.md
-      - digital-pods-series.md
-      - enuggets-series.md
       - tele-health-in-singapore.md
       - using-the-telegram-app.md
+      - digital-pods-series.md
+      - enuggets-series.md
