@@ -2,6 +2,6 @@
 title: Monthly calendar (July)
 permalink: /kids-and-young-parents/overview
 ---
+#SmartNationTogether will be back with a new season of webinars on digital and tech in September 2021. 
 
-
-![Alt text for image on Isomer site](/images/CYYP%20-%20Jul.png)
+Stay tuned!
