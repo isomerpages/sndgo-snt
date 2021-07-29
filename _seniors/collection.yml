@@ -3,7 +3,5 @@ collections:
     output: true
     order:
       - monthly-calendar.md
-      - time-of-your-life/.keep
-      - time-of-your-life/how-to-stay-safe-online.md
       - digital-pods-series.md
       - enuggets-series.md
