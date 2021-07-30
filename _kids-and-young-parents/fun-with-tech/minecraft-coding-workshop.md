@@ -20,6 +20,6 @@ MakeCode, as well as sequencing, loops and
 conditionals
 
 
-Suitable for ages 9 and above.. 
+Suitable for ages 9 and above.
 
 [Sign up here!](https://www.eventbrite.sg/e/in-support-of-smartnationtogether-icancode-minecraft-coding-workshop-tickets-163807908865/)
