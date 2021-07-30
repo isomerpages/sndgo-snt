@@ -14,4 +14,6 @@ Young learners will:
 - Introduce and better understand coding concepts such as “turn” using degrees, “step” backwards, etc
 - Attempt to complete and solve  challenges 0-15 (up to 30 challenges)
 
+Suitable for ages 8 to 12. 
+
 [Sign up here!](https://steemskids.com/smartnation-registration/)
