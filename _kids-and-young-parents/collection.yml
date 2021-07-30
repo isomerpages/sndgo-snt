@@ -4,7 +4,7 @@ collections:
     order:
       - monthly-calendar.md
       - fun-with-tech/.keep
+      - fun-with-tech/minecraft-coding-workshop.md
       - fun-with-tech/coding-adventure.md
       - fun-with-tech/microbit-computing-workshop.md
       - fun-with-tech/masked-warrior-galore-with-teachable-machine.md
-      - fun-with-tech/minecraft-coding-workshop.md
