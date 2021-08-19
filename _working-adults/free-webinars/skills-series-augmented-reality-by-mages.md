@@ -7,9 +7,3 @@ What is augmented reality (AR)? Learn more about this emerging technology and ho
 
 
 ![Alt text for image on Isomer site](/images/MAGES%20Overall.png)
-
-![Alt text for image on Isomer site](/images/MAGES%201.png)
-
-![Alt text for image on Isomer site](/images/MAGES%202.png)
-
-![Alt text for image on Isomer site](/images/MAGES%203.png)
