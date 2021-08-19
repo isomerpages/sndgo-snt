@@ -6,7 +6,7 @@ third_nav_title: Free Webinars
 What is augmented reality (AR)? Learn more about this emerging technology and how you can use it in your field of work or in your business operations.
 
 
-
+![Alt text for image on Isomer site](/images/MAGES%20Overall.png)
 
 ![Alt text for image on Isomer site](/images/MAGES%201.png)
 
