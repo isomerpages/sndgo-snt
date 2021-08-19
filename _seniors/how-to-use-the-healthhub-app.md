@@ -2,11 +2,6 @@
 title: How to Use the HealthHub App
 permalink: /seniors/healthhub
 ---
-| 101 guide 1 | deep dive 2 | deep dive 3 |
-| -------- | -------- | -------- |
-| sign up link     | sign up link     | sign up link     |
-|![Alt text for image on Isomer site](/images/CYYP%20-%20Jul.png)     |![Alt text for image on Isomer site](/images/CYYP%20-%20Jul.png)     | ![Alt text for image on Isomer site](/images/CYYP%20-%20Jul.png)  |
-
 **Date:** 8 September, Wednesday
 <br> **Time:** 3pm - 11.30am
 <br> **Conducted by:** IHiS
