@@ -2,8 +2,8 @@
 title: Using the Telegram App
 permalink: /seniors/telegram
 ---
-**Date**: 22 Sept, Wednesday  
-**Time**: 3pm - 4pm  
-**Conducted by**: SNA
+![Alt text for image on Isomer site](/images/seniors%20telegram.jpeg)
 
-Stay-tuned for the registration information.
+
+[**Sign up here**](https://zoom.us/webinar/register/7716285703431/WN_1b-G8lFqQWqafuKp5ufkwQ)
+
