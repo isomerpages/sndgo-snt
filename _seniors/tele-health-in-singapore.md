@@ -2,8 +2,18 @@
 title: Tele-health in Singapore
 permalink: /seniors/telehealth
 ---
-**Date**: 15 Sept, Wednesday (Subject to changes)  
-**Time**: 3pm - 4pm  
-**Conducted by**: IHiS
+**Supported by IHiS**
 
-Stay-tuned for the registration information.
+![Alt text for image on Isomer site](/images/seniors%20healthhub.jpeg)
+
+[**Sign up here**](https://zoom.us/webinar/register/8816290935775/WN_r6Jgq_fOSN2_lkBnPx5umA)
+
+
+Description: Manage your medical appointments & health records with greater convenience on HealthHub. HealthHub is Singapore’s one stop hub offering a suite of digital health services and personalised health content to empower individuals and families to better care for their health. During the webinar, you will learn to:
+
+· Make or reschedule your polyclinic medical appointments
+	
+· Register for your queue number ahead of your appointment at polyclinics and specialty outpatient clinics at public hospitals, even when you are at home
+
+	
+· Access your personal health record (including COVID-19 vaccination records and test results)
