@@ -4,7 +4,7 @@ collections:
     order:
       - free-webinars/.keep
       - free-webinars/monthly-calendar.md
-      - free-webinars/all-about-augmented-reality.md
+      - free-webinars/skills-series-ar-all-about-augmented-reality.md
       - free-webinars/experience-augmented-reality.md
       - free-webinars/augmented-reality-in-social-media.md
       - past-webinars/.keep
