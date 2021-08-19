@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - free-webinars/.keep
+      - free-webinars/monthly-calendar.md
       - free-webinars/all-about-augmented-reality.md
       - free-webinars/experience-augmented-reality.md
-      - free-webinars/monthly-calendar.md
       - monthly-calendar-july.md
       - deep-dive-certifiable-courses/.keep
       - deep-dive-certifiable-courses/professional-certificate-in-artificial-intelligence-for-non-ai-scientists.md
