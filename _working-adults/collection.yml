@@ -2,10 +2,10 @@ collections:
   working-adults:
     output: true
     order:
-      - past-webinars/.keep
       - free-webinars/.keep
       - free-webinars/all-about-augmented-reality.md
       - free-webinars/experience-augmented-reality.md
-      - monthly-calendar-july.md
+      - past-webinars/.keep
       - paid-courses/.keep
       - paid-courses/professional-certificate-in-artificial-intelligence-for-non-ai-scientists.md
+      - monthly-calendar-july.md
