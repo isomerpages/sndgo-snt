@@ -34,7 +34,7 @@ sections:
         experts discuss the latest tech policies in  our ‘Smart Nation: In
         Conversation’ series."
       button: Find out more
-      url: https://together.smartnation.gov.sg/working-adults/overview
+      url: https://together.smartnation.gov.sg/free-webinars/working-adults/overview
       alt: Image alt text
       image: /images/wa.png
   - infopic:

@@ -2,9 +2,15 @@ collections:
   working-adults:
     output: true
     order:
-      - monthly-calendar.md
+      - free-webinars/.keep
+      - free-webinars/monthly-calendar.md
+      - free-webinars/skills-series-augmented-reality-by-mages.md
+      - free-webinars/skills-series-health-tech-by-ihis.md
+      - free-webinars/skills-series-health-tech-by-amp-lab.md
+      - free-webinars/skills-series-cloud-computing-by-oracle.md
+      - free-webinars/5g-technology-application-and-impact-across-industries.md
+      - past-webinars/.keep
+      - past-webinars/smart-nation-and-u-2021.md
+      - paid-courses/.keep
+      - paid-courses/professional-certificate-in-artificial-intelligence-for-non-ai-scientists.md
       - monthly-calendar-july.md
-      - augmented-reality-in-social-media.md
-      - launching-a-career-in-health-tech.md
-      - deep-dive-certifiable-courses/.keep
-      - deep-dive-certifiable-courses/professional-certificate-in-artificial-intelligence-for-non-ai-scientists.md

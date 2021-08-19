@@ -4,8 +4,6 @@ collections:
     order:
       - monthly-calendar.md
       - fun-with-tech/.keep
-      - fun-with-tech/augmented-reality-2-player-ping-pong-with-scratch.md
-      - fun-with-tech/national-day-animation-with-scratchjr.md
       - fun-with-tech/minecraft-coding-workshop.md
       - fun-with-tech/coding-adventure.md
       - fun-with-tech/microbit-computing-workshop.md

@@ -1,8 +1,9 @@
 ---
 title: Professional Certificate in Artificial Intelligence <br>for Non-AI Scientists
 permalink: /working-adults/deep-dive/nus-ai
-third_nav_title: Deep Dive Certifiable Courses
+third_nav_title: Paid Courses
 ---
+
 **TRAINING PROVIDER**\
 [National University of Singapore, School of Continuing and Lifelong Education](https://scale.nus.edu.sg/programmes/executive-courses)
 
