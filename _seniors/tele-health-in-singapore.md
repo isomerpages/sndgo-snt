@@ -1,7 +1,8 @@
 ---
 title: Tele-health in Singapore
-permalink: /seniors/telehealth
+permalink: /seniors/healthhub
 ---
+
 | 101 guide 1 | deep dive 2 | deep dive 3 |
 | -------- | -------- | -------- |
 | sign up link     | sign up link     | sign up link     |
