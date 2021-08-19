@@ -3,7 +3,7 @@ title: "Skills series: Cloud computing by Oracle"
 permalink: /working-adults/free-webinars/cloud
 third_nav_title: Free Webinars
 ---
-| Using AI & ML AS A cloud engineer   | 
+| Using AI & ML as a cloud engineer   | 
 | -------- |
 | 13 Sept, Tue |
 | 12pm - 1pm | 
