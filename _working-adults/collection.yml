@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - free-webinars/.keep
-      - free-webinars/monthly-calendar.md
       - free-webinars/all-about-augmented-reality.md
       - free-webinars/experience-augmented-reality.md
       - monthly-calendar-july.md
