@@ -2,8 +2,6 @@
 title: How to Use the HealthHub App
 permalink: /seniors/healthhub
 ---
-
-
 | 101 guide 1 | deep dive 2 | deep dive 3 |
 | -------- | -------- | -------- |
 | sign up link     | sign up link     | sign up link     |
@@ -23,3 +21,4 @@ Manage your medical appointments &amp; health records with greater convenience o
 
 [**Sign up here**](https://zoom.us/webinar/register/8816290935775/WN_r6Jgq_fOSN2_lkBnPx5umA)
 
+![Alt text for image on Isomer site](/images/seniors%20healthhub.jpeg)
