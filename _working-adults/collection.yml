@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - free-webinars/.keep
+      - free-webinars/monthly-calendar.md
       - free-webinars/all-about-augmented-reality.md
       - free-webinars/experience-augmented-reality.md
-      - free-webinars/monthly-calendar.md
       - past-webinars/.keep
       - past-webinars/launching-a-career-in-e-commerce.md
       - paid-courses/.keep
