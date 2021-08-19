@@ -9,3 +9,5 @@ Telegram is an online messaging app that works similarly to other popular messag
 
 
 [**Sign up here**](https://zoom.us/webinar/register/7716285703431/WN_1b-G8lFqQWqafuKp5ufkwQ)
+
+![Alt text for image on Isomer site](/images/telegram%20seniors.jpeg)
