@@ -3,7 +3,7 @@ title: How to Use the HealthHub App
 permalink: /seniors/healthhub
 ---
 **Date:** 8 September, Wednesday
-<br> **Time:** 3pm - 11.30am
+<br> **Time:** 3pm - 4pm
 <br> **Conducted by:** IHiS
 
 Manage your medical appointments &amp; health records with greater convenience on HealthHub. HealthHub is Singapore’s one stop hub offering a suite of digital health services and personalised health content to empower individuals and families to better care for their health. During the webinar, you will learn to:
@@ -16,4 +16,4 @@ Manage your medical appointments &amp; health records with greater convenience o
 
 [**Sign up here**](https://zoom.us/webinar/register/8816290935775/WN_r6Jgq_fOSN2_lkBnPx5umA)
 
-![Alt text for image on Isomer site](/images/seniors%20healthhub.jpeg)
+![Alt text for image on Isomer site](/images/healthhub.jpg)
