@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - monthly-calendar.md
-      - how-to-use-the-healthhub-app.md
       - how-to-use-the-telegram-app.md
       - digital-pods-series.md
       - introduction-to-token-vending-machine.md
