@@ -12,4 +12,6 @@ Learn how to think through and apply the skills needed for coding while building
 [Sign up here for the 10 Oct and 23 Oct sessions!](https://www.graphiteacademy.com/smartnationsg)
 
 
+![Alt text for image on Isomer site](/images/10-oct-kids.jpeg)
 
+![Alt text for image on Isomer site](/images/23-oct-kids.jpeg)
