@@ -9,5 +9,5 @@ third_nav_title: Fun With Tech
 
 Learn how to think through and apply the skills needed for coding while building classic games using MakeCode Arcade.
 
-[Sign up here!](https://www.graphiteacademy.com/smartnationsg)
+[Sign up here for the 10 Oct and 23 Oct sessions!](https://www.graphiteacademy.com/smartnationsg)
 
