@@ -3,3 +3,11 @@ title: Classic Games with MakeCode Arcade
 permalink: /kids-and-young-parents/fun-with-tech/makecode
 third_nav_title: Fun With Tech
 ---
+**Date**: 23 October, Saturday<br>
+**Time**: 10am - 11.30am  
+**Conducted by**: Graphite Academy  
+
+Learn how to think through and apply the skills needed for coding while building classic games using MakeCode Arcade.
+
+[Sign up here!](https://www.graphiteacademy.com/smartnationsg)
+
