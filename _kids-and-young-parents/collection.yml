@@ -4,6 +4,5 @@ collections:
     order:
       - monthly-calendar.md
       - fun-with-tech/.keep
-      - fun-with-tech/coding-adventure.md
       - fun-with-tech/first-line-of-code.md
       - fun-with-tech/classic-games-with-makecode-arcade.md
