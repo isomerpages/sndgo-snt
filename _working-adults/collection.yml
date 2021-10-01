@@ -4,12 +4,10 @@ collections:
     order:
       - free-webinars/.keep
       - free-webinars/monthly-calendar.md
-      - free-webinars/skills-series-augmented-reality-by-mages.md
-      - free-webinars/skills-series-health-tech-by-amp-lab.md
-      - free-webinars/skills-series-health-tech-by-ihis.md
-      - free-webinars/5g-technology-application-and-impact-across-industries.md
-      - free-webinars/sggeofest.md
-      - free-webinars/regional-geospatial-youth-forum-2021-geoyouth.md
+      - free-webinars/building-a-career-in-todays-tech-industry.md
+      - free-webinars/introduction-to-user-experience-design.md
+      - free-webinars/introduction-to-data-science.md
+      - free-webinars/data-centre-virtualisation-and-cloud-an-introduction.md
       - past-webinars/.keep
       - past-webinars/smart-nation-and-u-2021.md
       - past-webinars/skillsfuture-month-x-smart-nation-2021.md
