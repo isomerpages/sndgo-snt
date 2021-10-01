@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - monthly-calendar.md
-      - how-to-use-the-telegram-app.md
       - how-to-use-zoom.md
       - connect-with-family-and-friends-on-facebook.md
       - create-unique-designs-with-canva.md
