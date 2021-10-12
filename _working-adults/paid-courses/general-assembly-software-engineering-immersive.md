@@ -4,12 +4,13 @@ permalink: /working-adults/paid-courses/ga-software-eng
 third_nav_title: Paid Courses
 ---
 ![Alt text for image on Isomer site](/images/GA-SEI.jpeg)
+
 **Study Mode:** On Campus / Online  
 **Duration:** 12 Weeks Full Time or 6 Month Part Time  
 **Course Rundown:**
 Your best course for career transformation in tech. This full-time coding bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.  
 
-**What you’ll learn:**
+#### **WHAT YOU'LL LEARN**
 
 **Made With — and for — Top Employers**  
 Developed with guidance from our software engineering advisory board, our curriculum is primed for industry relevance. Learn the core skills to build full-stack web applications on the job: computer science fundamentals, collaboration tools, and the programming languages modern employers demand.
@@ -20,14 +21,14 @@ Hone fluency in multiple frameworks and stacks. Apply essential object-oriented 
 **Go Beyond “Full-Stack Development”**
 Discover how to effectively communicate and collaborate with web development teams to carry out projects from concept to completion. Practise version control with Git and GitHub while executing software engineering projects in an Agile development workflow.
  
-**WHAT’S COVERED**  
+#### **WHAT’S COVERED**  
 
 **Pre-Work:** Software Engineering Fundamentals Unit 1: Front-End Development  
 **Unit 2:** Full-Stack Development  
 **Unit 3:** Front-End Frameworks  
 **Unit 4:** APIs and Full-Stack Development 
 
-**Where will it lead me?**    
+#### **WHERE WILL IT LEAD ME?**    
 
 **From Full-Time Student to Full-Time Employment**  
 
@@ -41,7 +42,7 @@ Developed by industry experts and tailored to meet the demanding needs at top em
 
 Thousands of companies have hired GA graduates. Our career coaches work one-on-one with students and graduates to ensure they have tools and strategies to secure a successful outcome in their job search.  
 
-**Here’s how we prepare students. **
+#### **HERE'S HOW WE PREPARE STUDENTS  **  
 
 * A Dedicated Career Coach. This accountability partner helps keep your professional goals and job search on track, before and after graduation.
 * Job-Search Prep. Delve into career development workshops in resume writing, networking, and more. Receive in-depth interview training, negotiation tactics, self-branding advice, and job search check-ins with your coach.
@@ -56,4 +57,3 @@ Founded in New York City, General Assembly is creating a global community of ind
 
 Find work that matters
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/60ppnDlFgtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
