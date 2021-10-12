@@ -20,7 +20,7 @@ Developed with guidance from our User Experience Design Standards Board — a gr
 **Gain a Well-Rounded Design Foundation**  
 Get hands-on experience applying essential tactics like wireframing, prototyping, user research, and usability testing. Dive deep into visual and user interface design, and touch on hot topics like service design and design leadership.
 
-**Go Beyond Technical Fluency”**  
+**Go Beyond Technical Fluency**  
 Our holistic programme prepares you to work cross-functionally with business stakeholders, product managers, and web development teams. Practise UX/UI handoffs, team presentations, design critique, and other techniques for collaborating on the job.
  
 #### **WHAT’S COVERED**  
