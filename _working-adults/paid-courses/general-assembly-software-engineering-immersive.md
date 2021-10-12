@@ -43,7 +43,7 @@ Developed by industry experts and tailored to meet the demanding needs at top em
 
 Thousands of companies have hired GA graduates. Our career coaches work one-on-one with students and graduates to ensure they have tools and strategies to secure a successful outcome in their job search.  
 
-#### **HERE'S HOW WE PREPARE STUDENTS  **  
+#### **HERE'S HOW WE PREPARE STUDENTS**  
 
 * A Dedicated Career Coach. This accountability partner helps keep your professional goals and job search on track, before and after graduation.
 * Job-Search Prep. Delve into career development workshops in resume writing, networking, and more. Receive in-depth interview training, negotiation tactics, self-branding advice, and job search check-ins with your coach.
