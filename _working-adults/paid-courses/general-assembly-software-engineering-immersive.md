@@ -57,3 +57,5 @@ Since 2011, General Assembly has transformed tens of thousands of careers throug
 2. A global, professional community of 40,000-plus full- and part-time alumni.
 3. Career results from leading-edge courses, with mentorship each step of the way.
 Founded in New York City, General Assembly is creating a global community of individuals empowered to pursue work they love, by offering short-from upskilling programs through to 12 week immersive programs designed to help you land a role in the tech industry.
+
+Find out more about General Assembly [here](https://generalassemb.ly/)!
