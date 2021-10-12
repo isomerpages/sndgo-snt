@@ -3,7 +3,7 @@ title: "General Assembly: Software engineering immersive"
 permalink: /working-adults/paid-courses/ga-software-eng
 third_nav_title: Paid Courses
 ---
-![Alt text for image on Isomer site](/images/GA-SEI.jpeg)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/60ppnDlFgtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Study Mode:** On Campus / Online  
 **Duration:** 12 Weeks Full Time or 6 Month Part Time  
@@ -57,6 +57,3 @@ Since 2011, General Assembly has transformed tens of thousands of careers throug
 2. A global, professional community of 40,000-plus full- and part-time alumni.
 3. Career results from leading-edge courses, with mentorship each step of the way.
 Founded in New York City, General Assembly is creating a global community of individuals empowered to pursue work they love, by offering short-from upskilling programs through to 12 week immersive programs designed to help you land a role in the tech industry.
-
-Find work that matters
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/60ppnDlFgtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
