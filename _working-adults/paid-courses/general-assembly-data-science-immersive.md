@@ -8,7 +8,7 @@ third_nav_title: Paid Courses
 **Study Mode:** On Campus / Online  
 **Duration:** 12 Weeks Full Time or 6 Month Part Time  
 **Course Rundown:**
-Your best course for career transformation. This full-time data science bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.
+Your best course for career transformation. This full-time data science bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.  
 **Sign up here:** [Data Science Immersive application](https://generalassemb.ly/education/data-science-immersive/singapore) 
 
 #### **WHAT YOU'LL LEARN**
