@@ -6,4 +6,3 @@ permalink: /working-adults/partnership
 
 <!-- Change the width and height values to suit you best -->
 <iframe id="iframe" src="https://form.gov.sg/612c8e6ba339b00013be297c" style="width:100%;height:8000px"></iframe>
-
