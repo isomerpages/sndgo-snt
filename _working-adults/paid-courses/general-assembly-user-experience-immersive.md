@@ -8,32 +8,34 @@ third_nav_title: Paid Courses
 **Study Mode:** On Campus / Online  
 **Duration:** 12 Weeks Full Time or 6 Month Part Time  
 **Course Rundown:**
-Your best course for career transformation in tech. This full-time coding bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.  
-**Sign up here:** [Software Engineering Immersive application](https://generalassemb.ly/applications/new/software-engineering-immersive?where=singapore) 
+Your best course for career transformation in design. This full-time UX bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.  
+**Sign up here:** [Software Engineering Immersive application](https://generalassemb.ly/education/user-experience-design-immersive/singapore) 
 
 #### **WHAT YOU'LL LEARN**
 
 **Made With — and for — Top Employers**  
-Developed with guidance from our software engineering advisory board, our curriculum is primed for industry relevance. Learn the core skills to build full-stack web applications on the job: computer science fundamentals, collaboration tools, and the programming languages modern employers demand.
+Developed with guidance from our User Experience Design Standards Board — a group of executives from companies like Tigerspike and WarnerMedia — our upgraded UX bootcamp curriculum is primed for industry relevance.
 
-**Gain a Well-Rounded Technical Foundation**
-Hone fluency in multiple frameworks and stacks. Apply essential object-oriented programming concepts, and leverage JavaScript libraries like React. Incorporate functionality from third-party APIs and add complexity and nuance with Python, Django, and more.  
+**Gain a Well-Rounded Design Foundation**  
+Get hands-on experience applying essential tactics like wireframing, prototyping, user research, and usability testing. Dive deep into visual and user interface design, and touch on hot topics like service design and design leadership.
 
-**Go Beyond “Full-Stack Development”**
-Discover how to effectively communicate and collaborate with web development teams to carry out projects from concept to completion. Practise version control with Git and GitHub while executing software engineering projects in an Agile development workflow.
+**Go Beyond Technical Fluency”**  
+Our holistic programme prepares you to work cross-functionally with business stakeholders, product managers, and web development teams. Practise UX/UI handoffs, team presentations, design critique, and other techniques for collaborating on the job.
  
 #### **WHAT’S COVERED**  
 
-**Pre-Work:** Software Engineering Fundamentals Unit 1: Front-End Development  
-**Unit 2:** Full-Stack Development  
-**Unit 3:** Front-End Frameworks  
-**Unit 4:** APIs and Full-Stack Development 
+**Pre-Work:** 12 Hours of Online Tutorials  
+**Unit 1:** Data Science Fundamentals  
+**Unit 2:** Exploratory Data Analysis  
+**Unit 3:** Classical Statistical Modeling  
+**Unit 4:** Machine Learning Models  
+**Unit 5**: Advanced Topics and Trends  
 
 #### **WHERE WILL IT LEAD ME?**    
 
 **From Full-Time Student to Full-Time Employment**  
 
-Land a full-time role as Software Engineer
+Land a full-time role as User Experience Designer
 
 **According to GA's 2019 Outcomes Report, 90.5% of full-time General Assembly graduates who complete our Career Services program got a job in their field of study within 180 days of graduation.**  
 
