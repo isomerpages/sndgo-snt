@@ -7,7 +7,7 @@ third_nav_title: Paid Courses
 
 **Training provider:** [National University of Singapore, School of Continuing and Lifelong Education](https://scale.nus.edu.sg/)  
 **Study Mode:** On Campus / Online  
-**Duration:** Four short courses to be completed within 12 months.  
+**Duration:** Four short courses to be completed within 12 months  
 **Sign up here:** [Professional Certificate In Artificial Intelligence for Non-AI Scientists application](https://scale.nus.edu.sg/programmes/executive-courses/certificates-at-nus/professional-certificates/professional-certificate-in-artificial-intelligence-for-non-ai-scientists)
 
 #### COURSE OBJECTIVES
