@@ -7,7 +7,7 @@ third_nav_title: Paid Courses
 
 **Training provider:** [National University of Singapore, Faculty of Arts and Social Sciences](https://fass.nus.edu.sg/)  
 **Study Mode:** On Campus / Online  
-**Duration:** Five short courses to be completed within 12 months.  
+**Duration:** 3 modules 
 **Indicate your interest here:** [Professional Certificate in Computational Reasoning](https://fass.nus.edu.sg/philo/executive-education/pc-cr/) 
 
 #### COURSE OBJECTIVES
