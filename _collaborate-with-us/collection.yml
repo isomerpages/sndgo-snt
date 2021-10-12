@@ -1,5 +1,0 @@
-collections:
-  collaborate-with-us:
-    output: true
-    order:
-      - collaborate-with-us.md
