@@ -3,6 +3,9 @@ title: "NUS SCALE: Professional Certificate in Data literacy"
 permalink: /working-adults/paid-courses/nus-data-lit
 third_nav_title: Paid Courses
 ---
+![Alt text for image on Isomer site](/images/nus-data-lit.png)
+
+**Training provider:** [National University of Singapore, School of Continuing and Lifelong Education](https://scale.nus.edu.sg/)  
 **Study Mode:** On Campus / Online  
 **Duration:** Five short courses to be completed within 12 months.  
 **Sign up here:** [Professional Certificate in Data Literacy for Non-Data Scientists application](https://scale.nus.edu.sg/programmes/executive-courses/certificates-at-nus/professional-certificates/professional-certificate-in-data-literacy-for-non-data-scientists) 
