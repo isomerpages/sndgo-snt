@@ -9,7 +9,7 @@ third_nav_title: Paid Courses
 **Duration:** 12 Weeks Full Time or 6 Month Part Time  
 **Course Rundown:**
 Your best course for career transformation in tech. This full-time coding bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.  
-**Sign up here:** [Software Engineering Immersive](https://generalassemb.ly/education/software-engineering-immersive/singapore) 
+**Sign up here:** [Software Engineering Immersive](https://generalassemb.ly/applications/new/software-engineering-immersive?where=singapore) 
 
 #### **WHAT YOU'LL LEARN**
 
