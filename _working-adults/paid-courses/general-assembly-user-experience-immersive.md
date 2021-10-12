@@ -5,6 +5,7 @@ third_nav_title: Paid Courses
 ---
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/60ppnDlFgtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Training provider:** [General Assembly](https://generalassemb.ly/)  
 **Study Mode:** On Campus / Online  
 **Duration:** 12 Weeks Full Time or 6 Month Part Time  
 **Course Rundown:**
