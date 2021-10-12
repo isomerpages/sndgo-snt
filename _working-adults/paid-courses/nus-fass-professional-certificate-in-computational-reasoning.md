@@ -5,7 +5,7 @@ third_nav_title: Paid Courses
 ---
 ![Alt text for image on Isomer site](/images/nus-cr.jpg)
 
-**Training provider:** [National University of Singapore, School of Continuing and Lifelong Education](https://scale.nus.edu.sg/)  
+	**Training provider:** [National University of Singapore, Faculty of Arts and Social Sciences](https://fass.nus.edu.sg/)  
 **Study Mode:** On Campus / Online  
 **Duration:** Five short courses to be completed within 12 months.  
 **Indicate your interest here:** [Professional Certificate in Computational Reasoning](https://fass.nus.edu.sg/philo/executive-education/pc-cr/) 
