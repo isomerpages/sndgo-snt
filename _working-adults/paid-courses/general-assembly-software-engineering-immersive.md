@@ -9,6 +9,7 @@ third_nav_title: Paid Courses
 **Duration:** 12 Weeks Full Time or 6 Month Part Time  
 **Course Rundown:**
 Your best course for career transformation in tech. This full-time coding bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.  
+**Sign up here:** [Software Engineering Immersive](https://generalassemb.ly/education/software-engineering-immersive/singapore) 
 
 #### **WHAT YOU'LL LEARN**
 
@@ -48,6 +49,8 @@ Thousands of companies have hired GA graduates. Our career coaches work one-on-o
 * Job-Search Prep. Delve into career development workshops in resume writing, networking, and more. Receive in-depth interview training, negotiation tactics, self-branding advice, and job search check-ins with your coach.
 * Real-World Learning. Get an intimate, inside look at leading companies in the field through case studies from real businesses and insightful talks featuring industry pros.
 * Partner & Networking Opportunities. Connect with GA grads at our alumni community meetups and meet local employers — from hot startups to Fortune 500 companies — at exclusive events and showcases with GA’s hiring partners.
+
+#### **ABOUT GENERAL ASSEMBLY**  
 
 Since 2011, General Assembly has transformed tens of thousands of careers through pioneering, experiential education in today’s most in-demand skills. When you learn web development, data, design, business, and more with GA, you get:
 1. Award-winning curriculum and expert instructors, on campus and online.
