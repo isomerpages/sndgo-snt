@@ -1,8 +1,9 @@
 ---
-title: "NUS SCALE: Professional Certificate in Data literacy"
+title: "NUS SCALE: Professional Certificate in Data Literacy"
 permalink: /working-adults/paid-courses/nus-data-lit
 third_nav_title: Paid Courses
 ---
+
 ![Alt text for image on Isomer site](/images/nus-data-lit.png)
 
 **Training provider:** [National University of Singapore, School of Continuing and Lifelong Education](https://scale.nus.edu.sg/)  
