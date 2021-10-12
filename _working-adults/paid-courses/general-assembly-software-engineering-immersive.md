@@ -1,8 +1,9 @@
 ---
-title: "General Assembly: Software engineering immersive"
+title: "General Assembly: Software Engineering Immersive"
 permalink: /working-adults/paid-courses/ga-software-eng
 third_nav_title: Paid Courses
 ---
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/60ppnDlFgtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Study Mode:** On Campus / Online  
