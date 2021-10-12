@@ -9,7 +9,7 @@ third_nav_title: Paid Courses
 **Duration:** 12 Weeks Full Time or 6 Month Part Time  
 **Course Rundown:**
 Your best course for career transformation in design. This full-time UX bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.  
-**Sign up here:** [Software Engineering Immersive application](https://generalassemb.ly/education/user-experience-design-immersive/singapore) 
+**Sign up here:** [User Experience Immersive application](https://generalassemb.ly/education/user-experience-design-immersive/singapore) 
 
 #### **WHAT YOU'LL LEARN**
 
