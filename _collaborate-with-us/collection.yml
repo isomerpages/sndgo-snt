@@ -1,4 +1,5 @@
 collections:
   collaborate-with-us:
     output: true
-    order: []
+    order:
+      - collaborate-with-us.md
