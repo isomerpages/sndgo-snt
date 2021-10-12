@@ -38,7 +38,7 @@ Tackle five projects, compiling a professional-grade portfolio of compelling sta
 
 Land a full-time role as Data Analyst or Data Scientist  
 
-**According to GA's 2019 Outcomes Report, 90.5% of full-time General Assembly graduates who complete our Career Services program got a job in their field of study within 180 days of graduation.  **
+**According to GA's 2019 Outcomes Report, 90.5% of full-time General Assembly graduates who complete our Career Services program got a job in their field of study within 180 days of graduation.**  
 
 General Assembly’s full-time Immersive programs in web development, user experience (UX) design, and data science are rigorous, career-driven courses designed to propel each student — no matter their experience level at entry — into an exciting new career.  
 
