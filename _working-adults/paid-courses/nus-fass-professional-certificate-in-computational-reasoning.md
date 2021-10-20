@@ -11,7 +11,9 @@ third_nav_title: Paid Courses
 **Indicate your interest here:** [Professional Certificate in Computational Reasoning](https://fass.nus.edu.sg/philo/executive-education/pc-cr/) 
 
 #### COURSE OBJECTIVES
-Through a series of fun and engaging hands-on activities, this Professional Certificate aims to empower individuals who are new to data analysis and coding by equipping the learner with two things: (1) the foundational concepts and skills to carry out basic data analysis on Microsoft Excel and create simple but powerful algorithms to solve complex real-world problems; and (2) the critical reasoning skills essential to using these computational tools effectively and well so that they can critically self-evaluate the way they apply these tools, and thus be able to reason effectively in a variety of contexts. 
+Through a series of fun and engaging hands-on activities, this Professional Certificate aims to empower individuals who are new to data analysis and coding by equipping the learner with two things:  
+(1) the foundational concepts and skills to carry out basic data analysis on Microsoft Excel and create simple but powerful algorithms to solve complex real-world problems; and  
+(2) the critical reasoning skills essential to using these computational tools effectively and well so that they can critically self-evaluate the way they apply these tools, and thus be able to reason effectively in a variety of contexts. 
 
 Learners will learn to identify problems and design solutions, while also developing a critical awareness of the merits and limits of their methods, thereby empowering them to make better-informed decisions and to articulate strong justifications for those decisions.
 
