@@ -2,6 +2,7 @@ collections:
   working-adults:
     output: true
     order:
+      - free-webinars/What is Design Thinking?.md
       - free-webinars/Building brand presence with digital marketing.md
       - "free-webinars/Applied games & VR: Opportunities in an emerging
         market.md"
