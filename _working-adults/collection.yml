@@ -4,7 +4,6 @@ collections:
     order:
       - free-webinars/.keep
       - free-webinars/monthly-calendar.md
-      - free-webinars/building-a-career-in-todays-tech-industry.md
       - free-webinars/introduction-to-user-experience-design.md
       - free-webinars/introduction-to-data-science.md
       - free-webinars/data-centre-virtualisation-and-cloud-an-introduction.md
