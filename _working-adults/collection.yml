@@ -4,13 +4,27 @@ collections:
     order:
       - free-webinars/.keep
       - free-webinars/monthly-calendar.md
-      - free-webinars/building-a-career-in-todays-tech-industry.md
-      - free-webinars/introduction-to-user-experience-design.md
       - free-webinars/introduction-to-data-science.md
-      - free-webinars/data-centre-virtualisation-and-cloud-an-introduction.md
+      - free-webinars/Data analytics or a smart nation.md
+      - "free-webinars/Converging 5G and ARVR or AI:  Enabling your business
+        growth.md"
+      - "free-webinars/Applied games & VR: Opportunities in an emerging
+        market.md"
+      - free-webinars/Building brand presence with digital marketing.md
+      - free-webinars/What is Design Thinking?.md
+      - free-webinars/Introduction to Artificial Intelligence & Machine
+        Learning.md
+      - "free-webinars/Coding: How it’s changing the world.md"
       - past-webinars/.keep
+      - past-webinars/snt.md
       - past-webinars/smart-nation-and-u-2021.md
       - past-webinars/skillsfuture-month-x-smart-nation-2021.md
       - paid-courses/.keep
-      - paid-courses/professional-certificate-in-artificial-intelligence-for-non-ai-scientists.md
+      - paid-courses/general-assembly-data-science-immersive.md
+      - paid-courses/general-assembly-software-engineering-immersive.md
+      - paid-courses/general-assembly-user-experience-immersive.md
+      - paid-courses/nus-fass-professional-certificate-in-computational-reasoning.md
+      - paid-courses/nus-scale-professional-certificate-in-artificial-intelligence.md
+      - paid-courses/nus-scale-professional-certificate-in-data-literacy.md
+      - careers-in-tech.md
       - monthly-calendar-july.md
