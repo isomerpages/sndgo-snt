@@ -4,7 +4,7 @@ permalink: /working-adults/free-webinars/design-thinking
 third_nav_title: Free Webinars
 ---
 **Date:** 15 November, Monday
-<br> **Time:** 12pm - 1.30pm
+<br> **Time:** 12pm - 1pm
 
 Innovators such as Thomas Edison and Steve Jobs have used the principles of design thinking to revolutionise entire industries.
 
