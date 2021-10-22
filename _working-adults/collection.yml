@@ -2,17 +2,17 @@ collections:
   working-adults:
     output: true
     order:
-      - free-webinars/Introduction to Artificial Intelligence & Machine
-        Learning.md
-      - free-webinars/What is Design Thinking?.md
-      - free-webinars/Building brand presence with digital marketing.md
-      - "free-webinars/Applied games & VR: Opportunities in an emerging
-        market.md"
-      - "free-webinars/Coding: How it’s changing the world.md"
-      - free-webinars/Data analytics or a smart nation.md
       - free-webinars/.keep
       - free-webinars/monthly-calendar.md
       - free-webinars/introduction-to-data-science.md
+      - free-webinars/Data analytics or a smart nation.md
+      - "free-webinars/Applied games & VR: Opportunities in an emerging
+        market.md"
+      - free-webinars/Building brand presence with digital marketing.md
+      - free-webinars/What is Design Thinking?.md
+      - free-webinars/Introduction to Artificial Intelligence & Machine
+        Learning.md
+      - "free-webinars/Coding: How it’s changing the world.md"
       - past-webinars/.keep
       - past-webinars/snt.md
       - past-webinars/smart-nation-and-u-2021.md
