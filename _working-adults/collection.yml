@@ -2,6 +2,7 @@ collections:
   working-adults:
     output: true
     order:
+      - "free-webinars/Coding: How it’s changing the world.md"
       - free-webinars/Data analytics or a smart nation.md
       - free-webinars/.keep
       - free-webinars/monthly-calendar.md
