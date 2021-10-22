@@ -2,6 +2,8 @@ collections:
   working-adults:
     output: true
     order:
+      - "free-webinars/Converging 5G and ARVR & AI:  Enabling your business
+        growth.md"
       - free-webinars/.keep
       - free-webinars/monthly-calendar.md
       - free-webinars/introduction-to-data-science.md
