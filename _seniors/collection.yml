@@ -2,6 +2,7 @@ collections:
   seniors:
     output: true
     order:
+      - Staying Safe Online, Love and impersonalisation scams.md
       - monthly-calendar.md
       - past-webinars.md
       - Staying Safe Online, Job scams and Ecommerce scams.md
