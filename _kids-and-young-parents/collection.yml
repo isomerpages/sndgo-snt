@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - monthly-calendar.md
+      - fun-with-tech/Coding for kids with family!.md
       - fun-with-tech/.keep
