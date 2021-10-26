@@ -2,7 +2,7 @@ collections:
   seniors:
     output: true
     order:
-      - Staying Safe Online Job scams and ecommerce scams.md
+      - Job scams and ecommerce scams.md
       - monthly-calendar.md
       - past-webinars.md
       - create-unique-designs-with-canva.md
