@@ -19,4 +19,4 @@ This professional certificate will address both theoretical and practical aspect
 For those with some IT knowledge and business leaders who would like to understand the impact of artificial intelligence on the operational performance of businesses, and how best to apply artificial intelligence to meet business challenges.
 
 #### AWARD OF PROFESSIONAL CERTIFICATE
-Upon fulfilling the requirements of the short courses listed, submit your individual course certificates to soc-[ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg) to request for your NUS Professional Certificate in Artificial Intelligence for Non-AI Scientists.
+Upon fulfilling the requirements of the short courses listed, submit your individual course certificates to [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg) to request for your NUS Professional Certificate in Artificial Intelligence for Non-AI Scientists.
