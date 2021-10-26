@@ -3,8 +3,8 @@ title: Coding for kids with family!
 permalink: /kids-and-young-parents/fun-with-tech/coding
 third_nav_title: Fun With Tech
 ---
-**Date:** 25 October, Monday
-<br> **Time:** 12pm - 1.30pm
+**Date:** 13 November
+<br> **Time:** 10am - 11am
 
 At this workshop, children and parents get to create, customise and play a digital defence themed game! 
 
@@ -17,3 +17,4 @@ While raising awareness on digital defence among our young ones, they will also 
 
 [**Sign up here!**](https://codeninja.punchpass.com/classes/9380188)
 
+![Alt text for image on Isomer site](/images/kids-nov211.png)
