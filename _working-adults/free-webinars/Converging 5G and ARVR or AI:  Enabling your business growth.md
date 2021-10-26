@@ -5,9 +5,9 @@ third_nav_title: Free Webinars
 ---
 ![Alt text for image on Isomer site](/images/imda-nov21.png)
 
-**Target Audience:** End users (e.g. corporates in manufacturing, logistics etc), tech/software developers
-**Date:** 5 Nov, 2.30pm – 3.45pm
-**Platform:** Zoom
+**Target Audience:** End users (e.g. corporates in manufacturing, logistics etc), tech/software developers  
+**Date:** 5 Nov, 2.30pm – 3.45pm  
+**Platform:** Zoom  
 
 The advent of 5G is accelerating and changing ARVR experiences today. Interactive and immersive solutions can change how your business operates, and also help deliver never-before-seen customer experiences and services. Beyond gaming and entertainment ARVR applications, both complementary technologies have the ability to transform a whole range of industries including business-centric sectors such as manufacturing.
 
