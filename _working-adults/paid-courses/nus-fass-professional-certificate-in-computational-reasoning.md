@@ -23,4 +23,4 @@ This course is best suited for professionals, executives, managers, as well as f
 If you’ve taken computing courses before and struggled to learn, this course is for you! We have designed this with the assumption that you have no familiarity in data analysis and coding, and we’ll teach you all you need to know from the ground up in a fun and engaging manner.
 
 For registration and enquiries, please contact
-cr-team@nus.edu.sg or call +65 6601 5388
+[cr-team@nus.edu.sg](mailto:cr-team@nus.edu.sg) or call +65 6601 5388
