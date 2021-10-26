@@ -1,8 +1,9 @@
 ---
-title: Data analytics or a smart nation
+title: Data analytics for a smart nation
 permalink: /working-adults/free-webinars/analytics
 third_nav_title: Free Webinars
 ---
+
 **Date:** 1 November, Monday
 <br> **Time:** 12pm - 1.30pm
 
