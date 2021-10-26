@@ -4,7 +4,6 @@ collections:
     order:
       - free-webinars/.keep
       - free-webinars/monthly-calendar.md
-      - free-webinars/introduction-to-data-science.md
       - free-webinars/Data analytics or a smart nation.md
       - "free-webinars/Converging 5G and ARVR or AI:  Enabling your business
         growth.md"
