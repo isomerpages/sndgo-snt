@@ -3,8 +3,6 @@ title: Staying Safe Online, Love scams and impersonation scams
 permalink: /seniors/staying-safe-2
 description: ""
 ---
-
-
 **Date:** 17 November, Wednesday   
 **Time:** 3pm - 4pm
 
@@ -16,5 +14,3 @@ In the first of the Stay Safe Online webinars, learn from the Singapore Police F
 
 
 [**Sign up here**](https://zoom.us/webinar/register/9116352171248/WN_B0lznciKRiWk7bdvVP5oJw)
-
-![Alt text for image on Isomer site](/images/sen-nov212.png)
