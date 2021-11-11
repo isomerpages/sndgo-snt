@@ -22,8 +22,9 @@ collections:
       - paid-courses/general-assembly-data-science-immersive.md
       - paid-courses/general-assembly-software-engineering-immersive.md
       - paid-courses/general-assembly-user-experience-immersive.md
+      - "paid-courses/NUS ACE: Professional Certificate in Artificial
+        Intelligence.md"
+      - "paid-courses/NUS DSDS: Professional Certificate in Data Literacy.md"
       - paid-courses/nus-fass-professional-certificate-in-computational-reasoning.md
-      - paid-courses/nus-scale-professional-certificate-in-artificial-intelligence.md
-      - paid-courses/nus-scale-professional-certificate-in-data-literacy.md
       - careers-in-tech.md
       - monthly-calendar-july.md
