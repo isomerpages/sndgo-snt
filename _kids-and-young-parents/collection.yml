@@ -2,7 +2,6 @@ collections:
   kids-and-young-parents:
     output: true
     order:
-      - test page.md
       - monthly-calendar.md
       - fun-with-tech/.keep
       - fun-with-tech/Coding for kids with family!.md
