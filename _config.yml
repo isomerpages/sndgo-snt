@@ -2,8 +2,8 @@ title: "#SmartNationTogether"
 url: https://together.smartnation.gov.sg
 favicon: /images/SNS-burst.ico
 colors:
-  primary-color: "#ed1a3b"
-  secondary-color: "#1a5ded"
+  primary-color: "#e40e2f"
+  secondary-color: "#ec6458"
   media-colors:
     - title: media-color-one
       color: "#49759a"
