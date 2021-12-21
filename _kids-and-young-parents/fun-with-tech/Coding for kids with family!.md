@@ -3,7 +3,7 @@ title: Coding for kids with family!
 permalink: /kids-and-young-parents/fun-with-tech/coding
 third_nav_title: Fun With Tech
 ---
-**Date:** 13 November
+**Date:** 15 January
 <br> **Time:** 10am - 11am
 
 At this workshop, children and parents get to create, customise and play a digital defence themed game! 
