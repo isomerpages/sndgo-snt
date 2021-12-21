@@ -7,5 +7,8 @@ description: ""
 **Date:** 20 January, Thursday
 <br> **Time:** 12pm - 1pm
 
+Social engineering, malware, phishing – these cyber threats are increasingly disrupting our daily lives. Find out how to better protect your online activities at this webinar.
+
 [Sign up here!](https://zoom.us/webinar/register/4516393829400/WN_cb8qDwu9QvCp3VwHuF4_Yw)
 
+![Alt text for image on Isomer site](/images/20-Jan-WA.png)
