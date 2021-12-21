@@ -9,5 +9,4 @@ description: ""
 
 Going bananas over coding? Give your child a head-start on this life skill with this fun-filled introductory course.
 
-Sign up here!
-
+[Sign up here!](https://go.gov.sg/kypcodingadventure-jan22)
