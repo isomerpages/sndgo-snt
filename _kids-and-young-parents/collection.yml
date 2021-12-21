@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - monthly-calendar.md
-      - fun-with-tech/Classic Games with MakeCode Arcade.md
       - fun-with-tech/.keep
       - fun-with-tech/Coding Adventure (CodeMonkey).md
       - fun-with-tech/Storytelling session with My Favourite Days.md
       - "fun-with-tech/My Favourite Days: Behind the Scene.md"
+      - fun-with-tech/Classic Games with MakeCode Arcade.md
