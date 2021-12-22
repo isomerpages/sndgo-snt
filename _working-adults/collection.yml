@@ -4,9 +4,9 @@ collections:
     order:
       - free-webinars/.keep
       - free-webinars/monthly-calendar.md
+      - "free-webinars/No code Automation: Changing the Business World.md"
       - "free-webinars/Introduction to Coding: HTML & CSS.md"
       - free-webinars/Stay Healthy with Mobile Technology.md
-      - "free-webinars/No code Automation: Changing the Business World.md"
       - free-webinars/How to Protect Yourself From Everyday Cyber Threats.md
       - free-webinars/Smart Decision making through Simulation.md
       - past-webinars/.keep
