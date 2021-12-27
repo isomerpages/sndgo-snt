@@ -42,4 +42,13 @@ sections:
       url: https://together.smartnation.gov.sg/seniors/overview
       alt: Image alt text
       image: /images/s.png
+  - infopic:
+      title: Digital for Life movement
+      subtitle: Infopic Subtitle
+      description: The Digital for Life movement aims to galvanise the community to
+        help citizens of all ages and walks of life to embrace digital learning
+        as a lifelong pursuit.
+      url: https://www.imda.gov.sg/digitalforlife
+      image: /images/Digital-For-Life-Logo-transparent.png
+      alt: Image alt text
 ---
