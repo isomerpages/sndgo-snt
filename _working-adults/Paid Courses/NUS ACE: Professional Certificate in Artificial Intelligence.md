@@ -2,7 +2,10 @@
 title: "NUS ACE: Professional Certificate in Artificial Intelligence"
 permalink: /working-adults/deep-dive/nus-ai
 third_nav_title: Paid Courses
+description: ""
 ---
+
+
 ![Alt text for image on Isomer site](/images/nus-ai.jpg)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  

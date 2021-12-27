@@ -1,9 +1,15 @@
 ---
 title: "Raising Future ready Kids: Parenting in a Digital Age"
-permalink: /kids-and-young-parents/fun-with-tech/raising-future-ready-kids
+permalink: /kids-and-young-parents/tech-talks/raising-future-ready-kids
 description: ""
-third_nav_title: Fun With Tech
+third_nav_title: Tech Talk Series
 ---
+
+
+
+
+
+
 **Date:** 6 January
 <br> **Time:** 8pm - 9pm
 

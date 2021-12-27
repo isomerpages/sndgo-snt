@@ -2,8 +2,6 @@ logo: /images/SNS-logo.png
 links:
   - title: About
     url: /about-snt/
-  - title: Whats On
-    resource_room: true
   - title: Kids and Young Parents
     collection: kids-and-young-parents
   - title: Working Adults

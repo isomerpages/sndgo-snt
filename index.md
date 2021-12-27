@@ -4,7 +4,7 @@ title: "#SmartNationTogether"
 description: Brief site description here
 image: /images/SNS-logo.png
 permalink: /
-notification: "Welcome to the revamped #SmartNationTogether site!"
+notification: ""
 sections:
   - hero:
       title: "#SmartNation</br>Together"
@@ -16,10 +16,6 @@ sections:
         seniors. "
       image: /images/SNT logo.png
       alt: "#SmartNationTogether"
-  - resources:
-      title: What's On
-      subtitle: Latest Events
-      button: FIND OUT MORE
   - infopic:
       title: Kids and Young Parents
       description: Parents can sign their children up for the TECH@PLAY or FUN WITH
@@ -46,4 +42,13 @@ sections:
       url: https://together.smartnation.gov.sg/seniors/overview
       alt: Image alt text
       image: /images/s.png
+  - infopic:
+      title: Digital for Life movement
+      subtitle: Infopic Subtitle
+      description: The Digital for Life movement aims to galvanise the community to
+        help citizens of all ages and walks of life to embrace digital learning
+        as a lifelong pursuit.
+      url: https://www.imda.gov.sg/digitalforlife
+      image: /images/Digital-For-Life-Logo-transparent.png
+      alt: Image alt text
 ---

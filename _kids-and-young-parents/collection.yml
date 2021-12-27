@@ -2,10 +2,12 @@ collections:
   kids-and-young-parents:
     output: true
     order:
-      - monthly-calendar.md
-      - "fun-with-tech/Raising Future ready Kids: Parenting in a Digital Age.md"
-      - fun-with-tech/.keep
-      - fun-with-tech/Coding Adventure (CodeMonkey).md
-      - fun-with-tech/Storytelling session with My Favourite Days.md
-      - "fun-with-tech/My Favourite Days: Behind the Scene.md"
-      - fun-with-tech/Classic Games with MakeCode Arcade.md
+      - What's On.md
+      - Fun With Tech Series/.keep
+      - Fun With Tech Series/Coding Adventure (CodeMonkey).md
+      - Fun With Tech Series/Storytelling session with My Favourite Days.md
+      - "Fun With Tech Series/My Favourite Days: Behind the Scene.md"
+      - Fun With Tech Series/Classic Games with MakeCode Arcade.md
+      - Tech Talk Series/.keep
+      - "Tech Talk Series/Raising Future ready Kids: Parenting in a Digital
+        Age.md"

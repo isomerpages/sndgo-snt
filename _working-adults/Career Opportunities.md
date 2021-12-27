@@ -1,6 +1,7 @@
 ---
-title: Careers in Tech
+title: Career Opportunities
 permalink: /working-adults/techcareers
+description: ""
 ---
 # Help Remake Singapore into a Smart Nation 
 ![Alt text for image on Isomer site](/images/sndgo.png)
@@ -11,8 +12,5 @@ To realise this vision, we need talent. Specifically, yours.
 
 We're calling the dreamers and visionaries who dare to imagine the potential of the Smart Nation vision, and those with the skills and know-how to make this a reality. (If you are in both these camps, even better!)
 
-Be part of the Smart Nation and Digital Government Office and help shape the way we live, work and play. 
 
-From defining our national artificial intelligence strategy to crafting policies that are inclusive for all our people, there are exciting positions on offer. 
-
-**Are you up for the challenge? Check out the available positions we have on <a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=smart%20nation%20and%20digital%20government%20office&job-mail-subscribe-privacy=agree" target="_blank">Careers@Gov</a>**
+**Are you up for the challenge? Check out career opportunities in the Singapore Government’s Information and Communications Technology & Smart Systems (ICT&SS) sector at [techcareers.smartnation.gov.sg](https://techcareers.smartnation.gov.sg/).**

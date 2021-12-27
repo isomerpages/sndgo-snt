@@ -2,5 +2,5 @@ collections:
   seniors:
     output: true
     order:
-      - monthly-calendar.md
-      - past-webinars.md
+      - What's On.md
+      - Past Webinars.md
