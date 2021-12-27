@@ -2,7 +2,6 @@ collections:
   kids-and-young-parents:
     output: true
     order:
-      - "Raising Future ready Kids: Parenting in a Digital Age.md"
       - Tech Talk Series/.keep
       - What's On.md
       - Fun With Tech Series/.keep
