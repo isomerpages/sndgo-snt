@@ -3,9 +3,10 @@ collections:
     output: true
     order:
       - Free Webinars.md
-      - "Fun With Tech/Raising Future ready Kids: Parenting in a Digital Age.md"
-      - Fun With Tech/.keep
-      - Fun With Tech/Coding Adventure (CodeMonkey).md
-      - Fun With Tech/Storytelling session with My Favourite Days.md
-      - "Fun With Tech/My Favourite Days: Behind the Scene.md"
-      - Fun With Tech/Classic Games with MakeCode Arcade.md
+      - "Fun With Tech Series/Raising Future ready Kids: Parenting in a Digital
+        Age.md"
+      - Fun With Tech Series/.keep
+      - Fun With Tech Series/Coding Adventure (CodeMonkey).md
+      - Fun With Tech Series/Storytelling session with My Favourite Days.md
+      - "Fun With Tech Series/My Favourite Days: Behind the Scene.md"
+      - Fun With Tech Series/Classic Games with MakeCode Arcade.md
