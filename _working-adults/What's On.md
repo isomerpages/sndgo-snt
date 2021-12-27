@@ -32,15 +32,15 @@ description: ""
  by General Assembly
  
 * **[User Experience Immersive](/working-adults/paid-courses/ga-user-exp)** <br>
- 17 Jan,  12pm - 1pm 
+ by General Assembly 
  
-* **[How to Protect Yourself From Everyday Cyber Threats](/working-adults/free-webinars/protect-from-everyday-cyber-threats)** <br>
- 20 Jan 12pm - 1pm
+* **[Professional Certificate in Artificial Intelligence](/working-adults/deep-dive/nus-ai)** <br>
+ by NUS ACE
  
-* **[Smart Decision-making Through Simulation](/working-adults/free-webinars/smart-decision-making-through-simulation)** <br>
- 27 Jan 12pm - 1:30pm
+* **[Professional Certificate in Data Literacy](/working-adults/paid-courses/nus-data-lit)** <br>
+ by NUS DSDS
  
-
+ * **[Professional Certificate in Computational Reasoning](/working-adults/paid-courses/nus-cr)** <br>
+ by NUS FASS
  
  
-
