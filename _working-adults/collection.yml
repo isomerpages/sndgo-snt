@@ -13,13 +13,14 @@ collections:
       - Past Webinars/snt.md
       - Past Webinars/smart-nation-and-u-2021.md
       - Past Webinars/skillsfuture-month-x-smart-nation-2021.md
-      - paid-courses/.keep
-      - paid-courses/general-assembly-data-science-immersive.md
-      - paid-courses/general-assembly-software-engineering-immersive.md
-      - paid-courses/general-assembly-user-experience-immersive.md
-      - "paid-courses/NUS ACE: Professional Certificate in Artificial
+      - Paid Courses/.keep
+      - Paid Courses/general-assembly-data-science-immersive.md
+      - Paid Courses/general-assembly-software-engineering-immersive.md
+      - Paid Courses/general-assembly-user-experience-immersive.md
+      - "Paid Courses/NUS ACE: Professional Certificate in Artificial
         Intelligence.md"
-      - "paid-courses/NUS DSDS: Professional Certificate in Data Literacy.md"
-      - paid-courses/nus-fass-professional-certificate-in-computational-reasoning.md
+      - "Paid Courses/NUS DSDS: Professional Certificate in Data Literacy.md"
+      - Paid
+        Courses/nus-fass-professional-certificate-in-computational-reasoning.md
       - careers-in-tech.md
       - monthly-calendar-july.md
