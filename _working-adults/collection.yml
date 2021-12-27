@@ -2,13 +2,13 @@ collections:
   working-adults:
     output: true
     order:
-      - free-webinars/.keep
-      - free-webinars/monthly-calendar.md
-      - "free-webinars/Introduction to Coding: HTML & CSS.md"
-      - free-webinars/Stay Healthy With Mobile Technology.md
-      - "free-webinars/No code Automation: Changing the Business World.md"
-      - free-webinars/How to Protect Yourself From Everyday Cyber Threats.md
-      - free-webinars/Smart Decision Making Through Simulation.md
+      - What's On/.keep
+      - What's On/monthly-calendar.md
+      - "What's On/Introduction to Coding: HTML & CSS.md"
+      - What's On/Stay Healthy With Mobile Technology.md
+      - "What's On/No code Automation: Changing the Business World.md"
+      - What's On/How to Protect Yourself From Everyday Cyber Threats.md
+      - What's On/Smart Decision Making Through Simulation.md
       - past-webinars/.keep
       - past-webinars/snt.md
       - past-webinars/smart-nation-and-u-2021.md
