@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - What's On/.keep
-      - What's On/monthly-calendar.md
+      - What's On/What's On.md
       - "What's On/Introduction to Coding: HTML & CSS.md"
       - What's On/Stay Healthy With Mobile Technology.md
       - "What's On/No code Automation: Changing the Business World.md"
