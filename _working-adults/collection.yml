@@ -2,7 +2,7 @@ collections:
   working-adults:
     output: true
     order:
-      - Free Webinars.md
+      - What's on.md
       - Free Webinars/.keep
       - What's On/.keep
       - "What's On/Introduction to Coding: HTML & CSS.md"
