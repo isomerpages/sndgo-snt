@@ -2,7 +2,7 @@ collections:
   working-adults:
     output: true
     order:
-      - What's on.md
+      - What's On.md
       - Free Webinars/Smart Decision Making Through Simulation.md
       - Free Webinars/How to Protect Yourself From Everyday Cyber Threats.md
       - "Free Webinars/No code Automation: Changing the Business World.md"
