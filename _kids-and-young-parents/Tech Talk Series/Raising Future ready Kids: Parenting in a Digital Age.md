@@ -4,12 +4,6 @@ permalink: /kids-and-young-parents/tech-talks/raising-future-ready-kids
 description: ""
 third_nav_title: Tech Talk Series
 ---
-
-
-
-
-
-
 **Date:** 6 January
 <br> **Time:** 8pm - 9pm
 
@@ -17,4 +11,4 @@ As more of our daily activities go digital, how do we keep kids safe while they 
 
 [Sign up here!](https://go.gov.sg/kypparenting-jan22)
 
-![Alt text for image on Isomer site](/images/06-Jan-kids.png)
+![SNT Kids 6 Jan](/images/06-Jan-kids.png)
