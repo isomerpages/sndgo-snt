@@ -11,4 +11,4 @@ Going bananas over coding? Give your child a head-start on this life skill with 
 
 [Sign up here!](https://go.gov.sg/kypcodingadventure-jan22)
 
-![SNT-Kids-15 Jan](/images/15-Jan-kids.png)
+![SNT Kids 15 Jan](/images/15-Jan-kids.png)
