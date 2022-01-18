@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - What's On.md
+      - Free Webinars/Smart Decision Making Through Simulation.md
       - Free Webinars/.keep
       - Free Webinars/Digital Transformation for Leaders .md
       - Free Webinars/Introduction to Digital Marketing.md
