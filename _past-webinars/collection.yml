@@ -2,5 +2,6 @@ collections:
   past-webinars:
     output: true
     order:
+      - Seniors/.keep
       - Working Adults/.keep
       - Kids and Young Parents/.keep
