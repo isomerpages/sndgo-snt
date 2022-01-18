@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - What's On.md
-      - "Free Webinars/ntroduction to Coding: HTML & CSS.md"
+      - "Free Webinars/Introduction to Coding: HTML & CSS.md"
       - Free Webinars/How to Protect Yourself From Everyday Cyber Threats.md
       - Free Webinars/Smart Decision Making Through Simulation.md
       - Free Webinars/.keep
