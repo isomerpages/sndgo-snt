@@ -4,7 +4,7 @@ permalink: /kids-and-young-parents/overview
 description: ""
 image: /images/cyyp.png
 ---
-![Overview-Kids](/images/feb-2022/Overview-Kids.png)
+![List of free webinars in February for kids](/images/feb-2022/Overview-Kids.png)
 
 ### Click on the links below for more information on the FREE webinars
 
