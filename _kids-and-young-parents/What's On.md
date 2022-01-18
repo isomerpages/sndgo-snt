@@ -4,7 +4,7 @@ permalink: /kids-and-young-parents/overview
 description: ""
 image: /images/cyyp.png
 ---
-![Alt text for image on Isomer site](/images/Overview.Kids)
+![Alt text for image on Isomer site](/images/feb-2022/Overview-Kids.png)
 
 ### Click on the links below for more information on the FREE webinars
 
