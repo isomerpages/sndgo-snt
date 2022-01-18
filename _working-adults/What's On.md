@@ -4,6 +4,8 @@ permalink: /working-adults/free-webinars/overview
 description: ""
 image: /images/wa.png
 ---
+# January
+
 ![Free webinars in January for working adults](/images/snt_jan_22_kids.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
@@ -23,6 +25,8 @@ image: /images/wa.png
  * [Smart Decision-Making Through Simulation](/working-adults/free-webinars/smart-decision-making-through-simulation-jan2022) <br>
  27 Jan, 12pm - 1.30pm
  
+ # February
+ 
 ![Free webinars in February for working adults](/images/feb-2022/Overview-WA.png)
 
 ### Click on the links below for more information on the FREE webinars
@@ -36,6 +40,9 @@ image: /images/wa.png
 * [Grow Your Career in Ops Strategy and Analytics with Shopee](/working-adults/free-webinars/grow-your-career-feb2022) <br>
  28 Feb, 12pm - 1pm
  
+
+​
+<div style="background-color: #f3f3f3; padding: 30px 20px 10px 20px;"> 
 
 ### Click on the links below for more information on available paid courses
 
