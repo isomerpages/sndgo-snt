@@ -21,7 +21,7 @@ sections:
       description: Parents can sign their children up for the TECH@PLAY or FUN WITH
         TECH interactive workshop series to learn skills such as coding and AI.
       button: Find out more
-      url: https://together.smartnation.gov.sg/kids-and-young-parents/overview
+      url: /kids-and-young-parents/overview
       alt: Image alt text
       image: /images/cyyp.png
   - infopic:
@@ -30,7 +30,7 @@ sections:
         experts discuss the latest tech policies in  our ‘Smart Nation: In
         Conversation’ series."
       button: Find out more
-      url: https://together.smartnation.gov.sg/working-adults/free-webinars/overview
+      url: /working-adults/free-webinars/overview
       alt: Image alt text
       image: /images/wa.png
   - infopic:
@@ -39,7 +39,7 @@ sections:
         lives with your peers in our My Smart Ahma Top Picks and Live Smart
         series.
       button: Find out more
-      url: https://together.smartnation.gov.sg/seniors/overview
+      url: /seniors/overview
       alt: Image alt text
       image: /images/s.png
   - infopic:
