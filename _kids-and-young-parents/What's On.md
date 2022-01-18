@@ -11,7 +11,7 @@ image: /images/cyyp.png
 * [Tech Talk: Parenting in a Digital Age](/kids-and-young-parents/tech-talks/raising-future-ready-kids)<br>
 6 Jan, 8pm - 9pm<br> 
 <br>
-* [Fun With Tech: A Coding Adventure With CodeMonkey](/kids-and-young-parents/fun-with-tech/coding-jan)<br>
+* [Fun With Tech: A Coding Adventure With CodeMonkey](kids-and-young-parents/fun-with-tech/coding-jan)<br>
 15 Jan, 10am - 11am <br>
  <br>
 * [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-jan) <br>
