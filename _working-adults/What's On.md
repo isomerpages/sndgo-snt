@@ -42,9 +42,11 @@ image: /images/wa.png
  
 
 ​
-<div style="background-color: #f3f3f3; padding: 30px 20px 10px 20px;"> 
 
-### Click on the links below for more information on available paid courses
+	
+<div style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Click on the links below for more information on available paid courses</div>
+
+<div style="background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> 
 
 * [Data Science Immersive](/working-adults/paid-courses/ga-data-sci) <br>
  by General Assembly
