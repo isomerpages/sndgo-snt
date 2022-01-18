@@ -11,4 +11,4 @@ Follow a little girl and her grandpa on a journey of self-discovery, and open yo
 
 [[Sign up here!](https://go.gov.sg/kypcodemonkey-feb22)](https://go.gov.sg/kypstorytelling-feb22)
 
-![Fun with Tech - Storytelling](/images/KidsStorytelling.png)
+![Kids Storytelling Session](/images/KidsStorytelling.png)
