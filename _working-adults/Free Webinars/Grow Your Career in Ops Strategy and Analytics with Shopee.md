@@ -14,4 +14,4 @@ partners across the region.
 
 [Sign up here! ](https://go.gov.sg/waecommerce-feb22)
 
-![Alt text for image on Isomer site](/images/28-feb-wa.png)
+![Career workshop with Shopee](/images/WA%203.png)
