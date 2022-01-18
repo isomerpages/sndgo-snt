@@ -40,13 +40,11 @@ image: /images/wa.png
 * [Grow Your Career in Ops Strategy and Analytics with Shopee](/working-adults/free-webinars/grow-your-career-feb2022) <br>
  28 Feb, 12pm - 1pm
  
+<br>
 
-​
+***
 
-	
-<div style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Click on the links below for more information on available paid courses</div>
-
-<div style="background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> 
+###  Click on the links below for more information on available paid courses
 
 * [Data Science Immersive](/working-adults/paid-courses/ga-data-sci) <br>
  by General Assembly
