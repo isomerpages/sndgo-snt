@@ -4,25 +4,19 @@ permalink: /working-adults/free-webinars/overview
 description: ""
 image: /images/wa.png
 ---
-![SNT Webinars for Working Adults in Jan 22](/images/snt_jan_22_adults.jpeg)
+![Free webinars in February for working adults](/images/feb-2022/Overview-WA.png)
 
 ### Click on the links below for more information on the FREE webinars
 
-* [Introduction to Coding: HTML & CSS](/working-adults/free-webinars/coding-html-and-css) <br>
- 10 Jan,  12pm - 1:30pm
+* [Digital Transformation for Leaders](https://go.gov.sg/wadigitransformation-feb22) <br>
+17 Feb,  12pm - 1pm
  
-* [Stay Healthy with Mobile Technology](/working-adults/free-webinars/stay-healthy-with-mobile-technology) <br>
- 13 Jan, 12pm - 1pm  
+* [Introduction to Digital Marketing](https://go.gov.sg/wadigimarketing-feb22) <br>
+ 21 Feb, 12pm - 1.30pm  
  
-* [No-code Automation: Changing the Business World](/working-adults/free-webinars/no-code-automation-changing-the-business-world) <br>
- 17 Jan,  12pm - 1pm 
+* [Grow Your Career in Ops Strategy and Analytics with Shopee](https://go.gov.sg/waecommerce-feb22) <br>
+ 28 Feb, 12pm - 1pm
  
-* [How to Protect Yourself From Everyday Cyber Threats](/working-adults/free-webinars/protect-from-everyday-cyber-threats) <br>
- 20 Jan 12pm - 1pm
- 
-* [Smart Decision-making Through Simulation](/working-adults/free-webinars/smart-decision-making-through-simulation) <br>
- 27 Jan 12pm - 1:30pm
-
 
 ### Click on the links below for more information on available paid courses
 
