@@ -12,6 +12,6 @@ Pick up practical tips on how to formulate a strategy
 and understand your organisation’s culture – while
 avoiding common pitfalls – with this webinar.
 
-[Sign up here!](https://go.gov.sg/wadigitransformation-feb22)
+[Sign up here! ](https://go.gov.sg/wadigitransformation-feb22)
 
 ![Digital Transformation Workshop for Working Adults](/images/17-feb-wa.png)
