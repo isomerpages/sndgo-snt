@@ -8,7 +8,7 @@ image: /images/wa.png
 
 ### Click on the links below for more information on the FREE webinars
 
-* [Introduction to Coding: HTML & CSS](/working-adults/free-webinars/no-code-automation-changing-the-business-world-jan2022) <br>
+* [Introduction to Coding: HTML & CSS](/working-adults/free-webinars/coding-html-and-css-jan2022) <br>
 10 Jan,  12pm - 1.30pm
  
 * [Stay Healthy With Mobile Technology](/working-adults/free-webinars/stay-healthy-with-mobile-technology-jan2022) <br>
