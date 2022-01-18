@@ -2,7 +2,7 @@ collections:
   seniors:
     output: true
     order:
-      - My Savvy Kaki Series/Know All About Singpass (for Seniors).md
-      - My Savvy Kaki Series/.keep
       - What's On.md
+      - My Savvy Kaki Series/.keep
+      - My Savvy Kaki Series/Know All About Singpass (for Seniors).md
       - Past Webinars.md
