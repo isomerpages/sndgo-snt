@@ -2,7 +2,6 @@ collections:
   archives:
     output: true
     order:
-      - Seniors/Test Archive.md
       - Seniors/.keep
       - Working Adults/.keep
       - Kids and Young Parents/.keep
