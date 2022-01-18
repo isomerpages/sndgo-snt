@@ -11,27 +11,27 @@ image: /images/cyyp.png
 * [Tech Talk: Parenting in a Digital Age](/kids-and-young-parents/tech-talks/raising-future-ready-kids)<br>
 6 Jan, 8pm - 9pm<br> 
 <br>
-* [Fun With Tech: A Coding Adventure With CodeMonkey](/kids-and-young-parents/fun-with-tech/coding-jan)<br>
+* [Fun With Tech: A Coding Adventure With CodeMonkey](/kids-and-young-parents/fun-with-tech/coding-jan2022)<br>
 15 Jan, 10am - 11am <br>
  <br>
-* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-jan) <br>
+* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-jan2022) <br>
 16 Jan, 11am - 12 noon <br>
 <br>
-* [My Favourite Days: Behind the Scenes](/kids-and-young-parents/fun-with-tech/my-favourite-days-behind-the-scenes-jan) <br>
+* [My Favourite Days: Behind the Scenes](/kids-and-young-parents/fun-with-tech/my-favourite-days-behind-the-scenes-jan2022) <br>
 23 Jan, 11am - 12 noon <br>
  <br>
-* [Classic Games With MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-jan)<br>
+* [Classic Games With MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-jan2022)<br>
 29 Jan, 10am - 11.30am <br>
 
 ![List of free webinars in February for kids](/images/feb-2022/Overview-Kids.png)
 
 ### Click on the links below for more information on the FREE webinars
 
-* [Fun With Tech: Coding Adventure (CodeMonkey) ](/kids-and-young-parents/fun-with-tech/coding-feb)<br>
+* [Fun With Tech: Coding Adventure (CodeMonkey) ](/kids-and-young-parents/fun-with-tech/coding-feb2022)<br>
 12 Feb, 10am - 11am<br>
  <br>
-* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-feb)<br>
+* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-feb2022)<br>
 13 Feb, 11am - 12 noon<br>  
  <br>
-* [Classic Games With MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-feb)<br>
+* [Classic Games With MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-feb2022)<br>
 20 Feb, 10am - 11.30am<br>
