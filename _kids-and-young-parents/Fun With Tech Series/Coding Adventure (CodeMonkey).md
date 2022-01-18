@@ -11,4 +11,4 @@ Going bananas over coding? Give your child a head-start on this life skill with 
 
 [Sign up here! ](https://go.gov.sg/kypcodemonkey-feb22)
 
-![Alt text for image on Isomer site](/images/KidsCoding.png)
+![Kids Coding Workshop](/images/KidsCoding.png)
