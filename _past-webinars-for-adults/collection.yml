@@ -2,5 +2,5 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
-      - Jan 2022/.keep
+      - 2022 Jan/.keep
       - Feb 2022/.keep
