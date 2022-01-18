@@ -2,6 +2,5 @@ collections:
   archives:
     output: true
     order:
-      - Seniors Archives/.keep
       - Working Adults Archives/.keep
       - Kids Archives/.keep
