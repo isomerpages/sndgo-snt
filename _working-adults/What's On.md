@@ -11,10 +11,10 @@ image: /images/wa.png
 * [ Digital Transformation for Leaders](/working-adults/free-webinars/digital-transformation) <br>
 17 Feb,  12pm - 1pm
  
-* [Introduction to Digital Marketing](https://go.gov.sg/wadigimarketing-feb22) <br>
+* [Introduction to Digital Marketing](/working-adults/free-webinars/digital-marketing)<br>
  21 Feb, 12pm - 1.30pm  
  
-* [Grow Your Career in Ops Strategy and Analytics with Shopee](https://go.gov.sg/waecommerce-feb22) <br>
+* [Grow Your Career in Ops Strategy and Analytics with Shopee](/working-adults/free-webinars/grow-your-career) <br>
  28 Feb, 12pm - 1pm
  
 
