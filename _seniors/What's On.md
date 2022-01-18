@@ -11,5 +11,5 @@ image: /images/s.png
 * [Know All About Singpass (for Seniors) ](https://zoom.us/webinar/register/1116418394710/WN_0G0pBXZ1SxCN36MQc_Rp0Q)<br>
 9 Feb, 3pm - 4pm
  
-* [Know All About LifeSG (for Seniors)](https://zoom.us/webinar/register/5016418396571/WN_8Mzq3C8cTnGDAOLMIMWaYg)<br>
+* [Know All About LifeSG (for Seniors)](/seniors/my-savvy-kaki/lifesg)<br>
 16 Feb, 3pm - 4pm
