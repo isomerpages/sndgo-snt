@@ -1,4 +1,5 @@
 collections:
   past-webinars:
     output: true
-    order: []
+    order:
+      - Kids/.keep
