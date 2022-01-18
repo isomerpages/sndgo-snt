@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - What's On.md
-      - Free Webinars/Grow Your Career in Ops Strategy and Analytics with
-        Shopee.md
       - Free Webinars/.keep
       - Free Webinars/Digital Transformation for Leaders .md
       - Free Webinars/Introduction to Digital Marketing.md
+      - Free Webinars/Grow Your Career in Ops Strategy and Analytics with
+        Shopee.md
       - Free Webinars/Smart Decision Making Through Simulation.md
       - Free Webinars/How to Protect Yourself From Everyday Cyber Threats.md
       - "Free Webinars/No code Automation: Changing the Business World.md"
