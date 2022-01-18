@@ -11,4 +11,4 @@ Revisit your favourite arcade games of your youth by creating these with your ch
 
 [Sign up here!](https://www.graphiteacademy.com/smartnationsg)
 
-![Alt text for image on Isomer site](/images/KidsGames.png)
+![Classic Games Workshop](/images/KidsGames.png)
