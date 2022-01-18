@@ -12,4 +12,4 @@ image: /images/s.png
 9 Feb, 3pm - 4pm
  
 * [Know All About LifeSG (for Seniors)](https://zoom.us/webinar/register/5016418396571/WN_8Mzq3C8cTnGDAOLMIMWaYg)<br>
-16 Feb, 3pm - 4pm  
+16 Feb, 3pm - 4pm
