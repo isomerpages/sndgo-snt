@@ -25,7 +25,7 @@ image: /images/wa.png
  * [Smart Decision-Making Through Simulation](/working-adults/free-webinars/smart-decision-making-through-simulation-jan2022) <br>
  27 Jan, 12pm - 1.30pm
  
- # February
+# February
  
 ![Free webinars in February for working adults](/images/feb-2022/Overview-WA.png)
 
