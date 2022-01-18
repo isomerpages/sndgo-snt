@@ -10,4 +10,5 @@ description: ""
 Follow a little girl and her grandpa on a journey of self-discovery, and open your kids’ eyes to the many possibilities that tech brings. 
 
 [Sign up here! ](https://go.gov.sg/kypstorytelling-feb22)
+
 ![Kids Storytelling Session](/images/KidsStorytelling.png)
