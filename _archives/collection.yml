@@ -2,5 +2,5 @@ collections:
   archives:
     output: true
     order:
-      - Working Adults Archives/.keep
+      - Jan 2022/.keep
       - Kids Archives/.keep
