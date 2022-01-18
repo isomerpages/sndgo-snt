@@ -4,7 +4,7 @@ permalink: /kids-and-young-parents/overview
 description: ""
 image: /images/cyyp.png
 ---
-![SNT Webinars for Working Adults in Jan 22](/images/snt_jan_22_kids.jpeg)
+![Alt text for image on Isomer site](/images/Overview.Kids)
 
 ### Click on the links below for more information on the FREE webinars
 
