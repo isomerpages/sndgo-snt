@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - What's On.md
+      - Fun With Tech Series/Classic Games with MakeCode Arcade.md
       - "Fun With Tech Series/(Jan) My Favourite Days: Behind the Scenes.md"
       - Fun With Tech Series/(Jan) Storytelling session with My Favourite Days.md
       - Fun With Tech Series/(Jan) A Coding Adventure with CodeMonkey .md
