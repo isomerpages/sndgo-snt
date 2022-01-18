@@ -1,5 +1,5 @@
 collections:
-  past-webinars:
+  archives:
     output: true
     order:
       - Seniors/.keep
