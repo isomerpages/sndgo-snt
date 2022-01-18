@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Seniors Archives/.keep
-      - Working Adults/.keep
+      - Working Adults Archives/.keep
       - Kids and Young Parents/.keep
