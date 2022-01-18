@@ -4,7 +4,6 @@ permalink: /working-adults/free-webinars/stay-healthy-with-mobile-technology-jan
 description: ""
 third_nav_title: Free Webinars
 ---
-
 **Date:** 13 January, Thursday
 <br> **Time:** 12pm - 1pm
 
@@ -12,4 +11,4 @@ What do the numbers on your fitness watch tell you about your physical activity,
 
 [Sign up here! ](https://go.gov.sg/wamobiletech-jan22)
 
-![Alt text for image on Isomer site](/images/13-Jan-WA.png)
+![Mobile tech workshop](/images/13-Jan-WA.png)
