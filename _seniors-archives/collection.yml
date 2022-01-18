@@ -1,5 +1,5 @@
 collections:
-  archives:
+  seniors-archives:
     output: true
     order:
       - Jan 2022/.keep
