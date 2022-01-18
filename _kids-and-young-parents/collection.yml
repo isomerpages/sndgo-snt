@@ -2,6 +2,7 @@ collections:
   kids-and-young-parents:
     output: true
     order:
+      - Tech Talk Series/.keep
       - What's On.md
       - Fun With Tech Series/(Jan) Classic Games with MakeCode Arcade.md
       - "Fun With Tech Series/(Jan) My Favourite Days: Behind the Scenes.md"
