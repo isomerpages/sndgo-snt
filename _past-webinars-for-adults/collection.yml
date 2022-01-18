@@ -1,5 +1,5 @@
 collections:
-  seniors-archives:
+  past-webinars-for-adults:
     output: true
     order:
       - Jan 2022/.keep
