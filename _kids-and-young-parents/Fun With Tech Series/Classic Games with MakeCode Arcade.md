@@ -4,11 +4,11 @@ permalink: /kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arc
 description: ""
 third_nav_title: Fun With Tech Series
 ---
-**Date:** 29 January
+**Date:** 20 February
 <br> **Time:** 10am - 11:30am
 
 Revisit your favourite arcade games of your youth by creating these with your child using Microsoft’s MakeCode Arcade. Happy gaming! 
 
-[Sign up here!](https://go.gov.sg/kypmakecodearcade-jan22)
+[Sign up here!](https://www.graphiteacademy.com/smartnationsg)
 
-![SNT Kids 29 Jan](/images/29-Jan-kids.png)
+![Alt text for image on Isomer site](/images/KidsGames.png)
