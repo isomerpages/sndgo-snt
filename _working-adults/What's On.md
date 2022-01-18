@@ -27,13 +27,13 @@ image: /images/wa.png
 
 ### Click on the links below for more information on the FREE webinars
 
-* [ Digital Transformation for Leaders](/working-adults/free-webinars/digital-transformation) <br>
+* [ Digital Transformation for Leaders](/working-adults/free-webinars/digital-transformation-feb2022) <br>
 17 Feb,  12pm - 1pm
  
-* [Introduction to Digital Marketing](/working-adults/free-webinars/digital-marketing)<br>
+* [Introduction to Digital Marketing](/working-adults/free-webinars/digital-marketing-feb2022)<br>
  21 Feb, 12pm - 1.30pm  
  
-* [Grow Your Career in Ops Strategy and Analytics with Shopee](/working-adults/free-webinars/grow-your-career) <br>
+* [Grow Your Career in Ops Strategy and Analytics with Shopee](/working-adults/free-webinars/grow-your-career-feb2022) <br>
  28 Feb, 12pm - 1pm
  
 
