@@ -9,17 +9,17 @@ image: /images/cyyp.png
 ### Click on the links below for more information on the FREE webinars
 
 * [Tech Talk: Parenting in a Digital Age](/kids-and-young-parents/tech-talks/raising-future-ready-kids)<br>
-6 Jan, 8pm - 9pm <br>
-
-* [Fun With Tech: A Coding Adventure With CodeMonkey](kids-and-young-parents/fun-with-tech/coding-jan)
+6 Jan, 8pm - 9pm<br> 
+<br>
+* [Fun With Tech: A Coding Adventure With CodeMonkey](kids-and-young-parents/fun-with-tech/coding-jan)<br>
 15 Jan, 10am - 11am <br>
- 
+ <br>
 * [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-jan) <br>
-16 Jan 11am - 12 noon <br>
-
+16 Jan, 11am - 12 noon <br>
+<br>
 * [My Favourite Days: Behind the Scenes](/kids-and-young-parents/fun-with-tech/my-favourite-days-behind-the-scenes) <br>
 23 Jan, 11am - 12 noon <br>
- 
+ <br>
 * [Classic Games With MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-jan)<br>
 29 Jan, 10am - 11.30am <br>
 
