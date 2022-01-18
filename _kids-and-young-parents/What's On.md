@@ -8,11 +8,11 @@ image: /images/cyyp.png
 
 ### Click on the links below for more information on the FREE webinars
 
-* [Fun With Tech: Coding Adventure (CodeMonkey) ](https://go.gov.sg/kypcodemonkey-feb22) <br>
+* [Fun With Tech: Coding Adventure (CodeMonkey) ](kids-and-young-parents/fun-with-tech/coding)<br>
 12 Feb, 10am - 11am
  
-* [Storytelling Session With "My Favourite Days"](https://www.eventbrite.sg/e/storytelling-session-my-favourite-days-registration-231964882207?aff=ebdssbdestsearch) <br>
+* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days)<br>
 13 Feb, 11am - 12 noon  
  
-* [Classic Games With MakeCode Arcade](https://go.gov.sg/kypmakecode-feb22)<br>
+* [Classic Games With MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade)<br>
 20 Feb, 10am - 11.30am
