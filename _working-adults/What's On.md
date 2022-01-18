@@ -4,20 +4,25 @@ permalink: /working-adults/free-webinars/overview
 description: ""
 image: /images/wa.png
 ---
-![Free webinars in January for working adults](/images/feb-2022/Overview-WA.png)
+![Free webinars in January for working adults](/images/snt_jan_22_kids.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
 
-* [ Digital Transformation for Leaders](/working-adults/free-webinars/digital-transformation) <br>
-17 Feb,  12pm - 1pm
+* [Introduction to Coding: HTML & CSS](/working-adults/free-webinars/no-code-automation-changing-the-business-world-jan2022) <br>
+10 Jan,  12pm - 1.30pm
  
-* [Introduction to Digital Marketing](/working-adults/free-webinars/digital-marketing)<br>
- 21 Feb, 12pm - 1.30pm  
+* [Stay Healthy With Mobile Technology](/working-adults/free-webinars/stay-healthy-with-mobile-technology-jan2022) <br>
+13 Jan,  12pm - 1pm
  
-* [Grow Your Career in Ops Strategy and Analytics with Shopee](/working-adults/free-webinars/grow-your-career) <br>
- 28 Feb, 12pm - 1pm
+* [No-Code Automation: Changing the Business World](/working-adults/free-webinars/no-code-automation-changing-the-business-world-jan2022)<br>
+ 17 Jan, 12pm - 1pm  
+ 
+* [How to Protect Yourself From Everyday Cyber Threats](/working-adults/free-webinars/protect-from-everyday-cyber-threats-jan2022) <br>
+ 20 Jan, 12pm - 1pm
 
-
+ * [Smart Decision-Making Through Simulation](/working-adults/free-webinars/smart-decision-making-through-simulation-jan2022) <br>
+ 20 Jan, 12pm - 1pm
+ 
 ![Free webinars in February for working adults](/images/feb-2022/Overview-WA.png)
 
 ### Click on the links below for more information on the FREE webinars
