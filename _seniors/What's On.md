@@ -8,7 +8,7 @@ image: /images/s.png
 
 ### Click on the links below for more information on the FREE webinars
 
-* [Know All About Singpass (for Seniors) ](https://zoom.us/webinar/register/1116418394710/WN_0G0pBXZ1SxCN36MQc_Rp0Q)<br>
+* [Know All About Singpass (for Seniors) ](/seniors/my-savvy-kaki/singpass)<br>
 9 Feb, 3pm - 4pm
  
 * [Know All About LifeSG (for Seniors)](/seniors/my-savvy-kaki/lifesg)<br>
