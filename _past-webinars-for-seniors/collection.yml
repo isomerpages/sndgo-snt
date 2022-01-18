@@ -1,4 +1,5 @@
 collections:
   past-webinars-for-seniors:
     output: true
-    order: []
+    order:
+      - 2021 Jan/.keep
