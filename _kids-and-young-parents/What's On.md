@@ -17,7 +17,7 @@ image: /images/cyyp.png
 * [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-jan) <br>
 16 Jan, 11am - 12 noon <br>
 <br>
-* [My Favourite Days: Behind the Scenes](/kids-and-young-parents/fun-with-tech/my-favourite-days-behind-the-scenes) <br>
+* [My Favourite Days: Behind the Scenes](/kids-and-young-parents/fun-with-tech/my-favourite-days-behind-the-scenes-jan) <br>
 23 Jan, 11am - 12 noon <br>
  <br>
 * [Classic Games With MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-jan)<br>
