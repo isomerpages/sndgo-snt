@@ -8,7 +8,7 @@ image: /images/wa.png
 
 ### Click on the links below for more information on the FREE webinars
 
-* [Digital Transformation for Leaders](https://go.gov.sg/wadigitransformation-feb22) <br>
+* [ Digital Transformation for Leaders](/working-adults/free-webinars/digital-transformation) <br>
 17 Feb,  12pm - 1pm
  
 * [Introduction to Digital Marketing](https://go.gov.sg/wadigimarketing-feb22) <br>
