@@ -16,5 +16,3 @@ image: /images/cyyp.png
  
 * [Classic Games With MakeCode Arcade](https://go.gov.sg/kypmakecode-feb22)<br>
 20 Feb, 10am - 11.30am
- 
- 
