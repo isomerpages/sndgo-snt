@@ -8,17 +8,13 @@ image: /images/cyyp.png
 
 ### Click on the links below for more information on the FREE webinars
 
-* [Tech Talk: Raising Future-Ready Kids: Parenting in a Digital Age](/kids-and-young-parents/tech-talks/raising-future-ready-kids) <br>
-6 Jan, 8pm - 9pm
+* [Fun With Tech: Coding Adventure (CodeMonkey) ](https://go.gov.sg/kypcodemonkey-feb22) <br>
+12 Feb, 10am - 11am
  
-* [Fun with Tech: Coding Adventure (Code Monkey)](/kids-and-young-parents/fun-with-tech/coding) <br>
-15 Jan, 10am - 11am 
+* [Storytelling Session With "My Favourite Days"](https://www.eventbrite.sg/e/storytelling-session-my-favourite-days-registration-231964882207?aff=ebdssbdestsearch) <br>
+13 Feb, 11am - 12 noon  
  
-* [Fun with Tech: Storytelling session with "My Favourite Days”](/kids-and-young-parents/fun-with-tech/my-favourite-days) <br>
-16 Jan, 11am - 12pm
+* [Classic Games With MakeCode Arcade](https://go.gov.sg/kypmakecode-feb22)<br>
+20 Feb, 10am - 11.30am
  
-* [Fun with Tech: "My Favourite Days”: Behind The Scenes](/kids-and-young-parents/fun-with-tech/my-favourite-days-behind-the-scene) <br>
-23 Jan, 11am - 12pm
  
-* [Fun with Tech: Classic Games with MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade) <br>
-29 Jan, 10am - 11:30am
