@@ -11,4 +11,4 @@ As more of our daily activities go digital, how do we keep kids safe while they 
 
 [Sign up here!](https://go.gov.sg/kypparenting-jan22)
 
-![SNT Kids 6 Jan](/images/06-Jan-kids.png)
+![Parenting workshop](/images/06-Jan-kids.png)

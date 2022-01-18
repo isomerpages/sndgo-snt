@@ -4,21 +4,38 @@ permalink: /kids-and-young-parents/overview
 description: ""
 image: /images/cyyp.png
 ---
-![SNT Webinars for Working Adults in Jan 22](/images/snt_jan_22_kids.jpeg)
+# January
+
+![Free webinars in January for kids](/images/snt_jan_22_kids.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
 
-* [Tech Talk: Raising Future-Ready Kids: Parenting in a Digital Age](/kids-and-young-parents/tech-talks/raising-future-ready-kids) <br>
-6 Jan, 8pm - 9pm
- 
-* [Fun with Tech: Coding Adventure (Code Monkey)](/kids-and-young-parents/fun-with-tech/coding) <br>
-15 Jan, 10am - 11am 
- 
-* [Fun with Tech: Storytelling session with "My Favourite Days”](/kids-and-young-parents/fun-with-tech/my-favourite-days) <br>
-16 Jan, 11am - 12pm
- 
-* [Fun with Tech: "My Favourite Days”: Behind The Scenes](/kids-and-young-parents/fun-with-tech/my-favourite-days-behind-the-scene) <br>
-23 Jan, 11am - 12pm
- 
-* [Fun with Tech: Classic Games with MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade) <br>
-29 Jan, 10am - 11:30am
+* [Tech Talk: Parenting in a Digital Age](/kids-and-young-parents/tech-talks/raising-future-ready-kids)<br>
+6 Jan, 8pm - 9pm 
+
+* [Fun With Tech: A Coding Adventure With CodeMonkey](/kids-and-young-parents/fun-with-tech/coding-jan2022)<br>
+15 Jan, 10am - 11am
+
+* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-jan2022) <br>
+16 Jan, 11am - 12 noon
+
+* [My Favourite Days: Behind the Scenes](/kids-and-young-parents/fun-with-tech/my-favourite-days-behind-the-scenes-jan2022) <br>
+23 Jan, 11am - 12 noon
+
+* [Classic Games With MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-jan2022)<br>
+29 Jan, 10am - 11.30am
+
+# February
+
+![List of free webinars in February for kids](/images/feb-2022/Overview-Kids.png)
+
+### Click on the links below for more information on the FREE webinars
+
+* [Fun With Tech: Coding Adventure (CodeMonkey) ](/kids-and-young-parents/fun-with-tech/coding-feb2022)<br>
+12 Feb, 10am - 11am
+
+* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-feb2022)<br>
+13 Feb, 11am - 12 noon
+
+* [Classic Games With MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-feb2022)<br>
+20 Feb, 10am - 11.30am
