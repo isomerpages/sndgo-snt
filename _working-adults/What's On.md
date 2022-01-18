@@ -4,6 +4,20 @@ permalink: /working-adults/free-webinars/overview
 description: ""
 image: /images/wa.png
 ---
+![Free webinars in January for working adults](/images/feb-2022/Overview-WA.png)
+
+### Click on the links below for more information on the FREE webinars
+
+* [ Digital Transformation for Leaders](/working-adults/free-webinars/digital-transformation) <br>
+17 Feb,  12pm - 1pm
+ 
+* [Introduction to Digital Marketing](/working-adults/free-webinars/digital-marketing)<br>
+ 21 Feb, 12pm - 1.30pm  
+ 
+* [Grow Your Career in Ops Strategy and Analytics with Shopee](/working-adults/free-webinars/grow-your-career) <br>
+ 28 Feb, 12pm - 1pm
+
+
 ![Free webinars in February for working adults](/images/feb-2022/Overview-WA.png)
 
 ### Click on the links below for more information on the FREE webinars
