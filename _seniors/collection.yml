@@ -2,5 +2,6 @@ collections:
   seniors:
     output: true
     order:
+      - My Savvy Kaki Series/.keep
       - What's On.md
       - Past Webinars.md
