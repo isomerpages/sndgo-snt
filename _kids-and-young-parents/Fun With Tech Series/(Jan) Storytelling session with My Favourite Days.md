@@ -9,6 +9,6 @@ third_nav_title: Fun With Tech Series
 
 Follow a little girl and her grandpa on a journey of self-discovery, and open your kids’ eyes to the many possibilities that tech brings. 
 
-[Sign up here! ](https://go.gov.sg/kypcodingadventure-jan22)<br> 
+[Sign up here! ](https://www.eventbrite.sg/e/storytelling-session-my-favourite-days-registration-226565442337?aff=ebdsoporgprofile)<br> 
 
 ![Storytelling session for kids](/images/16-Jan-kids.png)
