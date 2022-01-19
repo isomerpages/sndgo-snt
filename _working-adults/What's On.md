@@ -27,7 +27,7 @@ image: /images/wa.png
  
 # February
  
-![Free webinars in February for working adults](/images/feb-2022/Overview-WA.png)
+![Free webinars in February for working adults](/images/feb-wa.png)
 
 ### Click on the links below for more information on the FREE webinars
 
