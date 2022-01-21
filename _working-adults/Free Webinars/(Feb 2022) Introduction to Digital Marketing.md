@@ -4,8 +4,6 @@ permalink: /working-adults/free-webinars/digital-marketing-feb2022
 description: ""
 third_nav_title: Free Webinars
 ---
-
-
 **Date:** 21 February, Monday
 <br> **Time:** 12pm - 1.30pm
 
@@ -16,4 +14,4 @@ practitioner Sotirios Seridis.
 
 [Sign up here! ](https://go.gov.sg/wadigimarketing-feb22)
 
-![Alt text for image on Isomer site](/images/21-feb-wa.png)
+![Introduction to Digital Marketing - 21 Feb](/images/21-feb-wa.jpeg)
