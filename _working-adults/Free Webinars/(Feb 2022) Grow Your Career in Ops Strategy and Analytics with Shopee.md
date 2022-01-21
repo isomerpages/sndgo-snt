@@ -14,4 +14,4 @@ partners across the region.
 
 [Sign up here! ](https://go.gov.sg/wa-shopee-feb22)
 
-![Career workshop with Shopee](/images/28-feb-wa-shopee.jpeg)
+![Career workshop with Shopee](/images/28-feb-wa-shopee-snt.jpeg)
