@@ -12,6 +12,6 @@ commerce giant enhances the user experience –
 essentially its “secret sauce” – for buyers, sellers and
 partners across the region. 
 
-[Sign up here! ](https://go.gov.sg/shopee-snt-feb22)
+[Sign up here! ](https://go.gov.sg/wa-shopee-feb22)
 
-![Career workshop with Shopee](/images/28-feb-wa.jpeg)
+![Career workshop with Shopee](/images/28-feb-wa-shopee.jpeg)
