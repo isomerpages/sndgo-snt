@@ -7,10 +7,7 @@ third_nav_title: Free Webinars
 **Date:** 28 February, Monday
 <br> **Time:** 12pm - 1pm
 
-Are you an avid Shopee shopper? Find out how the e-
-commerce giant enhances the user experience –
-essentially its “secret sauce” – for buyers, sellers and
-partners across the region. 
+Looking to join the tech industry? Discover how you can venture into data and e-commerce with Shopee, and make an impact across the region through your work!
 
 [Sign up here! ](https://go.gov.sg/wa-shopee-feb22)
 
