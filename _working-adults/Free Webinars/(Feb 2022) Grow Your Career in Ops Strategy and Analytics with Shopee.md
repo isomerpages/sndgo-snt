@@ -4,9 +4,6 @@ permalink: /working-adults/free-webinars/grow-your-career-feb2022
 description: ""
 third_nav_title: Free Webinars
 ---
-
-
-
 **Date:** 28 February, Monday
 <br> **Time:** 12pm - 1pm
 
@@ -15,6 +12,6 @@ commerce giant enhances the user experience –
 essentially its “secret sauce” – for buyers, sellers and
 partners across the region. 
 
-[Sign up here! ](https://go.gov.sg/waecommerce-feb22)
+[Sign up here! ](https://go.gov.sg/wa-shopee-feb22)
 
-![Career workshop with Shopee](/images/WA%203.png)
+![Career workshop with Shopee](/images/wa-snt-28feb-shopee.jpeg)

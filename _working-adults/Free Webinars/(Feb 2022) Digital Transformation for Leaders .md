@@ -4,8 +4,6 @@ permalink: /working-adults/Free-Webinars/digital-transformation-feb2022
 description: ""
 third_nav_title: Free Webinars
 ---
-
-
 **Date:** 17 February, Thursday
 <br> **Time:** 12pm - 1pm
 
@@ -16,4 +14,4 @@ avoiding common pitfalls – with this webinar.
 
 [Sign up here! ](https://go.gov.sg/wadigitransformation-feb22)
 
-![Digital Transformation Workshop for Working Adults](/images/17-feb-wa.png)
+![Digital Transformation Workshop for Working Adults](/images/17-feb-wa.jpeg)
