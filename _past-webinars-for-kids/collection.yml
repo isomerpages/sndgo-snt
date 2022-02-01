@@ -2,5 +2,6 @@ collections:
   past-webinars-for-kids:
     output: true
     order:
+      - (Jan 2022) Classic Games with MakeCode Arcade.md
       - 2022 Feb /.keep
       - 2022 Jan/.keep
