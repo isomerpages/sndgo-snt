@@ -7,7 +7,7 @@ third_nav_title: Paid Courses
 ![Cybersecurity Begins with Me](/images/NUS-ACE-Cybersecurity.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
-**Study Mode:** On Campus   
+**Study Mode:** Classroom Learning   
 **Duration:** 1 Day<br>
 **Sign up here:** [NUS ACE: Cybersecurity Begins With Me](https://ace.nus.edu.sg/event/cybersecurity-begins-with-me/)
 
