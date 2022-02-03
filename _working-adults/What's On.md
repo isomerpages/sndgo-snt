@@ -4,27 +4,6 @@ permalink: /working-adults/free-webinars/overview
 description: ""
 image: /images/wa.png
 ---
-# January
-
-![Free webinars in January for working adults](/images/snt_jan_22_kids.jpeg)
-
-### Click on the links below for more information on the FREE webinars
-
-* [Introduction to Coding: HTML & CSS](/working-adults/free-webinars/coding-html-and-css-jan2022) <br>
-10 Jan,  12pm - 1.30pm
- 
-* [Stay Healthy With Mobile Technology](/working-adults/free-webinars/stay-healthy-with-mobile-technology-jan2022) <br>
-13 Jan,  12pm - 1pm
- 
-* [No-Code Automation: Changing the Business World](/working-adults/free-webinars/no-code-automation-changing-the-business-world-jan2022)<br>
- 17 Jan, 12pm - 1pm  
- 
-* [How to Protect Yourself From Everyday Cyber Threats](/working-adults/free-webinars/protect-from-everyday-cyber-threats-jan2022) <br>
- 20 Jan, 12pm - 1pm
-
- * [Smart Decision-Making Through Simulation](/working-adults/free-webinars/smart-decision-making-through-simulation-jan2022) <br>
- 27 Jan, 12pm - 1.30pm
- 
 # February
  
 ![Free webinars in February for working adults](/images/feb-wa.png)
@@ -45,6 +24,9 @@ image: /images/wa.png
 ***
 
 ###  Click on the links below for more information on available paid courses
+
+* [Cybersecurity Begins With Me](/working-adults/cybersecurity/nus-ace)<br>
+ by NUS Advanced Computing for Executives 
 
 * [Data Science Immersive](/working-adults/paid-courses/ga-data-sci) <br>
  by General Assembly
