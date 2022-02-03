@@ -11,7 +11,7 @@ third_nav_title: Paid Courses
 **Duration:** 1 Day<br>
 **Sign up here:** [NUS ACE: Cybersecurity Begins With Me](https://ace.nus.edu.sg/event/cybersecurity-begins-with-me/)
 
-#### COURSE OBJECTIVES
+#### **COURSE OBJECTIVES**
 The programme will equip participants with knowledge and skills on how to use information technology both in the workplace and at home safely and securely. Specifically, we will show how to establish a secure network connection and manage personal as well as corporate data appropriately.
 
 This module is part of Professional Certificate in Emerging and Disruptive Technologies.
@@ -28,5 +28,5 @@ After the end of the programme, the participants will be able to:
 * Understand communication security issues that can arise from using e-mail, social networks, IoTs and mobile devices.
 * Backup, restore, and dispose data securely and safely.
 
-#### WHO SHOULD ATTEND
+#### **WHO SHOULD ATTEND**
 Any employees who has access to corporate/company networks.
