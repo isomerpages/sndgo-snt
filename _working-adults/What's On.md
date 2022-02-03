@@ -10,7 +10,7 @@ image: /images/wa.png
 
 ### Click on the links below for more information on the FREE webinars
 
-* [ Digital Transformation for Leaders](/working-adults/free-webinars/digital-transformation-feb2022) <br>
+* [ Digital Transformation](/working-adults/free-webinars/digital-transformation-feb2022) <br>
 17 Feb,  12pm - 1pm
  
 * [Introduction to Digital Marketing](/working-adults/free-webinars/digital-marketing-feb2022)<br>
