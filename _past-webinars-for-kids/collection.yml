@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - 2022 Feb /.keep
+      - 2022 Jan/(Jan 2022) Classic Games with MakeCode Arcade.md
       - 2022 Jan/.keep
