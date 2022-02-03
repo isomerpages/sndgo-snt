@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - 2022 Feb /.keep
+      - 2022 Jan/(Jan 2022) Storytelling session with My Favourite Days.md
       - "2022 Jan/(Jan 2022) My Favourite Days: Behind the Scenes.md"
       - 2022 Jan/(Jan 2022) Classic Games with MakeCode Arcade.md
       - 2022 Jan/.keep
