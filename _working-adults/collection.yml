@@ -3,15 +3,8 @@ collections:
     output: true
     order:
       - What's On.md
-      - Free Webinars/(Jan 2022) No Code Automation Changing the Business
-        World.md
-      - Free Webinars/(Jan 2022) Stay Healthy With Mobile Technology.md
-      - "Free Webinars/(Jan 2022) Introduction to Coding: HTML & CSS.md"
-      - Free Webinars/(Jan 2022) How to Protect Yourself From Everyday Cyber
-        Threats.md
-      - Free Webinars/(Jan 2022) Smart Decision Making Through Simulation.md
       - Free Webinars/.keep
-      - Free Webinars/(Feb 2022) Digital Transformation for Leaders .md
+      - Free Webinars/(Feb 2022) Digital Transformation.md
       - Free Webinars/(Feb 2022) Introduction to Digital Marketing.md
       - Free Webinars/(Feb 2022) Grow Your Career in Ops Strategy and Analytics
         with Shopee.md

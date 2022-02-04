@@ -2,8 +2,9 @@
 title: "Raising Future ready Kids: Parenting in a Digital Age"
 permalink: /kids-and-young-parents/tech-talks/raising-future-ready-kids
 description: ""
-third_nav_title: Tech Talk Series
+third_nav_title: 2022 Jan
 ---
+
 **Date:** 6 January
 <br> **Time:** 8pm - 9pm
 
