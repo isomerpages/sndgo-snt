@@ -14,4 +14,4 @@ avoiding common pitfalls – with this webinar.
 
 [Sign up here! ](https://go.gov.sg/wadigitransformation-feb22)
 
-![Alt text for image on Isomer site](/images/Digital%20Transformation.png)
+![Digital Transformation webinar](/images/Digi%20Transformation.jpeg)
