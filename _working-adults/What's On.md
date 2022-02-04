@@ -5,8 +5,7 @@ description: ""
 image: /images/wa.png
 ---
 # February
- 
-![Free webinars in February for working adults](/images/feb-wa.png)
+![Free webinars in February for working adults](/images/Overview-Feb22.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
 
