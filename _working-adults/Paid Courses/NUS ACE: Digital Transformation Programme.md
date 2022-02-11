@@ -19,7 +19,7 @@ This Digital Transformation Programme is a holistic programme that offers partic
 
 This series of Professional Certificates will help you to prepare for the jobs of tomorrow and it will drive innovation in the company.
 
-**Digital Transformation Programme**
+#### **DIGITAL TRANSFORMATION PROGRAMME**
 
 [Professional Certificate in Digital Transformation – Digital Marketing and e-Commerce](https://ace.nus.edu.sg/event/professional-certificate-in-digital-transformation-digital-marketing-and-e-commerce/)
 
