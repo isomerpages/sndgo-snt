@@ -4,7 +4,6 @@ permalink: /working-adults/digi-transformation/nus-ace
 description: ""
 third_nav_title: Paid Courses
 ---
-
 ![NUS Digital Transformation Programme](/images/NUS-Digi-Transformation.jpg)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
@@ -32,4 +31,3 @@ This series of Professional Certificates will help you to prepare for the jobs o
 
 #### **ENQUIRIES**
 Please email soc-ace@nus.edu.sg
-
