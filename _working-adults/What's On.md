@@ -24,6 +24,9 @@ image: /images/wa.png
 
 ###  Click on the links below for more information on available paid courses
 
+* [Digital Transformation Programme](https://ace.nus.edu.sg/event/nus-digital-transformation-programme/)<br>
+ by NUS Advanced Computing for Executives 
+
 * [Cybersecurity Begins With Me](/working-adults/cybersecurity/nus-ace)<br>
  by NUS Advanced Computing for Executives 
 

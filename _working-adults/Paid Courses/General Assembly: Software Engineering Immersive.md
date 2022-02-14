@@ -4,8 +4,6 @@ permalink: /working-adults/paid-courses/ga-software-eng
 third_nav_title: Paid Courses
 description: ""
 ---
-
-
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/60ppnDlFgtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Training provider:** [General Assembly](https://generalassemb.ly/)  
@@ -21,7 +19,7 @@ Your best course for career transformation in tech. This full-time coding bootca
 Developed with guidance from our software engineering advisory board, our curriculum is primed for industry relevance. Learn the core skills to build full-stack web applications on the job: computer science fundamentals, collaboration tools, and the programming languages modern employers demand.
 
 **Gain a Well-Rounded Technical Foundation**
-Hone fluency in multiple frameworks and stacks. Apply essential object-oriented programming concepts, and leverage JavaScript libraries like React. Incorporate functionality from third-party APIs and add complexity and nuance with Python, Django, and more.  
+<br>Hone fluency in multiple frameworks and stacks. Apply essential object-oriented programming concepts, and leverage JavaScript libraries like React. Incorporate functionality from third-party APIs and add complexity and nuance with Python, Django, and more.  
 
 **Go Beyond “Full-Stack Development”**
 Discover how to effectively communicate and collaborate with web development teams to carry out projects from concept to completion. Practise version control with Git and GitHub while executing software engineering projects in an Agile development workflow.
@@ -40,7 +38,9 @@ Discover how to effectively communicate and collaborate with web development tea
 
 Land a full-time role as Software Engineer
 
-**According to GA's 2019 Outcomes Report, 90.5% of full-time General Assembly graduates who complete our Career Services program got a job in their field of study within 180 days of graduation.**  
+**According to General Assembly’s most recent Outcomes report, during the 2020 hiring shutdown, GA’s students, instructors, and career coaches never lost focus, and the KPMG-validated numbers in their Outcomes report reflect it.** 
+
+**For students who graduated in 2020 — the peak of the pandemic — 74.4% of those who participated in GA’s full-time Career Services program landed jobs within six months of graduation. General Assembly is proud of their grads + teams’ relentless dedication and to see those numbers rising. Download the report [here](https://ga-public-downloads.s3.amazonaws.com/General-Assembly-Outcomes-Report-Latest.pdf).** 
 
 General Assembly’s full-time Immersive programs in web development, user experience (UX) design, and data science are rigorous, career-driven courses designed to propel each student — no matter their experience level at entry — into an exciting new career.  
 
