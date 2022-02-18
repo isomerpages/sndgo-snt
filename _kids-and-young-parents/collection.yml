@@ -2,7 +2,7 @@ collections:
   kids-and-young-parents:
     output: true
     order:
-      - What's On.md
+      - Tech Webinars for Kids.md
       - Fun With Tech Series/.keep
       - Fun With Tech Series/(Feb 2022) A Coding Adventure with CodeMonkey.md
       - Fun With Tech Series/(Feb 2022) Storytelling session with My Favourite
