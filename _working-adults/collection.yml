@@ -2,7 +2,7 @@ collections:
   working-adults:
     output: true
     order:
-      - What's On.md
+      - Tech Webinars for Adults.md
       - Free Webinars/.keep
       - Free Webinars/(Feb 2022) Digital Transformation.md
       - Free Webinars/(Feb 2022) Introduction to Digital Marketing.md
