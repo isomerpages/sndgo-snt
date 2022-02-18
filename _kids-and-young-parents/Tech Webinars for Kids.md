@@ -4,9 +4,6 @@ permalink: /kids-and-young-parents/overview
 description: Sign up for interactive workshop series to learn skills such as coding and AI.
 image: /images/cyyp.png
 ---
-
-# February
-
 ![List of free webinars in February for kids](/images/feb-2022/Overview-Kids.png)
 
 ### Click on the links below for more information on the FREE webinars
