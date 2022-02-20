@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Tech Webinars for Adults.md
+      - "Free Webinars/Tech 101: Natural Language Processing.md"
       - Free Webinars/Introduction to GoBusiness (Mar 2022).md
       - Free Webinars/Debunking Myths in Cybersecurity (Mar 2022).md
       - Free Webinars/Disruptive Technologies  in the New Economy (Mar 2022).md
