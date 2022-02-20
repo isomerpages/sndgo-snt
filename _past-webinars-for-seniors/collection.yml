@@ -2,5 +2,6 @@ collections:
   past-webinars-for-seniors:
     output: true
     order:
+      - 2022 Feb/Know All About Singpass.md
       - 2022 Feb/.keep
       - 2022 Jan/.keep
