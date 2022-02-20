@@ -20,8 +20,8 @@ image: /images/cyyp.png
 
 ### Click on the links below for more information on the FREE webinars
 
-* [Fun With Tech: Coding Adventure (CodeMonkey)](/kids-and-young-parents/fun-with-tech/coding-mar22)<br>
+* [Fun With Tech: Coding Adventure (CodeMonkey)](/kids-and-young-parents/fun-with-tech/coding-mar2022)<br>
 19 Mar, 10am - 11am
 
-* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-mar22)<br>
+* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-mar2022)<br>
 20 Mar, 11am - 12 noon
