@@ -8,7 +8,7 @@ image: /images/cyyp.png
 
 ### Click on the links below for more information on the FREE webinars
 
-* [Fun With Tech: Coding Adventure (CodeMonkey) ](/kids-and-young-parents/fun-with-tech/coding-feb2022)<br> 19 Mar, 10am - 11am 
+* [Fun With Tech: Coding Adventure (CodeMonkey) ](/kids-and-young-parents/fun-with-tech/coding-feb2022)<br> 12 Feb, 10am - 11am 
 
 * [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-feb2022)<br>
 13 Feb, 11am - 12 noon
@@ -20,11 +20,8 @@ image: /images/cyyp.png
 
 ### Click on the links below for more information on the FREE webinars
 
-* [[Fun With Tech: Coding Adventure (CodeMonkey)](/kids-and-young-parents/fun-with-tech/coding-mar22)
-12 Feb, 10am - 11am
+* [Fun With Tech: Coding Adventure (CodeMonkey)](/kids-and-young-parents/fun-with-tech/coding-mar22)<br>
+19 Mar, 10am - 11am
 
-* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-feb2022)<br>
-13 Feb, 11am - 12 noon
-
-* [Classic Games With MakeCode Arcade](/kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-feb2022)<br>
-20 Feb, 10am - 11.30am
+* [Storytelling Session With "My Favourite Days"](/kids-and-young-parents/fun-with-tech/my-favourite-days-mar22)<br>
+20 Mar, 11am - 12 noon
