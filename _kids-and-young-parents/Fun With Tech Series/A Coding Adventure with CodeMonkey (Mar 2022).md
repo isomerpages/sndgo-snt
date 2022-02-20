@@ -5,7 +5,6 @@ description: Fun Coding Workshop for Kids
 image: /images/Kids-CodeMonkey.jpeg
 third_nav_title: Fun With Tech Series
 ---
-
 **Date:** 19 Mar 
 <br> **Time:** 10am - 11am
 
