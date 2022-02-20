@@ -39,7 +39,7 @@ image: /images/wa.png
  24 Mar, 12pm - 1.30pm
  
  * [Tech 101: Metaverse & NFTs](/working-adults/free-webinars/nft-mar2022)<br>
- 24 Mar, 12pm - 1.30pm
+ 31 Mar, 12pm - 1.30pm
  
 
 ###  Click on the links below for more information on available paid courses
