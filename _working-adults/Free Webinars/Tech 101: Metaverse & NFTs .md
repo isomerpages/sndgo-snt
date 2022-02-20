@@ -5,3 +5,11 @@ description: NFT Workshop for Working Adults
 image: /images/WA-NFT.jpeg
 third_nav_title: Free Webinars
 ---
+**Date:** 31 Mar, Thursday
+<br> **Time:** 12pm - 1.30pm
+
+Think your selfie could be sold for a million bucks? In this webinar, discover the business model behind non-fungible tokens (NFTs) and how they are impacting our physical world. Also learn more about what a metaverse is, and why you should care.
+
+[Sign up here! ](https://go.gov.sg/wa-nft-mar22)
+
+![NFT Workshop for Working Adults](/images/WA-NFT.jpeg)
