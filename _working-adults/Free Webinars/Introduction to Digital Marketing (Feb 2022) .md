@@ -1,9 +1,10 @@
 ---
-title: (Feb 2022) Introduction to Digital Marketing
+title: "Introduction to Digital Marketing (Feb 2022) "
 permalink: /working-adults/free-webinars/digital-marketing-feb2022
 description: ""
 third_nav_title: Free Webinars
 ---
+
 **Date:** 21 February, Monday
 <br> **Time:** 12pm - 1.30pm
 

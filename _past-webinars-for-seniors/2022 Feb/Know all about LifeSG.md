@@ -1,9 +1,11 @@
 ---
-title: Know all about LifeSG (for Seniors)
+title: Know all about LifeSG
 permalink: /seniors/my-savvy-kaki/lifesg
 description: ""
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Feb
 ---
+
+
 **Date:** 16 February
 <br> **Time:** 3pm - 4pm
 

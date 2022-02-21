@@ -1,9 +1,10 @@
 ---
-title: (Feb 2022) Grow Your Career in Ops Strategy and Analytics with Shopee
+title: "Grow Your Career in Ops Strategy and Analytics with Shopee (Feb 2022) "
 permalink: /working-adults/free-webinars/grow-your-career-feb2022
 description: ""
 third_nav_title: Free Webinars
 ---
+
 **Date:** 28 February, Monday
 <br> **Time:** 12pm - 1pm
 

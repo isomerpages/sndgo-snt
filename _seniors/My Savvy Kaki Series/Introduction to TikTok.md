@@ -1,0 +1,15 @@
+---
+title: Introduction to TikTok
+permalink: /seniors/my-savvy-kaki/tiktok
+description: Free workshop on TikTok for seniors
+image: /images/Seniors - TikTok.jpeg
+third_nav_title: My Savvy Kaki Series
+---
+**Date:** 16 March
+<br> **Time:** 3pm - 4pm
+
+What is this TikTok that all your children and grandchildren are hooked on? Can you also make these 15-second videos and surprise your grandkids? Sign up to find out.
+
+[Sign up here!](https://go.gov.sg/itt-ss-mar16)
+
+![Free workshop on TikTok for seniors](/images/Seniors%20-%20TikTok.jpeg)

@@ -1,9 +1,11 @@
 ---
-title: (Feb 2022) A Coding Adventure with CodeMonkey
+title: "A Coding Adventure with CodeMonkey (Feb 2022) "
 permalink: /kids-and-young-parents/fun-with-tech/coding-feb2022
-third_nav_title: Fun With Tech Series
+third_nav_title: "2022 Feb "
 description: ""
 ---
+
+
 
 
 
