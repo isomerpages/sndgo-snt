@@ -22,7 +22,7 @@ image: /images/wa.png
  
 <br>
 
-![Free webinars in March for working adults](/images/Overview-WA.jpeg)
+![Free webinars in March for working adults](/images/Mar-Overview-WA.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
 
