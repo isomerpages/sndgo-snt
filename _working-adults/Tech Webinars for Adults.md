@@ -30,7 +30,7 @@ image: /images/wa.png
 3 Mar,  12pm - 1pm
  
 * [Debunking Myths in Cybersecurity](/working-adults/free-webinars/cybersecurity-mar2022)<br>
- 10 Mar, 12pm - 1pm  
+ 10 Mar, 12pm - 1.30pm  
  
 * [Introduction to GoBusiness](/working-adults/free-webinars/gobiz-mar2022) <br>
  17 Mar, 12pm - 1pm
