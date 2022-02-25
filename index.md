@@ -1,21 +1,17 @@
 ---
 layout: homepage
 title: "#SmartNationTogether"
-description: Brief site description here
-image: /images/SNS-logo.png
+description: An online channel featuring tech-related talks and workshops.
+image: /images/OG Image/SNT-Website-OG-Image.jpg
 permalink: /
 notification: ""
 sections:
   - hero:
-      title: "#SmartNation</br>Together"
-      background: /images/SNT logo for website (2).png
-  - infopic:
-      title: Introduction
+      background: /images/Homepage_SNT_Website.jpg
+  - infobar:
       description: "#SmartNationTogether is an online channel featuring tech-related
         talks and workshops for kids & young parents, working adults, and
         seniors. "
-      image: /images/SNT logo.png
-      alt: "#SmartNationTogether"
   - infopic:
       title: Kids and Young Parents
       description: Parents can sign their children up for the TECH@PLAY or FUN WITH
@@ -23,7 +19,7 @@ sections:
       button: Find out more
       url: /kids-and-young-parents/overview
       alt: Image alt text
-      image: /images/cyyp.png
+      image: /images/Home Page/SNT Kids Home Image.jpeg
   - infopic:
       title: Working Adults
       description: "Join us for talks on the latest tech trends, and hear our subject
@@ -32,7 +28,7 @@ sections:
       button: Find out more
       url: /working-adults/free-webinars/overview
       alt: Image alt text
-      image: /images/wa.png
+      image: /images/Home Page/SNT Adults Home Image.jpeg
   - infopic:
       title: Seniors
       description: Learn how digital government services can help you in your daily
@@ -41,14 +37,14 @@ sections:
       button: Find out more
       url: /seniors/overview
       alt: Image alt text
-      image: /images/s.png
+      image: /images/Home Page/SNT Senior Home Image.jpeg
   - infopic:
       title: Digital for Life movement
       description: The Digital for Life movement aims to galvanise the community to
         help citizens of all ages and walks of life to embrace digital learning
         as a lifelong pursuit.
       url: https://www.imda.gov.sg/digitalforlife
-      image: /images/Digital-For-Life-Logo-transparent.png
+      image: /images/Icons & Logos/Digital-For-Life-Logo-transparent.png
       alt: Image alt text
       button: FIND OUT MORE
 ---

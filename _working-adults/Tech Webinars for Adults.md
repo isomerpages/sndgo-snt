@@ -1,9 +1,8 @@
 ---
 title: Tech Webinars for Adults
 permalink: /working-adults/free-webinars/overview
-description: Join us for talks on the latest tech trends, and hear our subject
-  experts discuss the latest tech policies.
-image: /images/wa.png
+description: Sign up for our FREE webinars to learn more about tech!
+image: /images/OG Image/SNT Adults OG Image.jpeg
 ---
 ![Free webinars in February for working adults](/images/Overview-Feb22.jpeg)
 
@@ -22,7 +21,7 @@ image: /images/wa.png
  
 <br>
 
-![Free webinars in March for working adults](/images/Overview-WA.jpeg)
+![Free webinars in March for working adults](/images/Mar22-Overview-WA.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
 

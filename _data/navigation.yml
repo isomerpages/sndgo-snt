@@ -1,4 +1,4 @@
-logo: /images/SNS-logo.png
+logo: /images/Icons & Logos/SNS-logo.png
 links:
   - title: About
     url: /about-snt/
@@ -10,3 +10,5 @@ links:
     collection: seniors
   - title: Collaborate with us
     url: /collaborate
+  - title: Smart Nation SG
+    url: https://www.smartnation.gov.sg/

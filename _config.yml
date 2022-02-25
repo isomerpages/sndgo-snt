@@ -1,6 +1,6 @@
 title: "#SmartNationTogether"
 url: https://together.smartnation.gov.sg
-favicon: /images/SNS-burst.ico
+favicon: /images/Icons & Logos/SNS-burst.ico
 colors:
   primary-color: "#e70d2e"
   secondary-color: "#a6221c"
@@ -15,7 +15,7 @@ colors:
       color: "#ff9c3d"
     - title: media-color-five
       color: "#ef6318"
-description: An Isomer site of the Singapore Government
+description: An online channel featuring tech-related talks and workshops.
 permalink: none
 baseurl: ""
 exclude:
@@ -55,4 +55,4 @@ plugins:
 is_government: true
 google_analytics: UA-77555444-3
 linkedin-insights: 0000ff, 9f00ff
-shareicon: /images/snt-webinars.jpeg
+shareicon: /images/OG Image/SNT-Website-OG-Image.jpg

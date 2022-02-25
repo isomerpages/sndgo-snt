@@ -1,0 +1,6 @@
+collections:
+  test-folder:
+    output: true
+    order:
+      - faq.md
+      - accordion.md

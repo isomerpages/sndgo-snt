@@ -1,9 +1,10 @@
 ---
 title: Tech Webinars for Kids
 permalink: /kids-and-young-parents/overview
-description: Sign up for interactive workshop series to learn skills such as coding and AI.
-image: /images/cyyp.png
+description: Sign up for our FREE webinars to learn more about tech!
+image: /images/OG Image/SNT Kids OG Image.jpeg
 ---
+
 
 
 ![List of free webinars in March for kids](/images/Overview-Kids.jpeg)

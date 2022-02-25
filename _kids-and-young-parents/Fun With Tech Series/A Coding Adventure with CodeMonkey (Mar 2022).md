@@ -5,12 +5,11 @@ description: Fun Coding Workshop for Kids
 image: /images/Kids-CodeMonkey.jpeg
 third_nav_title: Fun With Tech Series
 ---
-
 **Date:** 19 Mar 
 <br> **Time:** 10am - 11am
 
 Going bananas over coding? Give your child a head-start on this life skill with this fun-filled introductory course. 
 
-Sign up here! 
+[Sign up here! ](https://go.gov.sg/kids-codemonkey-mar22)
 
-![Fun Coding workshop for Kids](/images/Kids-CodeMonkey.jpeg)
+![Fun Coding workshop for kids](/images/Kids-CodeMonkey.jpeg)
