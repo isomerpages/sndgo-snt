@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page/SNT logo for website (2).png
+      background: /images/Home Page/Homepage_SNT.jpg
   - infobar:
       title: "#SmartNationTogether"
       description: "#SmartNationTogether is an online channel featuring tech-related
