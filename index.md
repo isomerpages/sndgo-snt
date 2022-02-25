@@ -7,15 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: "#SmartNation</br>Together"
       background: /images/Home Page/SNT logo for website (2).png
-  - infopic:
-      title: Introduction
+  - infobar:
+      title: "#SmartNationTogether"
       description: "#SmartNationTogether is an online channel featuring tech-related
         talks and workshops for kids & young parents, working adults, and
         seniors. "
-      image: /images/Icons & Logos/SNT logo.png
-      alt: "#SmartNationTogether"
   - infopic:
       title: Kids and Young Parents
       description: Parents can sign their children up for the TECH@PLAY or FUN WITH
