@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page/Homepage_SNT.jpg
+      background: /images/Homepage_SNT.jpg
   - infobar:
       description: "#SmartNationTogether is an online channel featuring tech-related
         talks and workshops for kids & young parents, working adults, and
