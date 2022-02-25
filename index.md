@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: "#SmartNationTogether"
-description: Brief site description here
+description: An online channel featuring tech-related talks and workshops.
 image: /images/OG Image/SNT-Website-OG-Image.jpg
 permalink: /
 notification: ""
@@ -52,5 +52,6 @@ sections:
       alt: Image alt text
       button: FIND OUT MORE
 ---
+
 
 
