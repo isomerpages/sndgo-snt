@@ -8,13 +8,13 @@ notification: ""
 sections:
   - hero:
       title: "#SmartNation</br>Together"
-      background: /images/SNT logo for website (2).png
+      background: /images/Home Page/SNT logo for website (2).png
   - infopic:
       title: Introduction
       description: "#SmartNationTogether is an online channel featuring tech-related
         talks and workshops for kids & young parents, working adults, and
         seniors. "
-      image: /images/SNT logo.png
+      image: /images/Icons & Logos/SNT logo.png
       alt: "#SmartNationTogether"
   - infopic:
       title: Kids and Young Parents
@@ -23,7 +23,7 @@ sections:
       button: Find out more
       url: /kids-and-young-parents/overview
       alt: Image alt text
-      image: /images/cyyp.png
+      image: /images/OG Image/SNT Kids OG Image.jpeg
   - infopic:
       title: Working Adults
       description: "Join us for talks on the latest tech trends, and hear our subject
@@ -32,7 +32,7 @@ sections:
       button: Find out more
       url: /working-adults/free-webinars/overview
       alt: Image alt text
-      image: /images/wa.png
+      image: /images/OG Image/SNT Adults OG Image.jpeg
   - infopic:
       title: Seniors
       description: Learn how digital government services can help you in your daily
@@ -41,14 +41,14 @@ sections:
       button: Find out more
       url: /seniors/overview
       alt: Image alt text
-      image: /images/s.png
+      image: /images/OG Image/SNT Seniors OG Image.jpeg
   - infopic:
       title: Digital for Life movement
       description: The Digital for Life movement aims to galvanise the community to
         help citizens of all ages and walks of life to embrace digital learning
         as a lifelong pursuit.
       url: https://www.imda.gov.sg/digitalforlife
-      image: /images/Digital-For-Life-Logo-transparent.png
+      image: /images/Icons & Logos/Digital-For-Life-Logo-transparent.png
       alt: Image alt text
       button: FIND OUT MORE
 ---
