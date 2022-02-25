@@ -23,7 +23,7 @@ sections:
       button: Find out more
       url: /kids-and-young-parents/overview
       alt: Image alt text
-      image: /images/OG Image/SNT Kids OG Image.jpeg
+      image: /images/Home Page/cyyp.png
   - infopic:
       title: Working Adults
       description: "Join us for talks on the latest tech trends, and hear our subject
@@ -32,7 +32,7 @@ sections:
       button: Find out more
       url: /working-adults/free-webinars/overview
       alt: Image alt text
-      image: /images/OG Image/SNT Adults OG Image.jpeg
+      image: /images/Home Page/wa.png
   - infopic:
       title: Seniors
       description: Learn how digital government services can help you in your daily
@@ -41,7 +41,7 @@ sections:
       button: Find out more
       url: /seniors/overview
       alt: Image alt text
-      image: /images/OG Image/SNT Seniors OG Image.jpeg
+      image: /images/Home Page/s.png
   - infopic:
       title: Digital for Life movement
       description: The Digital for Life movement aims to galvanise the community to
