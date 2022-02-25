@@ -2,7 +2,7 @@
 layout: homepage
 title: "#SmartNationTogether"
 description: Brief site description here
-image: /images/SNS-logo.png
+image: /images/Home Page/snt-webinars.jpeg
 permalink: /
 notification: ""
 sections:
@@ -52,3 +52,4 @@ sections:
       alt: Image alt text
       button: FIND OUT MORE
 ---
+
