@@ -4,7 +4,6 @@ permalink: /working-adults/free-webinars/overview
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Adults OG Image.jpeg
 ---
-
 ![Free webinars in February for working adults](/images/Overview-Feb22.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
@@ -30,7 +29,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 3 Mar,  12pm - 1pm
  
 * [Debunking Myths in Cybersecurity](/working-adults/free-webinars/cybersecurity-mar2022)<br>
- 10 Mar, 12pm - 1.30pm  
+ 10 Mar, 12pm - 1pm  
  
 * [Introduction to GoBusiness](/working-adults/free-webinars/gobiz-mar2022) <br>
  17 Mar, 12pm - 1pm
