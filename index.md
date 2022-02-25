@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/Home Page/Homepage_SNT.jpg
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
       description: "#SmartNationTogether is an online channel featuring tech-related
         talks and workshops for kids & young parents, working adults, and
