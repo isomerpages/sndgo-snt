@@ -21,7 +21,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
  
 <br>
 
-![Free webinars in March for working adults](/images/Overview-WA-mar.jpeg)
+![Free webinars in March for working adults](/images/Mar22-Overview-WA.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
 
