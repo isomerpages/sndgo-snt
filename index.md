@@ -9,7 +9,6 @@ sections:
   - hero:
       background: /images/Home Page/Homepage_SNT.jpg
   - infobar:
-      title: "#SmartNationTogether"
       description: "#SmartNationTogether is an online channel featuring tech-related
         talks and workshops for kids & young parents, working adults, and
         seniors. "
