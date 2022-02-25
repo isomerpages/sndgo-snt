@@ -3,7 +3,7 @@ title: Example Title
 permalink: /about-snt
 description: ""
 ---
-![](/images/Icons%20&%20Logos/SNT%20logo.png)
+![#SmartNationTogether](/images/Icons%20&%20Logos/SNT%20logo.png)
 
 #SmartNationTogether is an online channel featuring tech-related talks and workshops for kids & young parents, working adults, and seniors.
 
