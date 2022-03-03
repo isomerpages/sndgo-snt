@@ -4,7 +4,6 @@ permalink: /working-adults/free-webinars/overview
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Adults OG Image.jpeg
 ---
-
 ![Free webinars in March for working adults](/images/Mar22-Overview-WA.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
@@ -27,11 +26,11 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 
 ###  Click on the links below for more information on available paid courses
 
-* [Digital Transformation Programme](https://ace.nus.edu.sg/event/nus-digital-transformation-programme/)<br>
+* [Digital Transformation Programme](/working-adults/digi-transformation/nus-ace)<br>
+ by NUS Advanced Computing for Executives 
+ 
+ * [Business Strategies for the New Economy](/working-adults/biz-strategies/nus-ace))<br>
  by NUS Advanced Computing for Executives 
 
 * [Data Science Immersive](/working-adults/paid-courses/ga-data-sci) <br>
  by General Assembly
-
-
-
