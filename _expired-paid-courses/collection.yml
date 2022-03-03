@@ -1,4 +1,5 @@
 collections:
   expired-paid-courses:
     output: true
-    order: []
+    order:
+      - "NUS FASS: Professional Certificate in Computational Reasoning.md"
