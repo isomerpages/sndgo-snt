@@ -1,0 +1,4 @@
+collections:
+  expired-paid-courses:
+    output: true
+    order: []
