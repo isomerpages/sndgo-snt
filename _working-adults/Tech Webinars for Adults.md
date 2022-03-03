@@ -29,7 +29,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 * [Digital Transformation Programme](/working-adults/digi-transformation/nus-ace)<br>
  by NUS Advanced Computing for Executives 
  
- * [Business Strategies for the New Economy](/working-adults/biz-strategies/nus-ace))<br>
+ * [Business Strategies for the New Economy](/working-adults/biz-strategies/nus-ace)<br>
  by NUS Advanced Computing for Executives 
 
 * [Data Science Immersive](/working-adults/paid-courses/ga-data-sci) <br>
