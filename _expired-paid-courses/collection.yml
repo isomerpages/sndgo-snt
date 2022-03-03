@@ -2,6 +2,7 @@ collections:
   expired-paid-courses:
     output: true
     order:
+      - "General Assembly: User Experience Immersive.md"
       - "NUS DSDS: Professional Certificate in Data Literacy.md"
       - "NUS ACE: Professional Certificate in Artificial Intelligence.md"
       - "NUS FASS: Professional Certificate in Computational Reasoning.md"
