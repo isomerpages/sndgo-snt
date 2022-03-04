@@ -1,9 +1,9 @@
 ---
 title: "NUS DSDS: Professional Certificate in Data Literacy"
 permalink: /working-adults/paid-courses/nus-data-lit
-third_nav_title: Paid Courses
 description: ""
 ---
+
 
 
 ![Alt text for image on Isomer site](/images/nus-data-lit.png)

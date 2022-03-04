@@ -1,9 +1,9 @@
 ---
 title: "NUS ACE: Professional Certificate in Artificial Intelligence"
 permalink: /working-adults/deep-dive/nus-ai
-third_nav_title: Paid Courses
 description: ""
 ---
+
 
 
 ![Alt text for image on Isomer site](/images/nus-ai.jpg)
