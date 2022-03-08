@@ -25,7 +25,7 @@ At the **IoT Asia+ 2022 conference**, taking place from 16 to 17 March, get the 
 * **Talent & development** and collaboration to promote IoT ecosystem in the region
 
 
-#### **EVENT HIGHLIGHTS**
+#### **CONFERENCE HIGHLIGHTS**
 
 
 | **Day 1 : 16 March** | **Day 2 : 17 March** | 
