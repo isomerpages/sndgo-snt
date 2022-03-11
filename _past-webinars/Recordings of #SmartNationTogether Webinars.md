@@ -8,7 +8,6 @@ image: /images/OG Image/Catch Up On the Webinars 01.jpeg
 
 Missed the live sessions? Fret not! Catch up on our past webinars below.
 
-<br>
 <div class="row">
 <div class="col"> 
 <a href="https://youtube.com/playlist?list=PLmGkYf0auQJyxlTr9QzkEDNQ5X8u87e_t"><img src="/images/Home%20Page/SNT%20Adults%20Home%20Image.jpeg" alt="Recordings of past webinars for working adults"></a><br>
@@ -21,7 +20,3 @@ Missed the live sessions? Fret not! Catch up on our past webinars below.
 	
 </div>
 	</div>
-	
-1005
-	
-	<span style="font-size: 20px; font-weight: bold; line-height: 30px; display:flex;justify-content:center">
