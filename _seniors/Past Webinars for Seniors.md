@@ -1,8 +1,9 @@
 ---
-title: Past Webinars
+title: Past Webinars for Seniors
 permalink: /seniors/past-webinars
 description: ""
 ---
+
 
 Catch up on past webinars conducted on the #SmartNationTogether seniors track at our YouTube playlist!
 

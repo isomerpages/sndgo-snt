@@ -1,9 +1,10 @@
 ---
 title: Stay Healthy With Mobile Technology
 permalink: /working-adults/free-webinars/stay-healthy-with-mobile-technology
-third_nav_title: Past Webinars
+third_nav_title: Past Webinars for Adults
 description: ""
 ---
+
 
 **Date:** 13 January, Thursday
 <br>**Time:** 12pm – 1pm
