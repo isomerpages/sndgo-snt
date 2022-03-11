@@ -1,0 +1,4 @@
+collections:
+  past-webinars:
+    output: true
+    order: []
