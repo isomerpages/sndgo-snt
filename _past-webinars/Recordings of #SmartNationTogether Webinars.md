@@ -1,9 +1,11 @@
 ---
 title: "Recordings of #SmartNationTogether Webinars"
 permalink: /past-webinars/recordings
-description: Missed the live session. Fret not!
+description: Missed a session? We've got you covered!
 image: /images/OG Image/Catch Up On the Webinars 01.jpeg
 ---
+
+
 ![Catch up on the webinars you've missed.](/images/OG%20Image/Catch%20Up%20On%20the%20Webinars%2001.jpeg)
 
 Missed the live sessions? Fret not! Catch up on our past webinars below.
