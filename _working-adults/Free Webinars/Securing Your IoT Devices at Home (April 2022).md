@@ -10,7 +10,7 @@ third_nav_title: Free Webinars
 
 Hey Google, is my smart home safe? This webinar will teach you how to better protect your home devices that are connected to the Internet. 
 
-*This webinar is part of the Ask the Cyber Experts Series.* 
+*This webinar is part of the Ask the Cyber Experts Series.*
 
 [Sign up here!](https://go.gov.sg/wa-iot-apr22)
 
