@@ -13,8 +13,8 @@ image: /images/OG Image/SNT Senior OG Image.jpeg
 * [(NLB) SURE Skills for Seniors: Verifying Images & Video](/seniors/my-savvy-kaki/sureskills-apr2022)<br>
 21 Apr, 3pm - 4pm
 
-* [Introduction to Google Photos](/seniors/my-savvy-kaki/googlephotos)<br>
-23 Mar, 3pm - 4pm
+* [Staying Safe from Phishing and Online Scams ](/seniors/My-Savvy-Kaki-Series/cybersafe-phishing-apr2022)<br>
+25 Apr, 12pm - 1.30pm
 
 
 
