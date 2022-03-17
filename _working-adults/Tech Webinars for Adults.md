@@ -9,7 +9,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 ### Click on the links below for more information on the FREE webinars
 
 * [Data Protection in a Digital Age](/working-adults/free-webinars/data-protection-apr2022)<br>
-4 Apr,  12pm - 1.30pm
+4 Apr,  12pm - 1pm
  
 * [Growing Your Business: Increasing Online Reach](/working-adults/free-webinars/finlab1-apr2022)<br>
  11 Apr, 12pm - 1.30pm  
