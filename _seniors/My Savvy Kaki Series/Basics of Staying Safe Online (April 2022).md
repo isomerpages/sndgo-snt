@@ -5,11 +5,12 @@ description: Free Cybersecurity Webinar on Staying Safe Online
 image: /images/Apr - Seniors - Staying Safe.jpeg
 third_nav_title: My Savvy Kaki Series
 ---
-
 **Date:** 20 April, Wednesday
 <br> **Time:** 3pm - 4pm
 
 As online crimes continue to evolve, it’s easy to give in to despair. In this webinar, pick up cyber tips – including how to secure online accounts – to safeguard yourself and your loved ones. 
+
+*This webinar is part of the Ask the Cyber Experts Series.*
 
 [Sign up here! ](https://go.gov.sg/staysafeonline101-ss-apr20)
 
