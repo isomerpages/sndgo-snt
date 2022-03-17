@@ -5,7 +5,6 @@ description: "Free Cybersecurity Webinar on Staying Safe from Phishing and Onlin
 image: /images/Apr - General - Phishing.jpeg
 third_nav_title: My Savvy Kaki Series
 ---
-
 **Date:** 25 April
 <br> **Time:** 12pm - 1.30pm
 
@@ -13,4 +12,4 @@ What the phish?! To avoid falling prey to the ever-evolving tricks of scammers, 
 
 [Sign up here!](https://go.gov.sg/cybersafe-ss-apr25)
 
-![Free Cybersecurity Webinar on Staying Safe from Phishing and Online Scams](/images/Apr%20-%20General%20-%20Phishing.jpeg)
+![Free Cybersecurity webinar on Phishing for seniors](/images/Apr%20-%20General%20-%20Phishing%20-noSPF.jpeg)
