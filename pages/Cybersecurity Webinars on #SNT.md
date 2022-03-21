@@ -4,12 +4,11 @@ permalink: /april2022
 description: Don't be an April's fool. Get Smart about it. Check out our webinars in April.
 image: /images/OG Image/OG Image Begone Phishing.jpeg
 ---
+![April 2022 Cybersecurity Webinars](/images/April%202022%20Cybersecurity%20Webinars.jpeg)
 
 # Don't be an April's fool.
 
-![April 2022 Cybersecurity Webinars](/images/April%202022%20Cybersecurity%20Webinars.jpeg)
-
-## Check out our Cybersecurity webinars in April!
+>  Check out our Cybersecurity webinars in April!
 
 ### For Seniors
 
