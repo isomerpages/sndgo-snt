@@ -8,7 +8,7 @@ image: /images/OG Image/OG Image Begone Phishing.jpeg
 
 # Don't be an April's fool.
 
->  Check out our Cybersecurity webinars in April!
+## Check out the following <br>Cybersecurity webinars in April!
 
 ### For Seniors
 
