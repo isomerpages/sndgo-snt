@@ -12,4 +12,4 @@ What the phish?! To avoid falling prey to the ever-evolving tricks of scammers, 
 
 [Sign up here!](https://go.gov.sg/cybersafe-ss-apr25)
 
-![Free Cybersecurity webinar on Phishing for seniors](/images/Apr%20-%20General%20-%20Phishing%20-noSPF.jpeg)
+![Free Cybersecurity Webinar on Phishing for Seniors](/images/Apr%20-%20General%20-%20Phishing.jpeg)
