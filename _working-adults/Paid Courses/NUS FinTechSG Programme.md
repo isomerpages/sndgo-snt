@@ -60,9 +60,9 @@ Participants are required to attend the following modules before attending **Pro
 
 **Professional Certificate: Fintech Developer (Level 2)**
 
-[Developers Toolkit Part 1: Connecting the Frontend](https://ace.nus.edu.sg/event/developers-toolkit-part-1-connecting-the-frontend-e-learning/)
-[Developers Toolkit Part 2: Middleware to Backend](https://ace.nus.edu.sg/event/developers-toolkit-part-2-middleware-to-backend-e-learning/)
-[APIs and RPA: Automation, Bots and Future](https://ace.nus.edu.sg/event/apis-and-rpa-automation-bots-and-future-e-learning/)
+* [Developers Toolkit Part 1: Connecting the Frontend](https://ace.nus.edu.sg/event/developers-toolkit-part-1-connecting-the-frontend-e-learning/)
+* [Developers Toolkit Part 2: Middleware to Backend](https://ace.nus.edu.sg/event/developers-toolkit-part-2-middleware-to-backend-e-learning/)
+* [APIs and RPA: Automation, Bots and Future](https://ace.nus.edu.sg/event/apis-and-rpa-automation-bots-and-future-e-learning/)
 
 **Professional Certificate: Fintech Senior Developer (Level 3)**
 
