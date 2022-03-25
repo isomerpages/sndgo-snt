@@ -22,7 +22,7 @@ We've made the course to be very hands-on and ideally, someone with a full-time 
 2. Take 2 or 3 days per week for class (perhaps adjust work hours)
 3. Discuss how you can apply your learning to your work
 
-The program will be fully funded for NUS students graduating in 2021 (for eligible students). 
+The programme will be fully funded for NUS students graduating in 2021 (for eligible students). 
 
 
 #### **LEARNING OUTCOMES**
