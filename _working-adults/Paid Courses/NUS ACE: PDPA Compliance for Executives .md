@@ -29,3 +29,6 @@ Corporate Executives and Senior Managers
 
 #### **PRE-REQUISITES**
 At least a Diploma
+
+#### **ENQUIRIES**
+Please email soc-ace@nus.edu.sg  
