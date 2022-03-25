@@ -7,10 +7,10 @@ third_nav_title: Paid Courses
 ---
 <iframe width=100% height="315" src="https://www.youtube.com/embed/cCoD7kQfiPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Training provider:** National University Singapore (NUS) School of Computing (SoC) and AI Singapore
+**Training provider:** National University Singapore (NUS) School of Computing (SoC) and AI Singapore<br>
 **Study Mode:** Online Learning   
 **Duration:** 3 Months <br>
-**Sign up for the information session here:** [NUS FinTechSG Programme Information Session (29 April) ](https://nus-sg.zoom.us/meeting/register/tZUlc-6hqzkqE9fXqqlIJi7dT9InvJqfi2a-)
+**Sign up for the information session here:** [NUS FinTechSG Programme Information Session](https://nus-sg.zoom.us/meeting/register/tZUlc-6hqzkqE9fXqqlIJi7dT9InvJqfi2a-)
 
 #### **OVERVIEW**
 
