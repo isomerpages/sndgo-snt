@@ -3,7 +3,7 @@ title: Smart Nation & U 2021
 permalink: /working-adults/past-webinars/smartnationu
 third_nav_title: Past Webinars for Adults
 ---
-Catch up on the Smart Nation & U 2021 webinars at our YouTube playlist!
+Catch up on the Smart Nation & U 2021 webinars below!
 
 <div style="max-width: 1280px">
     <div
@@ -34,4 +34,3 @@ Catch up on the Smart Nation & U 2021 webinars at our YouTube playlist!
         ></iframe>
     </div>
 </div>
-
