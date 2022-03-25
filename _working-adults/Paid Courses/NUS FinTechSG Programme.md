@@ -26,20 +26,20 @@ The programme will be fully funded for NUS students graduating in 2021 (for elig
 
 
 #### **LEARNING OUTCOMES**
-Through the program, you will be able to:
+Through the program, you will be equipped with the following: 
 
-* Develop FinTech-specific skills
-* Perform Concepts, Cases and Technology Comparison
-* Perform Hands on Technology Comparison 
-* Perform Tools Selection for the Problem Statement 
-* Develop Design Thinking skills 
-* Perform Capstone Project Prep 
-* Understand Foundations of Finance and IT 
+* FinTech-specific skills
+* Concepts, Cases and Technology Comparison
+* Hands on Technology Comparison 
+* Tools Selection for the Problem Statement 
+* Design Thinking
+* Capstone Project Prep 
+* Foundations of Finance and IT 
 Financial Products
-* Understand Programming Fundamentals 
-* Understand APIs & Automation 
-* Understand Database, Network, Blockchain Tools 
-* Develop Dev Ops skills 
+* Programming Fundamentals 
+* APIs & Automation 
+* Database, Network, Blockchain Tools 
+* Dev Ops
 
 #### **PROGRAMME STRUCTURE**
 
