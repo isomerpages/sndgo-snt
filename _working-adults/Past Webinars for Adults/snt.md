@@ -3,7 +3,7 @@ title: "#SNT"
 permalink: /working-adults/past-webinars/snt
 third_nav_title: Past Webinars for Adults
 ---
-Catch up on past webinars conducted on the #SmartNationTogether working adults track at our YouTube playlist!
+Catch up on past webinars conducted on the #SmartNationTogether working adults track below!
 
 <div style="max-width: 1280px">
     <div
