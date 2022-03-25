@@ -16,19 +16,17 @@ third_nav_title: Paid Courses
 
 This course will teach the participants:
 
-* About the Singapore Personal Data Protection Act (with 11 obligations) and equip them with the skillsets to lead a Data Protection Management Program as a management champion
-* To understand that the “tone at the top” could uplift an organisation from compliance to accountability, and that shaping a good data protection culture requires participation by all staff and continuous effort over a period of time
-* To be able to lead or supervise Data Protection Management Programme (DPMP) implementation, by utilising tools provided by PDPC and IMDA to perform impact assessment and risk rating, and finalising an action plan agreed by stakeholders
+* About the Singapore Personal Data Protection Act (with 11 obligations) and equip them with the skillsets to lead a Data Protection Management Program (DPMP) as a management champion
+* To understand that the “tone at the top” could uplift an organisation from compliance to accountability, and that shaping a good data protection culture requires participation by all staff and continuous effort over time
+* To be able to lead or supervise DPMP implementation, by utilising tools provided by PDPC and IMDA to perform impact assessment and risk rating, and finalising an action plan agreed by stakeholders
 * To understand the need to conduct periodical revision for DPMP improvements, and encourage utilisation of the DP Starter Kit Checklist (DPaaS@SMEs) to jump start good data protection practices 
 
 
 #### **WHO SHOULD ATTEND**
-
 Corporate Executives and Senior Managers
 
-
 #### **PRE-REQUISITES**
-At least a Diploma
+At least a Diploma 
 
 #### **ENQUIRIES**
-Please email soc-ace@nus.edu.sg  
+Please email soc-ace@nus.edu.sg
