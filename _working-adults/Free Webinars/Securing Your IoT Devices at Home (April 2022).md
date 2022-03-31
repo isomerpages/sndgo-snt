@@ -14,4 +14,4 @@ Hey Google, is my smart home safe? This webinar will teach you how to better pro
 
 [Sign up here!](https://go.gov.sg/wa-iot-apr22)
 
-![Free Cybersecurity Webinar on Phishing for Seniors](/images/Apr%20-%20General%20-%20Phishing%20-noSPF.jpeg)
+![Free Webinar on Securing your IoT Devices  at home](/images/Apr%20-%20WA%20-%20IoT.jpeg)
