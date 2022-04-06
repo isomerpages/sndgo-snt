@@ -3,8 +3,9 @@ title: Introduction to Facebook (March 2022)
 permalink: /seniors/my-savvy-kaki/facebook
 description: Free workshop on Facebook for seniors
 image: /images/Seniors-mar-FB.jpeg
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Mar
 ---
+
 
 **Date:** 9 March
 <br> **Time:** 3pm - 4pm

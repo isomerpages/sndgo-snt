@@ -3,8 +3,9 @@ title: Debunking Myths in Cybersecurity (Mar 2022)
 permalink: /working-adults/free-webinars/cybersecurity-mar2022
 description: "Cybersecurity Webinar for Working Adults "
 image: ""
-third_nav_title: Free Webinars
+third_nav_title: 2022 Mar
 ---
+
 **Date:** 10 March, Thursday
 <br> **Time:** 12pm - 1pm
 

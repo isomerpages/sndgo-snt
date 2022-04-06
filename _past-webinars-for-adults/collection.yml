@@ -2,6 +2,13 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - 2022 Mar/Introduction to GoBusiness (Mar 2022).md
+      - "2022 Mar/Tech 101: Natural Language Processing (Mar 2022).md"
+      - "2022 Mar/Tech 101: Metaverse & NFTs (Mar 2022).md"
+      - 2022 Mar/IoT Asia 2022 .md
+      - 2022 Mar/Debunking Myths in Cybersecurity (Mar 2022).md
+      - 2022 Mar/Disruptive Technologies  in the New Economy (Mar 2022).md
+      - 2022 Mar/.keep
       - "2022 Jan/No code Automation: Changing the Business World.md"
       - 2022 Jan/Stay Healthy With Mobile Technology.md
       - "2022 Jan/Introduction to Coding: HTML & CSS.md"

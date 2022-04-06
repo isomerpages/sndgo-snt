@@ -3,8 +3,9 @@ title: Introduction to TikTok (March 2022)
 permalink: /seniors/my-savvy-kaki/tiktok
 description: Free workshop on TikTok for seniors
 image: /images/Seniors - TikTok.jpeg
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Mar
 ---
+
 
 **Date:** 16 March
 <br> **Time:** 3pm - 4pm

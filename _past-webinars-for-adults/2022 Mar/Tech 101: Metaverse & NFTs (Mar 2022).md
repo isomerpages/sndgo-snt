@@ -3,8 +3,9 @@ title: "Tech 101: Metaverse & NFTs (Mar 2022)"
 permalink: /working-adults/free-webinars/nft-mar2022
 description: NFT Workshop for Working Adults
 image: /images/WA-NFT.jpeg
-third_nav_title: Free Webinars
+third_nav_title: 2022 Mar
 ---
+
 
 **Date:** 31 Mar, Thursday
 <br> **Time:** 12pm - 1.30pm

@@ -3,8 +3,9 @@ title: Introduction to Google Photos (March 2022)
 permalink: /seniors/my-savvy-kaki/googlephotos
 description: Free workshop on Google Photos for seniors
 image: /images/Seniors-mar-googlephotos.jpeg
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Mar
 ---
+
 
 **Date:** 23 March
 <br> **Time:** 3pm - 4pm
