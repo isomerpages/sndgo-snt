@@ -2,6 +2,7 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - 2022 Mar/IoT Asia 2022 .md
       - 2022 Mar/Debunking Myths in Cybersecurity (Mar 2022).md
       - 2022 Mar/Disruptive Technologies  in the New Economy (Mar 2022).md
       - 2022 Mar/.keep
