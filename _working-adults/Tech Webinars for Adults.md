@@ -15,7 +15,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
  11 Apr, 12pm - 1.30pm  
  
 * [Growing Your Business: Leveraging E-Commerce](/working-adults/free-webinars/finlab2-apr2022)<br>
- 14 Apr, 12pm - 1.30pm
+ 14 Apr, 12pm - 1pm
  
  * [Staying Safe from Phishing and Online Scams ](/working-adults/free-webinars/cybersafe-phishing-apr2022)<br>
  25 Apr, 12pm - 1.30pm
