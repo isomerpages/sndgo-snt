@@ -22,26 +22,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
  
  * [Securing Your IoT Devices at Home](/working-adults/free-webinars/cybersafe-iot-apr2022)<br>
  28 Apr, 12pm - 1pm
- 
-![Free webinars in March for working adults](/images/Mar22-Overview-WA.jpeg)
 
-### Click on the links below for more information on the FREE webinars
-
-* [Disruptive Technologies in the New Economy](/working-adults/free-webinars/disruptive-tech-mar2022) <br>
-3 Mar,  12pm - 1pm
- 
-* [Debunking Myths in Cybersecurity](/working-adults/free-webinars/cybersecurity-mar2022)<br>
- 10 Mar, 12pm - 1pm  
- 
-* [Introduction to GoBusiness](/working-adults/free-webinars/gobiz-mar2022) <br>
- 17 Mar, 12pm - 1pm
- 
- * [Tech 101: Natural Language Processing](/working-adults/free-webinars/nlp-mar2022)<br>
- 24 Mar, 12pm - 1.30pm
- 
- * [Tech 101: Metaverse & NFTs](/working-adults/free-webinars/nft-mar2022)<br>
- 31 Mar, 12pm - 1.30pm
- 
 
 ###  Click on the links below for more information on available paid courses
 
