@@ -6,10 +6,10 @@ image: /images/Apr - WA - Ecommerce.jpeg
 third_nav_title: Free Webinars
 ---
 **Date:** 14 April, Thursday
-<br> **Time:** 12pm - 1.30pm
+<br> **Time:** 12pm - 1pm
 
 Looking to take your business online? Get quick tips on how to tap on e-commerce, financing and payment solutions in this webinar.  
 
 [Sign up here!](https://go.gov.sg/wa-finlab2-apr22)
 
-![Free Webinar on Leverage E-Commerce for Working Adults](/images/Apr%20-%20WA%20-%20Ecommerce.jpeg)
+![Free webinar on e-commerce for businesses](/images/Apr-WA-E-commerce.jpeg)
