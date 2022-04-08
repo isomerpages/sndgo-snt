@@ -9,7 +9,9 @@ description: ""
 **Study Mode:** On Campus / Online  
 **Duration:** 12 Weeks Full Time or 6 Month Part Time  
 **Course Rundown:**
-Your best course for career transformation in tech. This full-time coding bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.  
+Your best course for career transformation in tech. This full-time coding bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.<br>
+**Sign up here:** This course is no longer available.
+
 
 #### **WHAT YOU'LL LEARN**
 
