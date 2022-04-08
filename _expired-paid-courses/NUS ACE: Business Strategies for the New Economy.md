@@ -4,13 +4,11 @@ permalink: /working-adults/biz-strategies/nus-ace
 description: Working Adults Course on Business Strategies for the New Economy
 image: /images/NUS-ACE-biz-strat.jpg
 ---
-
 ![Upskill Yourself With Business Strategies for the New Economy ](/images/NUS-ACE-biz-strat.jpg)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** Online Learning   
 **Duration:** 3 Full Days and 4 Half Days <br>
-**Sign up here:** [Business Strategies for the New Economy](https://ace.nus.edu.sg/event/business-strategies-for-the-new-economy/)
 
 #### **COURSE OBJECTIVES**
 
