@@ -9,6 +9,7 @@ image: /images/NUS-ACE-biz-strat.jpg
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** Online Learning   
 **Duration:** 3 Full Days and 4 Half Days <br>
+**Sign up here:** This course is no longer available.
 
 #### **COURSE OBJECTIVES**
 
