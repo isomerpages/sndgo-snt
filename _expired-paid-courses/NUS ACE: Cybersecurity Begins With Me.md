@@ -8,6 +8,7 @@ description: ""
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** Classroom Learning   
 **Duration:** 1 Day<br>
+**Sign up here:** This course is no longer available.
 
 #### **COURSE OBJECTIVES**
 The programme will equip participants with knowledge and skills on how to use information technology both in the workplace and at home safely and securely. Specifically, we will show how to establish a secure network connection and manage personal as well as corporate data appropriately.
