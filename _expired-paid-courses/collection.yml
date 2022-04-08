@@ -2,6 +2,7 @@ collections:
   expired-paid-courses:
     output: true
     order:
+      - "NUS ACE: Business Strategies for the New Economy.md"
       - "NUS ACE: Cybersecurity Begins With Me.md"
       - "General Assembly: Software Engineering Immersive.md"
       - "General Assembly: User Experience Immersive.md"
