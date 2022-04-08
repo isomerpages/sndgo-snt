@@ -3,15 +3,12 @@ title: "NUS FASS: Professional Certificate in Computational Reasoning"
 permalink: /working-adults/paid-courses/nus-cr
 description: ""
 ---
-
-
-
 ![Alt text for image on Isomer site](/images/nus-cr.jpg)
 
 **Training provider:** [National University of Singapore, Faculty of Arts and Social Sciences](https://fass.nus.edu.sg/)  
 **Study Mode:** On Campus / Online  
 **Duration:** 3 modules  
-**Indicate your interest here:** [Professional Certificate in Computational Reasoning](https://fass.nus.edu.sg/philo/executive-education/pc-cr/) 
+**Sign up here:** This course is no longer available.
 
 #### COURSE OBJECTIVES
 Through a series of fun and engaging hands-on activities, this Professional Certificate aims to empower individuals who are new to data analysis and coding by equipping the learner with two things:  
