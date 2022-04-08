@@ -3,7 +3,6 @@ title: "General Assembly: Software Engineering Immersive"
 permalink: /working-adults/paid-courses/ga-software-eng
 description: ""
 ---
-
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/60ppnDlFgtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Training provider:** [General Assembly](https://generalassemb.ly/)  
@@ -11,7 +10,6 @@ description: ""
 **Duration:** 12 Weeks Full Time or 6 Month Part Time  
 **Course Rundown:**
 Your best course for career transformation in tech. This full-time coding bootcamp features expert instruction, one-on-one career coaching, and connections to top employers to get you hired.  
-**Sign up here:** [Software Engineering Immersive application](https://generalassemb.ly/education/software-engineering-immersive/singapore) 
 
 #### **WHAT YOU'LL LEARN**
 
