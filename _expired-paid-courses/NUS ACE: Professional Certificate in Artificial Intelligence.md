@@ -3,15 +3,12 @@ title: "NUS ACE: Professional Certificate in Artificial Intelligence"
 permalink: /working-adults/deep-dive/nus-ai
 description: ""
 ---
-
-
-
 ![Alt text for image on Isomer site](/images/nus-ai.jpg)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** On Campus / Online  
 **Duration:** Four short courses to be completed within 12 months  
-**Sign up here:** [Professional Certificate In Artificial Intelligence for Non-AI Scientists](https://ace.nus.edu.sg/event/professional-certificate-in-artificial-intelligence-for-non-ai-scientists/)
+**Sign up here:** This course is no longer available.
 
 #### COURSE OBJECTIVES
 Artificial intelligence (AI) has transformed the way we live. AI identifies the fastest route to a destination, recommends music and movies, and screens job applications. Behind AI technology, techniques, and tools is the thinker – the human thinker who sees opportunities to mine with the technology.
