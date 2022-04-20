@@ -12,6 +12,6 @@ What the phish?! To avoid falling prey to the ever-evolving tricks of scammers, 
 
 *This webinar is part of the Ask the Cyber Experts Series.*
 
-[Sign up here!](https://go.gov.sg/staysafeonline101-ss-apr20)
+[Sign up here!](https://go.gov.sg/cybersafe-ss-apr25)
 
 ![Free Cybersecurity Webinar on Phishing for Working Adults](/images/Apr%20-%20General%20-%20Phishing.jpeg)
