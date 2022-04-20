@@ -12,6 +12,7 @@ sections:
       description: "#SmartNationTogether is an online channel featuring tech-related
         talks and workshops for kids & young parents, working adults, and
         seniors. "
+      title: Pick up digital and tech skills!
   - infopic:
       title: Kids and Young Parents
       description: Parents can sign their children up for the TECH@PLAY or FUN WITH

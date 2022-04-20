@@ -26,10 +26,13 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 
 ###  Click on the links below for more information on available paid courses
 
+* [NUS FinTech SG Programme](/working-adults/fintech/nus-ace)<br>
+	by NUS School of Computing (SoC) and AI Singapore
+
+* [PDPA Compliance for Executives](/working-adults/pdpa-compliance/nus-ace)<br>
+by NUS Advanced Computing for Executives
+
 * [Digital Transformation Programme](/working-adults/digi-transformation/nus-ace)<br>
- by NUS Advanced Computing for Executives 
- 
- * [Business Strategies for the New Economy](/working-adults/biz-strategies/nus-ace)<br>
  by NUS Advanced Computing for Executives 
 
 * [Data Science Immersive](/working-adults/paid-courses/ga-data-sci) <br>

@@ -3,15 +3,12 @@ title: "NUS DSDS: Professional Certificate in Data Literacy"
 permalink: /working-adults/paid-courses/nus-data-lit
 description: ""
 ---
-
-
-
 ![Alt text for image on Isomer site](/images/nus-data-lit.png)
 
 **Training provider:** [National University of Singapore, Department of Statistics and Data Science](https://www.stat.nus.edu.sg/)   
 **Study Mode:** On Campus / Online  
 **Duration:** Five short courses to be completed within 12 months  
-**Sign up here:** [Professional Certificate in Data Literacy for Non-Data Scientists](https://scale.nus.edu.sg/programmes/executive-courses/certificates-at-nus/professional-certificates/professional-certificate-in-data-literacy-for-non-data-scientists) 
+**Sign up here:** This course is no longer available.
 
 #### COURSE OBJECTIVES
 Regardless of job function, in the era of big data we must all learn the language of data. Acquiring data might be easy in a digitised, networked society, but these are just bits and bytes in storage until you can make sense of them.
