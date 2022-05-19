@@ -82,7 +82,7 @@ Participants may consider taking the following modules before attending **Level 
 
 * [Fundamentals of Investing Leveraging Technology](https://ace.nus.edu.sg/fundamentals-of-investing-leveraging-technology/)
 
-* [Using Business Analytics to Answer Business Questions ](https://ace.nus.edu.sg/event/using-business-analytics-to-answer-business-questions/2021-03-30/)
+* [Using Business Analytics to Answer Business Questions](https://ace.nus.edu.sg/using-business-analytics-to-answer-business-questions/)
 
 **Professional Certificate: Fintech Associate (Level 1)**
 
