@@ -5,9 +5,7 @@ description: "Free June holiday tech webinar for kids "
 image: /images/Jun22-Kids-Musical-Card.jpeg
 third_nav_title: Fun With Tech Series
 ---
-
-
-**Date:** 19 June
+**Date:** 19 June, Sunday
 <br> **Time:** 10am - 11am
 
 Have you seen a greeting card that could sing and change its colour? At the end of this one-hour workshop, make one yourself from Scratch!  
