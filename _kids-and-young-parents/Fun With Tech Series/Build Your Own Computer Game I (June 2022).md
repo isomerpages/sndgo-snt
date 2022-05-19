@@ -5,7 +5,7 @@ description: Free June holiday webinar on coding for kids
 image: ""
 third_nav_title: Fun With Tech Series
 ---
-**Date:** 18 June
+**Date:** 18 June, Saturday
 <br> **Time:** 10am - 11am
 
 Don't let your children just play computer games and while the day away; get them to build one too! Bonus: They get to pick up coding skills while they're at it.
