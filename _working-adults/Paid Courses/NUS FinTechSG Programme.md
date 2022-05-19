@@ -74,7 +74,7 @@ Financial Products
 
 Participants may consider taking the following modules before attending **Level 1 Professional Certificate: Fintech Associate**.
 
-**FinTech Associate (Level 1) programme:**<br>
+**[Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain](https://ace.nus.edu.sg/professional-certificate-in-business-analytics-and-ai-for-finance-retail-and-supply-chain/):**<br>
 
 * [Making Fast Decisions with Business Analytics ](https://ace.nus.edu.sg/event/making-fast-decisions-with-business-analytics/)
 
@@ -99,7 +99,7 @@ Participants may consider taking the following modules before attending **Level 
 
 **Professional Certificate: Fintech Senior Developer (Level 3)**
 
-* [DevOps: Build, Deploy and Monitor](https://ace.nus.edu.sg/event/devops-build-deploy-and-monitor-e-learning/)
+* [DevOps: Build, Deploy and Monitor](https://ace.nus.edu.sg/devops-build-deploy-and-monitor-e-learning/)
 * [Making Contracts Smart with Blockchain](https://ace.nus.edu.sg/event/making-contracts-smart-with-blockchain-e-learning/)
 * [Algo-Trading, Theory and Practice](https://ace.nus.edu.sg/event/algo-trading-theory-and-practice-e-learning/)
 
