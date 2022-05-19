@@ -2,6 +2,7 @@ collections:
   past-webinars-for-seniors:
     output: true
     order:
+      - 2022 Apr/Basics of Staying Safe Online (April 2022).md
       - "2022 Apr/(NLB) SURE Skills Series: Verifying Images & Videos (April
         2022).md"
       - 2022 Apr/Staying Safe from Phishing and Online Scams (April 2022).md
