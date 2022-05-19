@@ -3,8 +3,9 @@ title: Staying Safe from Phishing and Online Scams (April 2022)
 permalink: /seniors/My-Savvy-Kaki-Series/cybersafe-phishing-apr2022
 description: "Free Cybersecurity Webinar on Staying Safe from Phishing and Online Scams "
 image: /images/Apr - General - Phishing.jpeg
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Apr
 ---
+
 **Date:** 25 April
 <br> **Time:** 12pm - 1.30pm
 

@@ -2,6 +2,12 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - 2022 Apr/Data Protection in a Digital Age (Apr 2022).md
+      - "2022 Apr/Growing Your Business: Increasing Online Reach (Apr 2022).md"
+      - "2022 Apr/Growing Your Business: Leveraging Ecommerce (Apr 2022).md"
+      - 2022 Apr/Staying Safe from Phishing and Online Scams (Apr 2022).md
+      - 2022 Apr/Securing Your IoT Devices at Home (April 2022).md
+      - 2022 Apr/.keep
       - 2022 Mar/Introduction to GoBusiness (Mar 2022).md
       - "2022 Mar/Tech 101: Natural Language Processing (Mar 2022).md"
       - "2022 Mar/Tech 101: Metaverse & NFTs (Mar 2022).md"

@@ -3,8 +3,8 @@ title: "NUS ACE: PDPA Compliance for Executives "
 permalink: /working-adults/pdpa-compliance/nus-ace
 description: "PDPA Compliance Course for Executives "
 image: /images/PDPA-NUS-ACE.jpeg
-third_nav_title: Paid Courses
 ---
+
 ![Learn all about PDPA compliance](/images/PDPA-NUS-ACE.jpeg)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  

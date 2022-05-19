@@ -3,8 +3,9 @@ title: A Coding Adventure with CodeMonkey (Mar 2022)
 permalink: /kids-and-young-parents/fun-with-tech/coding-mar2022
 description: Fun Coding Workshop for Kids
 image: /images/Kids-CodeMonkey.jpeg
-third_nav_title: Fun With Tech Series
+third_nav_title: 2022 Mar
 ---
+
 **Date:** 19 Mar 
 <br> **Time:** 10am - 11am
 
