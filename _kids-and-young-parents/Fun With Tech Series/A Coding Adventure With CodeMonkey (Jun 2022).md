@@ -5,7 +5,6 @@ description: "Free June holiday webinar on coding for kids "
 image: ""
 third_nav_title: Fun With Tech Series
 ---
-
 **Date:** 11 June, Saturday
 <br> **Time:** 10am - 11am
 
