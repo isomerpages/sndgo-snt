@@ -4,14 +4,14 @@ permalink: /seniors/overview
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Senior OG Image.jpeg
 ---
-![Free webinars in April for seniors](/images/Overview-apr-seniors.jpg)
+![Free tech webinars for seniors in June](/images/Jun22-Whats-On-Seniors.jpeg)
 ### Click on the links below for more information on the FREE webinars
 
-* [Basics of Staying Safe Online](/seniors/my-savvy-kaki/cybersafe-basics-apr2022)<br>
-20 Apr, 3pm - 4pm
+* [Know All About Smart Homes  ](/seniors/my-savvy-kaki/smarthomes1-jun2022)<br>
+1 Jun, 3pm - 4pm
  
-* [(NLB) SURE Skills for Seniors: Verifying Images & Video](/seniors/my-savvy-kaki/sureskills-apr2022)<br>
-21 Apr, 3pm - 4pm
+* [Smart Homes for Better Living ](/seniors/my-savvy-kaki/cybersafe-basics-apr2022)<br>
+8 Jun, 3pm - 4pm
 
-* [Staying Safe from Phishing and Online Scams ](/seniors/My-Savvy-Kaki-Series/cybersafe-phishing-apr2022)<br>
-25 Apr, 12pm - 1.30pm
+* [How to Make Your Home Smarter](/seniors/my-savvy-kaki/smarthomes3-jun2022)<br>
+15 Jun, 3pm - 4pm
