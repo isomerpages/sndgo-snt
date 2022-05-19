@@ -5,3 +5,11 @@ description: Free webinar on e-commerce for businesses
 image: ""
 third_nav_title: Free Webinars
 ---
+**Date:** 13 June, Monday
+<br> **Time:** 12pm - 1.30pm
+
+Want to get ahead with your business? Learn how you can set up your own digital shopfront in three easy steps, plus tips and tricks to grow your sales. 
+
+[Sign up here!](https://go.gov.sg/wa-finlab4-june22)
+
+![Free webinar on e-commerce for businesses](/images/Jun22-WA-Online-Store.jpeg)
