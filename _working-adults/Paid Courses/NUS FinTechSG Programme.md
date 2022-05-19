@@ -38,7 +38,8 @@ third_nav_title: Paid Courses
 **Training provider:** National University Singapore (NUS) School of Computing (SoC) and AI Singapore<br>
 **Study Mode:** Online Learning   
 **Duration:** 3 Months <br>
-**Sign up for the information session here:** [NUS FinTech SG Programme Information Session](https://nus-sg.zoom.us/meeting/register/tZUlc-6hqzkqE9fXqqlIJi7dT9InvJqfi2a-)
+**Sign up for the information session here:** [NUS FinTech SG Programme Information Session](https://nus-sg.zoom.us/meeting/register/tZUlc-6hqzkqE9fXqqlIJi7dT9InvJqfi2a-)<br>
+**Sign up for the programme here:** [NUS FinTech SG Progamme](https://ace.nus.edu.sg/nus-fintech-sg-programme/)
 
 #### **OVERVIEW**
 
@@ -71,13 +72,17 @@ Financial Products
 
 #### **PROGRAMME STRUCTURE**
 
-Participants are required to attend the following modules before attending **Professional Certificate: FinTech Associate Level 1**:
+Participants may consider taking the following modules before attending **Level 1 Professional Certificate: Fintech Associate**.
 
-* [Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain](https://ace.nus.edu.sg/event/professional-certificate-in-business-analytics-and-ai-for-finance-retail-and-supply-chain/)
-	* [Making Fast Decisions with Business Analytics ](https://ace.nus.edu.sg/event/making-fast-decisions-with-business-analytics/)
-	* [Optimizing Customers’ Experience with FinTech Strategy ](https://ace.nus.edu.sg/event/optimizing-customers-experience-with-fintech-strategy/)
-	* [Fundamentals of Investing Leveraging Technology ](https://ace.nus.edu.sg/event/fundamental-of-investing-leveraging-technology/)
-	* [Using Business Analytics to Answer Business Questions ](https://ace.nus.edu.sg/event/using-business-analytics-to-answer-business-questions/2021-03-30/)
+**FinTech Associate (Level 1) programme:**<br>
+
+* [Making Fast Decisions with Business Analytics ](https://ace.nus.edu.sg/event/making-fast-decisions-with-business-analytics/)
+
+* [Optimizing Customers’ Experience with FinTech Strategy ](https://ace.nus.edu.sg/event/optimizing-customers-experience-with-fintech-strategy/)
+
+* [Fundamentals of Investing Leveraging Technology](https://ace.nus.edu.sg/fundamentals-of-investing-leveraging-technology/)
+
+* [Using Business Analytics to Answer Business Questions ](https://ace.nus.edu.sg/event/using-business-analytics-to-answer-business-questions/2021-03-30/)
 
 **Professional Certificate: Fintech Associate (Level 1)**
 
