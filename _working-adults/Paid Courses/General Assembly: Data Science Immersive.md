@@ -69,7 +69,7 @@ Land a full-time role as Data Analyst or Data Scientist
 
 **According to General Assembly’s most recent Outcomes report, during the 2020 hiring shutdown, GA’s students, instructors, and career coaches never lost focus, and the KPMG-validated numbers in their Outcomes report reflect it.** 
 
-**For students who graduated in 2020 — the peak of the pandemic — 74.4% of those who participated in GA’s full-time Career Services program landed jobs within six months of graduation. General Assembly is proud of their grads + teams’ relentless dedication and to see those numbers rising. Download the report [here](https://ga-public-downloads.s3.amazonaws.com/General-Assembly-Outcomes-Report-Latest.pdf).**
+**For students who graduated in 2020 — the peak of the pandemic — 74.4% of those who participated in GA’s full-time Career Services program landed jobs within six months of graduation. General Assembly is proud of their grads + teams’ relentless dedication and to see those numbers rising. [Download the report here](https://ga-public-downloads.s3.amazonaws.com/General-Assembly-Outcomes-Report-Latest.pdf).**
 
 General Assembly’s full-time Immersive programs in web development, user experience (UX) design, and data science are rigorous, career-driven courses designed to propel each student — no matter their experience level at entry — into an exciting new career.  
 
