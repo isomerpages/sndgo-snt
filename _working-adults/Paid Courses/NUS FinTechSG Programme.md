@@ -108,4 +108,4 @@ Click here for more information on [E-Speed Interview](https://fintechlab.nus.ed
 ![Training Roadmap for FinTechSG Programme](/images/Fintechsg-Training-Roadmap-espeed-Interview.jpeg)
 
 #### **ENQUIRIES**
-Please email soc-ace@nus.edu.sg
+Please email [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg)
