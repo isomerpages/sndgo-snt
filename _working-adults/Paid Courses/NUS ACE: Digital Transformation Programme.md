@@ -30,4 +30,4 @@ This series of Professional Certificates will help you to prepare for the jobs o
 ![Training Roadmap for Digital Transformation](/images/Training-Roadmap-931x1024.png)
 
 #### **ENQUIRIES**
-Please email soc-ace@nus.edu.sg
+Please email [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg)

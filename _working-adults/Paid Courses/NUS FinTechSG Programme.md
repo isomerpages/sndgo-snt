@@ -87,7 +87,7 @@ Participants may consider taking the following modules before attending **Level 
 **Professional Certificate: Fintech Associate (Level 1)**
 
 * [FinTech: Concepts, Cases and Technology](https://ace.nus.edu.sg/event/fintech-concepts-cases-and-technology-e-learning/)
-* [Design Thinking: Creative and Strategic Business Solutions](https://ace.nus.edu.sg/nus-fintechsg-programme/)
+* [Design Thinking: Creative and Strategic Business Solutions](https://ace.nus.edu.sg/design-thinking-creative-and-strategic-business-solutions-e-learning/)
 * [Beyond Disruptions: Digitalising Financial Services](https://ace.nus.edu.sg/event/beyond-disruptions-digitalising-financial-services-e-learning/)
 * [Delight Customers and Protect Privacy with AI and Blockchain](https://ace.nus.edu.sg/event/delight-customers-and-protect-privacy-with-ai-and-blockchain-e-learning/)
 
@@ -108,4 +108,4 @@ Click here for more information on [E-Speed Interview](https://fintechlab.nus.ed
 ![Training Roadmap for FinTechSG Programme](/images/Fintechsg-Training-Roadmap-espeed-Interview.jpeg)
 
 #### **ENQUIRIES**
-Please email soc-ace@nus.edu.sg
+Please email [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg)
