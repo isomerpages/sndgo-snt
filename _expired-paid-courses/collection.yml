@@ -2,7 +2,6 @@ collections:
   expired-paid-courses:
     output: true
     order:
-      - "NUS ACE: PDPA Compliance for Executives .md"
       - "NUS ACE: Business Strategies for the New Economy.md"
       - "NUS ACE: Cybersecurity Begins With Me.md"
       - "General Assembly: Software Engineering Immersive.md"

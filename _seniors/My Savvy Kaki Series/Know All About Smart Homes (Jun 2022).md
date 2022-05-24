@@ -12,4 +12,4 @@ What is a smart home? Find out more about the tech and concepts behind it, and w
 
 [Sign up here!](https://zoom.us/webinar/register/3316521615184/WN_9-cppcSnQXObPj-pVdb_Hw)
 
-![Free webinar on smart homes for seniors](/images/Jun22-Seniors-Smart-Homes-1.jpeg)
+![Free webinar on smart homes for seniors in June](/images/Updated-Jun%20-%20Smart%20Homes1.jpeg)

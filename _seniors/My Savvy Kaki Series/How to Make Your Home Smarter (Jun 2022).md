@@ -5,7 +5,6 @@ description: Free webinar on smart homes for seniors
 image: /images/Jun22-Seniors-Smart-Homes-3.jpeg
 third_nav_title: My Savvy Kaki Series
 ---
-
 **Date:** 15 June, Wednesday
 <br> **Time:** 3pm - 4pm
 
@@ -13,4 +12,4 @@ Sold on the idea of a smart home, but not sure how to get started? In this works
 
 [Sign up here!](https://zoom.us/webinar/register/2016521647980/WN_3Os1VE9qQZC-pn4vuZxHdw)
 
-![Free webinar on smart homes for seniors](/images/Jun22-Seniors-Smart-Homes-3.jpeg)
+![Free webinar on smart homes for seniors in June](/images/Updated-Jun%20-%20Smart%20Homes3.jpeg)
