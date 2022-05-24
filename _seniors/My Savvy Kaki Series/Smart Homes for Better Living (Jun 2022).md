@@ -10,4 +10,4 @@ third_nav_title: My Savvy Kaki Series
 
 How can smart homes improve the health of our elderly, help them stay connected and keep them safe? Find out more in this session.
 
-![Free webinar on smart homes for seniors](/images/Jun22-Seniors-Smart-Homes-2.jpeg)
+![Free webinar on smart homes for seniors in June](/images/Updated-Jun%20-%20Smart%20Homes2.jpeg)
