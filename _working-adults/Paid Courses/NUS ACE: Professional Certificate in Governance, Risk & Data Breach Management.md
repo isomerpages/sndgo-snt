@@ -6,31 +6,38 @@ description: Professional Certificate in Governance, Risk & Data Breach Manageme
 image: /images/PDPA-NUS-ACE.jpeg
 third_nav_title: Paid Courses
 ---
-
-
-
-![Learn all about PDPA compliance](/images/PDPA-NUS-ACE.jpeg)
+![NUS professional certification in governance, risk and data breach management](/images/NUS-ACE-Data-Protection.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
-**Study Mode:** Online Learning   
-**Duration:** 3 Days <br>
-**Sign up here:** [PDPA Compliance for Executives](https://ace.nus.edu.sg/event/pdpa-compliance-for-executives/)
+**Study Mode:** Classroom & Online Learning   
+**Duration:** 7 Days <br>
+**Sign up here:** [Professional Certificate in Governance, Risk & Data Breach Management](https://ace.nus.edu.sg/professional-certificate-in-governance-risk-data-breach-management/)
 
 #### **COURSE OBJECTIVES**
 
-This course will teach the participants:
+This Professional Certificate will equip learners with the following competencies:
 
-* About the Singapore Personal Data Protection Act (with 11 obligations) and equip them with the skillsets to lead a Data Protection Management Program (DPMP) as a management champion
-* To understand that the “tone at the top” could uplift an organisation from compliance to accountability, and that shaping a good data protection culture requires participation by all staff and continuous effort over time
-* To be able to lead or supervise DPMP implementation, by utilising tools provided by PDPC and IMDA to perform impact assessment and risk rating, and finalising an action plan agreed by stakeholders
-* To understand the need to conduct periodical revision for DPMP improvements, and encourage utilisation of the DP Starter Kit Checklist (DPaaS@SMEs) to jump start good data protection practices 
+* Data Protection Management
+* Cyber and Data Breach Incident Management
+* Data Governance
+* Stakeholder Management
+* Business Risk Management
+
+It will provide the professional knowledge and skills to meet regulatory requirements under the Personal Data Protection Act (2020) Singapore.
 
 
 #### **WHO SHOULD ATTEND**
-Corporate Executives and Senior Managers
 
-#### **PRE-REQUISITES**
-At least a Diploma 
+This course will prepare learners for the following job role:
+
+* Data Protection Officer (note that it is mandatory under the PDPA for organisations to appoint a DPO)
+
+#### **PROGRAMME STRUCTURE**
+
+* [PDPA Compliance for Executives](https://ace.nus.edu.sg/pdpa-compliance-for-executives/)
+* [Data Protection Governance & Risk Management](https://ace.nus.edu.sg/data-protection-governance-risk-management/)
+* [Data Protection Stakeholder Engagement](https://ace.nus.edu.sg/Data-Protection-Stakeholder-Engagement/)
+* [Data Breach Management](https://ace.nus.edu.sg/data-breach-management/)
 
 #### **ENQUIRIES**
 Please email soc-ace@nus.edu.sg
