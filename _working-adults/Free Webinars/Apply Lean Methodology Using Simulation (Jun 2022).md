@@ -12,4 +12,4 @@ Can businesses really be lean and mean? Find out how business owners and decisio
 
 [Sign up here!](https://go.gov.sg/wa-lean-jun22)
 
-![Free webinar on simulation for working adults](/images/Jun22-WA-Lean.jpeg)
+![Free webinar on simulation for working adults](/images/Jun22-Updated-WA-Lean.jpeg)
