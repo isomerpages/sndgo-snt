@@ -11,7 +11,7 @@ image: /images/OG Image/SNT Senior OG Image.jpeg
 * [Know All About Smart Homes  ](/seniors/my-savvy-kaki/smarthomes1-jun2022)<br>
 1 Jun, 3pm - 4pm
  
-* [Smart Homes for Better Living ](/seniors/my-savvy-kaki/cybersafe-basics-apr2022)<br>
+* [Smart Homes for Better Living](/seniors/my-savvy-kaki/smarthomes2-jun2022)
 8 Jun, 3pm - 4pm
 
 * [How to Make Your Home Smarter](/seniors/my-savvy-kaki/smarthomes3-jun2022)<br>

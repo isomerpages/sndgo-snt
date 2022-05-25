@@ -12,4 +12,4 @@ Want to get ahead with your business? Learn how you can set up your own digital 
 
 [Sign up here!](https://go.gov.sg/wa-finlab4-june22)
 
-![Free webinar on e-commerce for businesses](/images/Jun22-WA-Online-Store.jpeg)
+![Free webinar for working adults on e-commerce](/images/WA-Jun-Online-Store.jpeg)
