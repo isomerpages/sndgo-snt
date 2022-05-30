@@ -12,4 +12,4 @@ Think your selfie could be sold for a million bucks? In this webinar, discover t
 
 [Sign up here!](https://go.gov.sg/wa-metaverse-jun22)
 
-![Free tech talk on the Metaverse for working adults](/images/Jun22-WA-Metaverse.jpeg)
+![Free webinar on the metaverse for working adults](/images/Jun22-Updated-WA-Metaverse.jpeg)
