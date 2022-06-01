@@ -2,6 +2,7 @@ collections:
   working-adults:
     output: true
     order:
+      - Emerging and Disruptive Technologies (Jun 2022).md
       - Tech Webinars for Adults.md
       - Free Webinars/.keep
       - "Free Webinars/Growing Your Business: The Future of E Payments (Jun
