@@ -2,7 +2,6 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
-      - 2022 Jun/Emerging and Disruptive Technologies (Jun 2022).md
       - 2022 Jun/.keep
       - 2022 Apr/Data Protection in a Digital Age (Apr 2022).md
       - "2022 Apr/Growing Your Business: Increasing Online Reach (Apr 2022).md"
