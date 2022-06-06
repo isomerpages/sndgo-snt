@@ -4,7 +4,7 @@ permalink: /working-adults/free-webinars/overview
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Adults OG Image.jpeg
 ---
-![Free webinars in June for working adults](/images/Jun22-Whats-On-WA.jpeg)
+![Free webinars in June for working adults](/images/Updated-Jun22-Whats-On-WA.jpeg)
 ### Click on the links below for more information on the FREE webinars
 
 * [Emerging and Disruptive Technologies](/working-adults/free-webinars/emerging-tech-jun2022)<br>
