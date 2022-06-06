@@ -11,7 +11,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 6 Jun,  12pm - 1pm
  
 * [Growing Your Business: The Future of E-Payments ](/working-adults/free-webinars/e-payments-jun2022)<br>
- 9 Jun, 12pm - 1.30pm  
+ 9 Jun, 12pm - 1pm  
  
 * [Growing Your Business: Setting up Your Online Store](/working-adults/free-webinars/online-store-jun2022)<br>
  13 Jun, 12pm - 1.30pm
