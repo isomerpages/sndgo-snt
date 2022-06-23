@@ -2,6 +2,8 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - "2022 Jun/Growing Your Business: Setting up Your Online Store (Jun
+        2022).md"
       - "2022 Jun/Growing Your Business: The Future of E Payments (Jun 2022).md"
       - 2022 Jun/Emerging and Disruptive Technologies (Jun 2022).md
       - 2022 Jun/.keep
