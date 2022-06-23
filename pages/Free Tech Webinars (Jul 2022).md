@@ -1,9 +1,16 @@
 ---
-title: Tech Webinars for Adults
-permalink: /working-adults/free-webinars/overview
-description: Sign up for our FREE webinars to learn more about tech!
-image: /images/OG Image/SNT Adults OG Image.jpeg
+title: Free Tech Webinars (Jul 2022)
+permalink: /Jul-2022-Adults
+description: Learn to make better decisions with data.
+image: /images/OG Image/OG Image SNT Adults Webinars Jul2022.jpeg
 ---
+
+![SNT Webinars - Jul 2022](/images/OG%20Image/OG%20Image%20SNT%20Adults%20Webinars%20Jul2022.jpeg)
+
+> Unlock the potential of data-driven decision making, not just for work, but for your health and daily activities too.
+
+**Sign up for our exciting line-up of #SmartNationTogether webinars today!**
+
 ![July webinars for working adults](/images/Jul%202022/Overview_WA.jpeg)
 ### Click on the links below for more information on the FREE webinars
 
@@ -21,18 +28,3 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
  
  * [Advanced Machine Learning Approaches in Decision Making](/working-adults/free-webinars/machine-learning-jul2022)<br>
 28 Jul, 12pm - 1pm
-
-
-###  Click on the links below for more information on available paid courses
-
-* [NUS FinTech SG Programme](/working-adults/fintech/nus-ace)<br>
-	by NUS School of Computing (SoC) and AI Singapore
-
-* [PDPA Compliance for Executives](/working-adults/pdpa-compliance/nus-ace)<br>
-by NUS Advanced Computing for Executives
-
-* [Digital Transformation Programme](/working-adults/digi-transformation/nus-ace)<br>
- by NUS Advanced Computing for Executives 
-
-* [Data Science Immersive](/working-adults/paid-courses/ga-data-sci) <br>
- by General Assembly

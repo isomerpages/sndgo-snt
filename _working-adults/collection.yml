@@ -3,14 +3,13 @@ collections:
     output: true
     order:
       - Tech Webinars for Adults.md
-      - Free Webinars/Emerging and Disruptive Technologies (Jun 2022).md
       - Free Webinars/.keep
-      - "Free Webinars/Growing Your Business: The Future of E Payments (Jun
-        2022).md"
-      - "Free Webinars/Growing Your Business: Setting up Your Online Store (Jun
-        2022).md"
-      - Free Webinars/Apply Lean Methodology Using Simulation (Jun 2022).md
-      - Free Webinars/Metaverse & NFTs 101 (Jun 2022).md
+      - Free Webinars/5G For Everyone, Every Day.md
+      - Free Webinars/Data Driven Artificial Intelligence.md
+      - Free Webinars/Making Healthier Decisions Through Data.md
+      - "Free Webinars/Data Visualisation & You: Making Sense of Our Data Driven
+        World!.md"
+      - Free Webinars/Advanced Machine Learning Approaches in Decision Making.md
       - "Paid Courses/NUS ACE: Professional Certificate in Governance, Risk &
         Data Breach Management.md"
       - Paid Courses/NUS FinTechSG Programme.md
