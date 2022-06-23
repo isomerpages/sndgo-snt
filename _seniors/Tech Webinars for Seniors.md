@@ -17,5 +17,5 @@ image: /images/OG Image/SNT Senior OG Image.jpeg
 * [Part III: Smart Banking with PayLah! and PayNow](/seniors/my-savvy-kaki-series/dbs-paylah-paynow-jul2022)<br>
 20 Jul, 3pm - 4:30pm
 
-* [Part IV: Staying Safe with Smart Banking](seniors/my-savvy-kaki-series/staying-safe-jul2022)<br>
+* [Part IV: Staying Safe with Smart Banking](/seniors/my-savvy-kaki-series/staying-safe-jul2022)<br>
 27 Jul, 3pm - 5pm (Physical Session)
