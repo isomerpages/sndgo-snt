@@ -2,4 +2,5 @@ collections:
   themes:
     output: true
     order:
+      - "2022/Cybersecurity Webinars on #SNT.md"
       - 2022/.keep
