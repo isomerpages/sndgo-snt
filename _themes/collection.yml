@@ -1,4 +1,5 @@
 collections:
   themes:
     output: true
-    order: []
+    order:
+      - "Cybersecurity Webinars on #SNT.md"
