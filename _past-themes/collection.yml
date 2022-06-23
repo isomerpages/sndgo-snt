@@ -1,5 +1,5 @@
 collections:
-  themes:
+  past-themes:
     output: true
     order:
       - Apr 2022/.keep
