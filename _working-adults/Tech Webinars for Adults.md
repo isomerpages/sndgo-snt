@@ -7,20 +7,20 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 ![July Webinars for Working Adults](/images/Jul%202022/Overview_WA.jpeg)
 ### Click on the links below for more information on the FREE webinars
 
-* [Emerging and Disruptive Technologies](/working-adults/free-webinars/emerging-tech-jun2022)<br>
-6 Jun,  12pm - 1pm
+* [5G For Everyone, Every Day](/working-adults/free-webinars/5g-jul2022)<br>
+7 Jul,  12pm - 1pm
  
-* [Growing Your Business: The Future of E-Payments ](/working-adults/free-webinars/e-payments-jun2022)<br>
- 9 Jun, 12pm - 1pm  
+* [Data-Driven Artificial Intelligence](/working-adults/free-webinars/data-driven-ai-jul2022)<br>
+ 14 Jul, 12pm - 1pm  
  
-* [Growing Your Business: Setting up Your Online Store](/working-adults/free-webinars/online-store-jun2022)<br>
- 13 Jun, 12pm - 1.30pm
+* [Making Healthier Decisions Through Data](/working-adults/free-webinars/healthier-decisions-jul2022)<br>
+ 21 Jul, 12pm - 1pm
  
- * [Apply Lean Methodology Using Simulation ](/working-adults/free-webinars/lean-jun2022)<br>
- 16 Jun, 12pm - 1pm
+ * [Data Visualisation & You: Making Sense of Our Data-Driven World!](/working-adults/free-webinars/data-visualisation-jul2022)<br>
+ 25 Jul, 12pm - 1pm
  
- * [Metaverse & NFTs 101](/working-adults/free-webinars/metaverse-jun2022)<br>
- 23 Jun, 12pm - 1.30pm
+ * [Advanced Machine Learning Approaches in Decision Making](/working-adults/free-webinars/machine-learning-jul2022)<br>
+28 Jul, 12pm - 1pm
 
 
 ###  Click on the links below for more information on available paid courses
