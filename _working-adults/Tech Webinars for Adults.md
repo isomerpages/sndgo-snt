@@ -4,7 +4,7 @@ permalink: /working-adults/free-webinars/overview
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Adults OG Image.jpeg
 ---
-![July Webinars for Working Adults](/images/Jul%202022/Overview_WA.jpeg)
+![July webinars for working adults](/images/Jul%202022/Overview_WA.jpeg)
 ### Click on the links below for more information on the FREE webinars
 
 * [5G For Everyone, Every Day](/working-adults/free-webinars/5g-jul2022)<br>
