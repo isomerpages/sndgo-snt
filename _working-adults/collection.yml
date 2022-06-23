@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Tech Webinars for Adults.md
+      - Free Webinars/Advanced Machine Learning Approaches in Decision Making.md
       - Free Webinars/Making Healthier Decisions Through Data.md
       - Free Webinars/Data Driven Artificial Intelligence.md
       - Free Webinars/5G For Everyone, Every Day.md
