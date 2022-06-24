@@ -10,7 +10,7 @@ third_nav_title: My Savvy Kaki Series
 
 Still not confident with mobile banking - or not sure it it's safe? Let our trainers walk you through the DBS/POSB PayLah! and PayNow apps. What's more, learn how you can spot scams and stay safe.
 
-**Note:** *This is a physical hands-on session and participants should have attended at least one webinar in July and downloaded the DBS PayLah!/PayNow on their mobile phones.*
+**Note:** *This is a physical hands-on session and participants should have attended at least one webinar in July and downloaded the DBS PayLah!/PayNow apps on their mobile phones.*
 
 [Sign up here!](https://form.gov.sg/62a8108fb3ba9500129b75c3)
 
