@@ -11,4 +11,4 @@ Ever wondered about the power of 5G? Find out how 5G technologies will be used a
 
 [Sign up here!](https://go.gov.sg/wa-5gforeveryone-jul22)
 
-![free webinars on 5g technology for working adults](/images/Jul%202022/7%20Jul_WA.jpeg)
+![free webinars on 5g technology for working adults](/images/Jul%202022/7%20Jul_WA_Final.jpeg)
