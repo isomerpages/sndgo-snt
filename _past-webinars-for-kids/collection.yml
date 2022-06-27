@@ -2,6 +2,7 @@ collections:
   past-webinars-for-kids:
     output: true
     order:
+      - 2022 Jun/Build Your Own Computer Game II (Jun 2022).md
       - 2022 Jun/Make A Musical Greeting Card (Jun 2022).md
       - 2022 Jun/Build Your Own Computer Game I (Jun 2022).md
       - 2022 Jun/Build Your Own App (Jun 2022).md
