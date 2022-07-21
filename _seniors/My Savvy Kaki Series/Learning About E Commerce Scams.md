@@ -4,8 +4,8 @@ permalink: /seniors/My-Savvy-Kaki-Series/e-commerce-scams-aug2022
 description: ""
 third_nav_title: My Savvy Kaki Series
 ---
-**Date:** 3 August, Wednesday
-<br> **Time:** 12pm - 1pm
+**Date:** 10 August, Wednesday
+<br> **Time:** 3pm - 4pm
 
 Love to shop online? You should make sure you know about the latest e-commerce scams, learn how to avoid them, so that you can shop with a peace of mind!
 
