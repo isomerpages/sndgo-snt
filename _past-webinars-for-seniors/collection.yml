@@ -2,6 +2,7 @@ collections:
   past-webinars-for-seniors:
     output: true
     order:
+      - 2022 Jul/Smart Banking with PayLah! and PayNow.md
       - 2022 Jul/Smart Commuting with Gojek App.md
       - 2022 Jul/Smart Grocery Shopping with FairPrice App.md
       - 2022 Jul/.keep
