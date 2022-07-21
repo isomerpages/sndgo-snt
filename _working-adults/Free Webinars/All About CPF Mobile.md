@@ -11,3 +11,4 @@ Find out how you can access CPF-related information and services easily via your
 
 [Sign up here!](https://go.gov.sg/seniors-cpfmobile-aug3)
 
+![free webinars on cpf mobile app for working adults](/images/Aug%202022/WA_3%20Aug%20(revised).jpeg)
