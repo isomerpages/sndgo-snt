@@ -15,16 +15,16 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
  * [Advanced Machine Learning Approaches in Decision Making](/working-adults/free-webinars/machine-learning-jul2022)<br>
 28 Jul, 12pm - 1pm
 
- * [Assistive Tech For An Inclusive Workplace](working-adults/free-webinars/assistive-tech-aug2022) <br>
+ * [Assistive Tech For An Inclusive Workplace](/working-adults/free-webinars/assistive-tech-aug2022)<br>
 1 Aug, 12pm - 1pm
 
- * [All About CPF Mobile](/working-adults/free-webinars/cpf-mobile-aug2022) <br>
+ * [All About CPF Mobile](/working-adults/free-webinars/cpf-mobile-aug2022)<br>
 3 Aug, 3pm - 4pm
 
- * [Creating A Smart Nation Through User Centred Design](/working-adults/free-webinars/user-centred-design-aug2022) <br>
+ * [Creating A Smart Nation Through User Centred Design](/working-adults/free-webinars/user-centred-design-aug2022)<br>
 18 Aug, 12pm - 1:30pm
 
- * [Artificial Intelligence and Robotics in Healthcare](/working-adults/free-webinars/ai-robotics-healthcare-aug2022) <br>
+ * [Artificial Intelligence and Robotics in Healthcare](/working-adults/free-webinars/ai-robotics-healthcare-aug2022)<br>
 22 Aug, 12pm - 1:30pm
 
 
