@@ -2,6 +2,7 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - 2022 Jul/Making Healthier Decisions Through Data.md
       - 2022 Jul/Data Driven Artificial Intelligence.md
       - 2022 Jul/5G For Everyone, Every Day.md
       - 2022 Jul/.keep
