@@ -2,6 +2,7 @@ collections:
   past-webinars-for-seniors:
     output: true
     order:
+      - 2022 Jul/Smart Grocery Shopping with FairPrice App.md
       - 2022 Jul/.keep
       - 2022 Jun/How to Make Your Home Smarter (Jun 2022).md
       - 2022 Jun/Smart Homes for Better Living (Jun 2022).md
