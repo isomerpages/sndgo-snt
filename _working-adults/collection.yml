@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - Tech Webinars for Adults.md
-      - Free Webinars/Artificial Intelligence and Robotics in Healthcare.md
-      - Free Webinars/Creating A Smart Nation Through User Centred Design.md
-      - Free Webinars/All About CPF Mobile.md
-      - Free Webinars/Assistive Tech For An Inclusive Workplace.md
       - Free Webinars/.keep
+      - Free Webinars/Advanced Machine Learning Approaches in Decision Making.md
       - "Free Webinars/Data Visualisation & You: Making Sense of Our Data Driven
         World!.md"
-      - Free Webinars/Advanced Machine Learning Approaches in Decision Making.md
+      - Free Webinars/Assistive Tech For An Inclusive Workplace.md
+      - Free Webinars/All About CPF Mobile.md
+      - Free Webinars/Creating A Smart Nation Through User Centred Design.md
+      - Free Webinars/Artificial Intelligence and Robotics in Healthcare.md
       - "Paid Courses/NUS ACE: Professional Certificate in Governance, Risk &
         Data Breach Management.md"
       - Paid Courses/NUS FinTechSG Programme.md
