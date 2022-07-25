@@ -2,8 +2,9 @@
 title: Smart Grocery Shopping with FairPrice App
 permalink: /seniors/My-Savvy-Kaki-Series/fairprice-app-jul2022
 description: Smart Grocery Shopping with FairPrice App
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Jul
 ---
+
 **Date:** 6 July, Wednesday
 <br> **Time:** 3pm - 4:30pm
 

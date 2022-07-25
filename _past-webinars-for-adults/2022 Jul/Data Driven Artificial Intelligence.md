@@ -2,8 +2,9 @@
 title: Data Driven Artificial Intelligence
 permalink: /working-adults/Free-Webinars/data-driven-ai-jul2022
 description: Data Driven Artificial Intelligence
-third_nav_title: Free Webinars
+third_nav_title: 2022 Jul
 ---
+
 **Date:** 14 July, Thursday
 <br> **Time:** 12pm - 1pm
 

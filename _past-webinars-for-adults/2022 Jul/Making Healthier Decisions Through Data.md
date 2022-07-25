@@ -2,8 +2,9 @@
 title: Making Healthier Decisions Through Data
 permalink: /working-adults/Free-Webinars/healthier-decisions-jul2022
 description: Making Healthier Decisions Through Data
-third_nav_title: Free Webinars
+third_nav_title: 2022 Jul
 ---
+
 **Date:** 21 July, Thursday
 <br> **Time:** 12pm - 1pm
 

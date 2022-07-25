@@ -2,6 +2,10 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - 2022 Jul/Making Healthier Decisions Through Data.md
+      - 2022 Jul/Data Driven Artificial Intelligence.md
+      - 2022 Jul/5G For Everyone, Every Day.md
+      - 2022 Jul/.keep
       - 2022 Jun/Metaverse & NFTs 101 (Jun 2022).md
       - 2022 Jun/Apply Lean Methodology Using Simulation (Jun 2022).md
       - "2022 Jun/Growing Your Business: Setting up Your Online Store (Jun
