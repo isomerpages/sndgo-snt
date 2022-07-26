@@ -4,8 +4,6 @@ permalink: /Aug-2022-Adults
 description: Pick up new tech skills.
 image: /images/OG Image/OG Image SNT Working Adults Webinars Aug 2022.png
 ---
-![](/images/OG%20Image/OG%20Image%20SNT%20Working%20Adults%20Webinars%20Aug%202022.png)
-
 # Pick up new tech skills
 
 ![August webinars for working adults](/images/Aug%202022/WA_Overall.jpeg)
