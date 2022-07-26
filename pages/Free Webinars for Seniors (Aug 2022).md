@@ -4,6 +4,9 @@ permalink: /Aug-2022-Seniors
 description: Learn how to become savvy and at east with apps.
 image: /images/OG Image/OG Image SNT Seniors Webinars Aug 2022.png
 ---
+# Don't be afraid of going digital
+Build up your confidence. Learn how to become savvy and at ease with apps.
+
 ![august free webinars for seniors on building trust in the government ](/images/Aug%202022/Seniors_Overall.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
