@@ -23,7 +23,7 @@ sections:
       image: /images/Home Page/SNT Kids Home Image.jpeg
   - infopic:
       title: For Working Adults
-      description: Pick up skills you can apply at your workplace. From data analytics
+      description: Want to level up on tech skills for your work? From data analytics
         to robotics, to softer skills like digital marketing, our subject
         experts cover them all.
       button: Register Here
@@ -31,10 +31,10 @@ sections:
       alt: Image alt text
       image: /images/Home Page/SNT Adults Home Image.jpeg
   - infopic:
-      title: Seniors
-      description: Don’t be afraid of going digital or be anxious about learning new
-        technologies. We have courses for you to learn the steps with bite-sized
-        information.
+      title: For Seniors
+      description: Afraid of going digital or anxious about learning new technologies?
+        We have courses for you to learn the steps and you will soon be using
+        apps like a pro!
       button: Register Here
       url: /seniors/overview
       alt: Image alt text
