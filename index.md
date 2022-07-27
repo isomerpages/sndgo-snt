@@ -9,33 +9,33 @@ sections:
   - hero:
       background: /images/Homepage_SNT_Website.jpg
   - infobar:
-      description: "#SmartNationTogether is an online channel featuring tech-related
-        talks and workshops for kids & young parents, working adults, and
-        seniors. "
-      title: Pick up digital and tech skills!
+      description: Ready to pick up new digital skills? Register for our talks,
+        interactive webinars and workshops today. There is something for
+        everyone!
+      title: "Welcome to the #SmartNationTogether Online Channel!"
   - infopic:
-      title: Kids and Young Parents
-      description: Parents can sign their children up for the TECH@PLAY or FUN WITH
-        TECH interactive workshop series to learn skills such as coding and AI.
-      button: Find out more
+      title: For Kids
+      description: It’s never too early to start. Give your child a head-start and
+        have fun at our hands-on workshops on coding, AI, and more.
+      button: Register Here
       url: /kids-and-young-parents/overview
       alt: Image alt text
       image: /images/Home Page/SNT Kids Home Image.jpeg
   - infopic:
-      title: Working Adults
-      description: "Join us for talks on the latest tech trends, and hear our subject
-        experts discuss the latest tech policies in  our ‘Smart Nation: In
-        Conversation’ series."
-      button: Find out more
+      title: For Working Adults
+      description: Want to level up on tech skills for your work? From data analytics
+        to robotics, to softer skills like digital marketing, our subject
+        experts cover them all.
+      button: Register Here
       url: /working-adults/free-webinars/overview
       alt: Image alt text
       image: /images/Home Page/SNT Adults Home Image.jpeg
   - infopic:
-      title: Seniors
-      description: Learn how digital government services can help you in your daily
-        lives with your peers in our My Smart Ahma Top Picks and Live Smart
-        series.
-      button: Find out more
+      title: For Seniors
+      description: Afraid of going digital or anxious about learning new technologies?
+        We have courses for you to learn the steps and you will soon be using
+        apps like a pro!
+      button: Register Here
       url: /seniors/overview
       alt: Image alt text
       image: /images/Home Page/SNT Senior Home Image.jpeg

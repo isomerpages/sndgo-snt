@@ -1,19 +1,14 @@
 ---
-title: Tech Webinars for Seniors
-permalink: /seniors/overview
-description: Sign up for our FREE webinars to learn more about tech!
-image: /images/OG Image/SNT Senior OG Image.jpeg
+title: Free Webinars for Seniors (Aug 2022)
+permalink: /Aug-2022-Seniors
+description: Learn how to become savvy and at ease with apps.
+image: /images/OG Image/OG Image SNT Seniors Webinars Aug 2022.png
 ---
-![july free webinars for seniors on making secured e-payments](/images/Jul%202022/Overview_Seniors_Final.jpeg)
 
-### Click on the links below for more information on the FREE webinars
-
-* [Part IV: Staying Safe with Smart Banking](/seniors/my-savvy-kaki-series/staying-safe-jul2022)<br>
-27 Jul, 2pm - 5pm (Physical Session)
+# Don't be afraid of going digital
+Build up your confidence. Learn how to become savvy and at ease with apps.
 
 ![august free webinars for seniors on building trust in the government ](/images/Aug%202022/Seniors_Overall.jpeg)
-
-
 
 ### Click on the links below for more information on the FREE webinars
 

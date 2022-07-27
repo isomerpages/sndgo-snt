@@ -3,7 +3,9 @@ title: Free Webinars for Seniors (Jul 2022)
 permalink: /Jul-2022-Seniors
 description: Build your confidence using technology.
 image: /images/OG Image/OG Image SNT Seniors Webinars Jul2022.jpeg
+third_nav_title: Jul 2022
 ---
+
 ![Webinars for Seniors - Jul 2022](/images/OG%20Image/OG%20Image%20SNT%20Seniors%20Webinars%20Jul2022.jpeg)
 
 > Not confident about using internet banking, making e-payments or shopping online? We’ll help you build your know-how so you can navigate with ease!

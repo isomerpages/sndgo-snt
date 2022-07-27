@@ -3,7 +3,9 @@ title: Free Tech Webinars (Jul 2022)
 permalink: /Jul-2022-Adults
 description: Learn to make better decisions with data.
 image: /images/OG Image/OG Image SNT Adults Webinars Jul2022.jpeg
+third_nav_title: Jul 2022
 ---
+
 
 ![SNT Webinars - Jul 2022](/images/OG%20Image/OG%20Image%20SNT%20Adults%20Webinars%20Jul2022.jpeg)
 
