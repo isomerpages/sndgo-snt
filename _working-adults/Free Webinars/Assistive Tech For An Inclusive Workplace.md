@@ -11,4 +11,4 @@ An inclusive workplace starts with you and me - and technology is here to help. 
 
 [Sign up here!](https://go.gov.sg/wa-assistivetech-aug22)
 
-![free webinars on assistive tech for working adults](/images/Aug%202022/WA_1%20Aug.jpeg)
+![Free webinar on assistive tech for working adults](/images/Aug%202022/WA-1Aug-updated.png)
