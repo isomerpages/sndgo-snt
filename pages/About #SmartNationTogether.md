@@ -13,6 +13,6 @@ We have a wide array of workshops available for you to learn more. Whether you a
 
 *#SmartNationTogether is co-organised with partners from both the private and public sectors. It is part of the #SingaporeTogether movement, where the government works with Singaporeans, and Singaporeans work with one another, to build our Future Singapore.* 
 
-**In Support Of **
+**In Support Of**
 
 ![In support of SG Together](/images/Icons%20&%20Logos/SGT_logo.jpg)
