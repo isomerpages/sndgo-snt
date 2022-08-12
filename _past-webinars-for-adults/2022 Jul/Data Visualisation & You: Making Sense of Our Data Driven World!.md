@@ -2,8 +2,9 @@
 title: "Data Visualisation & You: Making Sense of Our Data Driven World!"
 permalink: /working-adults/Free-Webinars/data-visualisation-jul2022
 description: "Data Visualisation & You: Making Sense of Our Data Driven World!"
-third_nav_title: Free Webinars
+third_nav_title: 2022 Jul
 ---
+
 **Date:** 25 July, Monday
 <br> **Time:** 12pm - 1pm
 

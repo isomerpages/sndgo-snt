@@ -2,8 +2,9 @@
 title: Advanced Machine Learning Approaches in Decision Making
 permalink: /working-adults/Free-Webinars/machine-learning-jul2022
 description: Advanced Machine Learning Approaches in Decision Making
-third_nav_title: Free Webinars
+third_nav_title: 2022 Jul
 ---
+
 **Date:** 28 July, Thursday
 <br> **Time:** 12pm - 1pm
 

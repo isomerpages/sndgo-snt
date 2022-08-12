@@ -2,8 +2,9 @@
 title: Staying Safe with Smart Banking
 permalink: /seniors/My-Savvy-Kaki-Series/staying-safe-jul2022
 description: Staying Safe with Smart Banking
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Jul
 ---
+
 **Date:** 27 July, Wednesday
 <br> **Time:** 2pm - 5pm
 <br> **Venue:** Majestic Smart Seniors Applied Learning Centre <br> 80 Eu Tong Sen Street, #01-01 Singapore 059810 
