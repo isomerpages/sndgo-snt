@@ -4,16 +4,6 @@ permalink: /working-adults/free-webinars/overview
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Adults OG Image.jpeg
 ---
-![July webinars for working adults](/images/Jul%202022/Overview_WA.jpeg)
-
-### Click on the links below for more information on the FREE webinars
- 
- * [Data Visualisation & You: Making Sense of Our Data-Driven World!](/working-adults/free-webinars/data-visualisation-jul2022)<br>
- 25 Jul, 12pm - 1pm
- 
- * [Advanced Machine Learning Approaches in Decision Making](/working-adults/free-webinars/machine-learning-jul2022)<br>
-28 Jul, 12pm - 1pm
-
 ![August webinars for working adults](/images/Aug%202022/WA_Overall.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
