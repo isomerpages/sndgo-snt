@@ -6,7 +6,6 @@ description: Professional Certificate in Governance, Risk & Data Breach Manageme
 image: /images/NUS-ACE-Data-Protection.png
 third_nav_title: Paid Courses
 ---
-
 ![NUS professional certification in governance, risk and data breach management](/images/NUS-ACE-Data-Protection.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
@@ -41,4 +40,4 @@ This course will prepare learners for the following job role:
 * [Data Breach Management](https://ace.nus.edu.sg/data-breach-management/)
 
 #### **ENQUIRIES**
-Please email [soc-ace@nus.edu.sg](soc-ace@nus.edu.sg) or [register](https://myapplications.nus.edu.sg/psc/cssoas/EMPLOYEE/SA/c/N_APPLICATIONS_SELF_SERVICE.N_APP_LOG_AUTH_FL.GBL) here.
+Please email soc-ace@nus.edu.sg or [register](https://myapplications.nus.edu.sg/psc/cssoas/EMPLOYEE/SA/c/N_APPLICATIONS_SELF_SERVICE.N_APP_LOG_AUTH_FL.GBL) here.
