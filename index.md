@@ -48,4 +48,14 @@ sections:
       image: /images/Icons & Logos/Digital-For-Life-Logo-transparent.png
       alt: Image alt text
       button: FIND OUT MORE
+  - infopic:
+      title: "Singapore Together "
+      subtitle: Infopic Subtitle
+      description: "The Singapore Together movement is about the government working
+        with Singaporeans, and Singaporeans working with one another, to build
+        our future Singapore. "
+      button: FIND OUT MORE
+      url: www.sg
+      image: /images/Icons & Logos/SGT_logo.jpg
+      alt: Image alt text
 ---
