@@ -54,7 +54,7 @@ sections:
         with Singaporeans, and Singaporeans working with one another, to build
         our future Singapore. "
       button: FIND OUT MORE
-      url: www.sg
+      url: https://www.sg
       image: /images/Icons & Logos/SGT_transparent.png
       alt: "Singapore Together "
 ---
