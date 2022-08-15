@@ -40,4 +40,4 @@ This course will prepare learners for the following job role:
 * [Data Breach Management](https://ace.nus.edu.sg/data-breach-management/)
 
 #### **ENQUIRIES**
-Please email [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg)or [register](https://myapplications.nus.edu.sg/psc/cssoas/EMPLOYEE/SA/c/N_APPLICATIONS_SELF_SERVICE.N_APP_LOG_AUTH_FL.GBL) here.
+Please email [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg) or [register](https://myapplications.nus.edu.sg/psc/cssoas/EMPLOYEE/SA/c/N_APPLICATIONS_SELF_SERVICE.N_APP_LOG_AUTH_FL.GBL) here.
