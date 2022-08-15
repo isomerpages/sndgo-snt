@@ -49,13 +49,13 @@ sections:
       alt: Image alt text
       button: FIND OUT MORE
   - infopic:
-      title: "Singapore Together "
+      title: Singapore Together movement
       subtitle: Infopic Subtitle
       description: "The Singapore Together movement is about the government working
         with Singaporeans, and Singaporeans working with one another, to build
         our future Singapore. "
       button: FIND OUT MORE
       url: www.sg
-      image: /images/Icons & Logos/SGT_logo.jpg
-      alt: Image alt text
+      image: /images/Icons & Logos/SGT_transparent.png
+      alt: "Singapore Together "
 ---
