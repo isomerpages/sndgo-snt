@@ -50,7 +50,6 @@ sections:
       button: FIND OUT MORE
   - infopic:
       title: Singapore Together movement
-      subtitle: Infopic Subtitle
       description: "The Singapore Together movement is about the government working
         with Singaporeans, and Singaporeans working with one another, to build
         our future Singapore. "
