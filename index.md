@@ -12,7 +12,7 @@ sections:
       description: Ready to pick up new digital skills? Register for our talks,
         interactive webinars and workshops today. There is something for
         everyone!
-      title: "Welcome to the #SmartNationTogether Online Channel!"
+      title: Welcome to the Smart Nation Together Online Channel!
   - infopic:
       title: For Kids
       description: It’s never too early to start. Give your child a head-start and
