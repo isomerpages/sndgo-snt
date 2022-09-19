@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Tech Webinars for Adults.md
+      - Free Webinars/Safeguarding Your Business from Cyber Attacks.md
       - Free Webinars/.keep
       - "Paid Courses/NUS ACE: Professional Certificate in Governance, Risk &
         Data Breach Management.md"
