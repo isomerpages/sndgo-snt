@@ -2,6 +2,7 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - 2022 Aug/All About CPF Mobile.md
       - 2022 Aug/Assistive Tech For An Inclusive Workplace.md
       - 2022 Aug/.keep
       - "2022 Jul/Data Visualisation & You: Making Sense of Our Data Driven
