@@ -9,17 +9,17 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 ### Click on the links below for more information on the FREE webinars
 
 
- * [Assistive Tech For An Inclusive Workplace](/working-adults/free-webinars/assistive-tech-aug2022)<br>
-1 Aug, 12pm - 1pm
+ * [Safeguarding Your Business from Cyber Attacks](/working-adults/free-webinars/safeguarding-your-business/)<br>
+3 Oct, 12pm - 1pm
 
- * [All About CPF Mobile](/working-adults/free-webinars/cpf-mobile-aug2022)<br>
-3 Aug, 3pm - 4pm
+ * [Blockchain for Commercial Applications](/working-adults/free-webinars/blockchain-commercial-apps/)<br>
+6 Oct, 12pm - 1:30pm
 
- * [Creating A Smart Nation Through User Centred Design](/working-adults/free-webinars/user-centred-design-aug2022)<br>
-18 Aug, 12pm - 1:30pm
+ * [Intellectual Property Management of Artificial Intelligence Innovation](/working-adults/free-webinars/ip-mgmt-ai-innovations/)<br>
+13 Oct, 12pm - 1:30pm
 
- * [Artificial Intelligence and Robotics in Healthcare](/working-adults/free-webinars/ai-robotics-healthcare-aug2022)<br>
-22 Aug, 12pm - 1:30pm
+ * [Supporting Digital Mental Health](/working-adults/free-webinars/supporting-digital-mental-health/)<br>
+31 Oct, 12pm - 1pm
 
 
 ###  Click on the links below for more information on available paid courses
