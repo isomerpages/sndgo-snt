@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Tech Webinars for Adults.md
+      - Free Webinars/Intellectual Property Management of Artificial
+        Intelligence Innovation.md
       - Free Webinars/Blockchain for Commercial Applications.md
       - Free Webinars/Safeguarding Your Business from Cyber Attacks.md
       - Free Webinars/.keep
