@@ -2,6 +2,7 @@ collections:
   past-webinars-for-seniors:
     output: true
     order:
+      - 2022 Aug/All About CPF Mobile.md
       - 2022 Aug/.keep
       - 2022 Jul/Staying Safe with Smart Banking.md
       - 2022 Jul/Smart Banking with PayLah! and PayNow.md
