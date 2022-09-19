@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Tech Webinars for Adults.md
-      - Free Webinars/Supporting Digital Mental Health.md
+      - Free Webinars/.keep
+      - Free Webinars/Safeguarding Your Business from Cyber Attacks.md
+      - Free Webinars/Blockchain for Commercial Applications.md
       - Free Webinars/Intellectual Property Management of Artificial
         Intelligence Innovation.md
-      - Free Webinars/Blockchain for Commercial Applications.md
-      - Free Webinars/Safeguarding Your Business from Cyber Attacks.md
-      - Free Webinars/.keep
+      - Free Webinars/Supporting Digital Mental Health.md
       - "Paid Courses/NUS ACE: Professional Certificate in Governance, Risk &
         Data Breach Management.md"
       - Paid Courses/NUS FinTechSG Programme.md
