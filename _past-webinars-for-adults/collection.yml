@@ -2,6 +2,7 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - 2022 Aug/Artificial Intelligence and Robotics in Healthcare.md
       - 2022 Aug/Creating A Smart Nation Through User Centred Design.md
       - 2022 Aug/All About CPF Mobile.md
       - 2022 Aug/Assistive Tech For An Inclusive Workplace.md
