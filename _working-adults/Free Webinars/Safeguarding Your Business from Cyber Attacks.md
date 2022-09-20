@@ -11,4 +11,4 @@ Cyber-attacks can cause major damage to your business and reputation. As busines
 
 [Sign up here!](https://go.gov.sg/wa-cybersecurity-oct22)
 
-![Free webinar on safeguarding your business from cyber attacks for working adults](/images/Oct%202022/WA_3%20Oct.jpeg)
+![Free webinar on safeguarding your business from cyber attacks for working adults](/images/Oct%202022/WA_3%20Oct_New.jpeg)
