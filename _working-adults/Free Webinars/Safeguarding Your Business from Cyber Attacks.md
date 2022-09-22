@@ -7,7 +7,7 @@ third_nav_title: Free Webinars
 **Date:** 3 October, Monday
 <br> **Time:** 12pm - 1pm
 
-Cyber-attacks can cause major damage to your business and reputation. As businesses digitalise, it is important to protect your organisation against these threats. Learn how business leaders and employees can work together to guard against these attacks. 
+Cyber-attacks can cause major damage to your business and reputation. As businesses digitalise, it is important to protect your organisation against these threats. Learn how business leaders and employees can work together to guard against cyber-attacks.
 
 [Sign up here!](https://go.gov.sg/wa-cybersecurity-oct22)
 
