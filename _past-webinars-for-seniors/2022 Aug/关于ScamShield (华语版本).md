@@ -1,9 +1,10 @@
 ---
 title: 关于ScamShield (华语版本)
-permalink: /seniors/My-Savvy-Kaki-Series/scamshield-mandarin
+permalink: /seniors/My-Savvy-Kaki-Series/scamshield-mandarin/
 description: ""
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Aug
 ---
+
 **Date:** 26 August, Friday
 <br> **Time:** 3pm - 4pm
 

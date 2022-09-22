@@ -1,9 +1,10 @@
 ---
 title: Artificial Intelligence and Robotics in Healthcare
-permalink: /working-adults/Free-Webinars/ai-robotics-healthcare-aug2022
+permalink: /working-adults/Free-Webinars/ai-robotics-healthcare-aug2022/
 description: ""
-third_nav_title: Free Webinars
+third_nav_title: 2022 Aug
 ---
+
 **Date:** 22 August, Monday
 <br> **Time:** 12pm - 1:30pm
 

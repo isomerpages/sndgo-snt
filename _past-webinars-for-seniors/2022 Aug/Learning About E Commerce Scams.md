@@ -1,9 +1,10 @@
 ---
 title: Learning About E Commerce Scams
-permalink: /seniors/My-Savvy-Kaki-Series/e-commerce-scams-aug2022
+permalink: /seniors/My-Savvy-Kaki-Series/e-commerce-scams-aug2022/
 description: ""
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Aug
 ---
+
 **Date:** 10 August, Wednesday
 <br> **Time:** 3pm - 4pm
 
