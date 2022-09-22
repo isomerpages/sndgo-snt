@@ -7,7 +7,7 @@ third_nav_title: Free Webinars
 **Date:** 31 October, Monday
 <br> **Time:** 12pm - 1pm
 
-Can technology help with improving your mental health? In this webinar, discover the tools on mindline.sg - a digitsl stress management platform that can help you achieve a healthier state of mind. 
+Can technology help with improving your mental health? In this webinar, discover the tools on mindline.sg - a digital stress management platform that can help you achieve a healthier state of mind. 
 
 [Sign up here!](https://go.gov.sg/wa-mindline-oct22)
 
