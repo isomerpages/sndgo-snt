@@ -10,7 +10,7 @@ third_nav_title: Paid Courses
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/self-directed-online-programmes/)<br>
 **Study Mode:** Self-Directed Online Programme   
 **Duration:** 6 weeks <br>
-**Sign up here:** [Blockchain: Commercial Applications ](https://www.getsmarter.com/cart?variant_id=4828)
+**Sign up here:** [Blockchain: Commercial Applications](https://www.getsmarter.com/products/national-university-of-singapore-blockchain-commercial-applications-online-short-course#course-brochure)
 
 #### **COURSE OBJECTIVES**
 
