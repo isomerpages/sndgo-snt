@@ -33,4 +33,4 @@ This Professional Certificate will equip learners with the knowledge, skills and
 *   [Commercialisation of AI Innovation](https://ace.nus.edu.sg/commercialisation-of-ai-innovation/)
 
 #### **ENQUIRIES**
-Please email [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg) or [register](https://myapplications.nus.edu.sg/psc/cssoas/EMPLOYEE/SA/c/N_APPLICATIONS_SELF_SERVICE.N_APP_LOG_AUTH_FL.GBL) here.
+Please email [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg) or [register](https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-ghVBYRwrmOdGmNoFXdfZWthUQTI3TTMzNklXMjYyMjM4UzlZUzRDTVFZNy4u) here
