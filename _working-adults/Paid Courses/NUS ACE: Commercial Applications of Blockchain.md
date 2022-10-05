@@ -19,7 +19,7 @@ Explore the fundamental rules and features of blockchain technology, as well as 
 This course will enable you to: 
 
 * Identify the features and use cases for blockchain technology 
-* Gain a deeper understanding of the commercial applications of distributed ledger technology (DLT) and smart contracts, including the opportunity to practise using MetaMask to create a token in Ethereum.
+* Gain a deeper understanding of the commercial applications of distributed ledger technology (DLT) and smart contracts, including the opportunity to practise using MetaMask to create a token in Ethereum
 * Get a clearer picture of the resources and stakeholder support required for a use case relevant to your context, along with insight into the ethical impact of blockchain technology
 * Develop a holistic and comprehensive proposal for a blockchain application relevant to you and your business
 * Unlock  exclusive resources and events to support your professional journey and drive your career forward
