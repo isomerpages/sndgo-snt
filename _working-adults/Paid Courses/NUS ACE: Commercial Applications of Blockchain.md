@@ -5,7 +5,7 @@ description: "Explore commercial applications of blockchain with this online cou
 image: ""
 third_nav_title: Paid Courses
 ---
-![NUS professional certification in governance, risk and data breach management](/images/NUS-ACE-Data-Protection.png)
+![Online course on commercial applications of blockchain](/images/Oct%202022/Blockchain.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/self-directed-online-programmes/)<br>
 **Study Mode:** Self-Directed Online Programme   
