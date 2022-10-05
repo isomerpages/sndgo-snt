@@ -5,39 +5,45 @@ description: "Explore commercial applications of blockchain with this online cou
 image: ""
 third_nav_title: Paid Courses
 ---
-
 ![NUS professional certification in governance, risk and data breach management](/images/NUS-ACE-Data-Protection.png)
 
-**Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
-**Study Mode:** Classroom & Online Learning   
-**Duration:** 7 Days <br>
-**Sign up here:** [Professional Certificate in Governance, Risk & Data Breach Management](https://ace.nus.edu.sg/professional-certificate-in-governance-risk-data-breach-management/)
+**Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/self-directed-online-programmes/)<br>
+**Study Mode:** Self-Directed Online Programme   
+**Duration:** 6 weeks <br>
+**Sign up here:** [Blockchain: Commercial Applications ](https://www.getsmarter.com/cart?variant_id=4828)
 
 #### **COURSE OBJECTIVES**
 
-This Professional Certificate will equip learners with the following competencies:
+Explore the fundamental rules and features of blockchain technology, as well as its potential commercial applications for your business.
 
-* Data Protection Management
-* Cyber and Data Breach Incident Management
-* Data Governance
-* Stakeholder Management
-* Business Risk Management
+This course will enable you to: 
 
-It will provide the professional knowledge and skills to meet regulatory requirements under the Personal Data Protection Act (2020) Singapore.
-
+* Identify the features and use cases for blockchain technology 
+* Gain a deeper understanding of the commercial applications of distributed ledger technology (DLT) and smart contracts, including the opportunity to practise using MetaMask to create a token in Ethereum.
+* Get a clearer picture of the resources and stakeholder support required for a use case relevant to your context, along with insight into the ethical impact of blockchain technology
+* Develop a holistic and comprehensive proposal for a blockchain application relevant to you and your business
+* Unlock  exclusive resources and events to support your professional journey and drive your career forward
 
 #### **WHO SHOULD ATTEND**
 
-This course will prepare learners for the following job role:
-
-* Data Protection Officer (note that it is mandatory under the PDPA for organisations to appoint a DPO)
+Business leaders, professionals and managers who want to keep up with technological trends, as well as uncover new business opportunities. 
 
 #### **PROGRAMME STRUCTURE**
 
-* [PDPA Compliance for Executives](https://ace.nus.edu.sg/pdpa-compliance-for-executives/)
-* [Data Protection Governance & Risk Management](https://ace.nus.edu.sg/data-protection-governance-risk-management/)
-* [Data Protection Stakeholder Engagement](https://ace.nus.edu.sg/Data-Protection-Stakeholder-Engagement/)
-* [Data Breach Management](https://ace.nus.edu.sg/data-breach-management/)
+**Orientation module**: Welcome to your Online Campus
 
-#### **ENQUIRIES**
-Please email [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg) or [register](https://myapplications.nus.edu.sg/psc/cssoas/EMPLOYEE/SA/c/N_APPLICATIONS_SELF_SERVICE.N_APP_LOG_AUTH_FL.GBL) here.
+**Module 1**: Blockchain technology today
+
+**Module 2**: Distributed ledgers and smart contracts
+
+**Module 3**: Commercial applications
+
+**Module 4**: Possible and permissible
+
+**Module 5**: Blockchain resources and architecture
+
+**Module 6**: Preparing for the pitch, a credible blockchain proposal
+
+#### **COURSE CONVENOR**
+**Phil A Woods**<br>
+Executive Education Fellow, National University of Singapore (NUS) Advanced Computing for Executives (ACE); Founder and CEO, Abele Group
