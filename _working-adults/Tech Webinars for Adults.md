@@ -4,6 +4,8 @@ permalink: /working-adults/free-webinars/overview/
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Adults OG Image.jpeg
 ---
+![November webinars for working adults](/images/Nov%202022/WA_Overall.jpeg)
+
 ![October webinars for working adults](/images/Oct%202022/WA_Overall_New.jpeg)
 
 ### Click on the links below for more information on the FREE webinars
@@ -20,6 +22,15 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 
  * [Supporting Digital Mental Health](/working-adults/free-webinars/supporting-digital-mental-health/)<br>
 31 Oct, 12pm - 1pm
+
+ * [Build Consumer Trust through Good Cybersecurity Pratices](/working-adults/free-webinars/consumer-trust-cybersecurity/)<br>
+3 Nov, 12pm - 1pm
+
+ * [Level Up Your Business with Digital Marketing Tools](/working-adults/free-webinars/digital-marketing-tools/)<br>
+11 Nov, 12pm - 1pm
+
+ * [Business Analytics for Managers](/working-adults/free-webinars/business-analytics-managers/)<br>
+17 Nov, 12pm - 1pm
 
 
 ###  Click on the links below for more information on available paid courses
