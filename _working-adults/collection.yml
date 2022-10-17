@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Tech Webinars for Adults.md
-      - Free Webinars/Business Analytics for Managers.md
-      - Free Webinars/Level Up Your Business with Digital Marketing Tools.md
-      - Free Webinars/Build Consumer Trust through Good Cybersecurity
-        Practices.md
       - Free Webinars/.keep
       - Free Webinars/Supporting Digital Mental Health.md
+      - Free Webinars/Build Consumer Trust through Good Cybersecurity
+        Practices.md
+      - Free Webinars/Business Analytics for Managers.md
+      - Free Webinars/Level Up Your Business with Digital Marketing Tools.md
       - "Paid Courses/NUS ACE: AI Innovation, IP Management &
         Commercialisation.md"
       - "Paid Courses/NUS ACE: Commercial Applications of Blockchain.md"
