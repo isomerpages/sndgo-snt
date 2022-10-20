@@ -4,6 +4,8 @@ permalink: /seniors/overview/
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Senior OG Image.jpeg
 ---
+![free webinars on government apps oneservice and scamshield for seniors](/images/Nov%202022/Seniors_Overall_Without%20LTA.jpeg)
+
 ![free talks in october for seniors for national library board tech bazaar](/images/Oct%202022/Seniors_Overall.jpeg)
 
 ### Click on the links below for more information on the FREE sessions
