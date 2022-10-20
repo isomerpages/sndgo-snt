@@ -9,6 +9,6 @@ third_nav_title: My Savvy Kaki Series
 
 Tired of endless calls and messages from unknown numbers? The ScamShield app will help keep scams at bay. You can also play your part by reporting these scams.
 
-[Sign up here!](https://www.eventbrite.sg/e/improving-your-health-through-data-toyl-x-tech-bazaar-tickets-430746352937?aff=odcleoeventsincollection) 
+[Sign up here!](https://go.gov.sg/seniors-scamshield-nov22-2) 
 
 ![free webinar on scamshield app for seniors in english](/images/Nov%202022/Seniors_10%20Nov%20(Eng).jpeg)
