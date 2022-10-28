@@ -11,4 +11,4 @@ Worried about new types of scams? In this webinar, learn about the latest scams,
 
 [Sign up here!](https://go.gov.sg/seniors-singpassurl-nov22)
 
-![Free webinars on how to transact safely online with singpass for working adults](/images/Nov%202022/WA_9%20Nov_Singpass.jpeg)
+![free webinars on how to transact safely online with singpass for working adults](/images/Nov%202022/WA_9%20Nov_Singpass_New.jpeg)
