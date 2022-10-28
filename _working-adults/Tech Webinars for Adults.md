@@ -10,16 +10,6 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 
 ### Click on the links below for more information on the FREE webinars
 
-
- * [Safeguarding Your Business from Cyber Attacks](/working-adults/free-webinars/safeguarding-your-business/)<br>
-3 Oct, 12pm - 1pm
-
- * [Blockchain for Commercial Applications](/working-adults/free-webinars/blockchain-commercial-apps/)<br>
-6 Oct, 12pm - 1:30pm
-
- * [Intellectual Property Management of Artificial Intelligence Innovation](/working-adults/free-webinars/ip-mgmt-ai-innovations/)<br>
-13 Oct, 12pm - 1:30pm
-
  * [Supporting Digital Mental Health](/working-adults/free-webinars/supporting-digital-mental-health/)<br>
 31 Oct, 12pm - 1pm
 
@@ -27,7 +17,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 3 Nov, 12pm - 1pm
 
  * [Level Up Your Business with Digital Marketing Tools](/working-adults/free-webinars/digital-marketing-tools/)<br>
-11 Nov, 12pm - 1pm
+10 Nov, 12pm - 1pm
 
  * [Business Analytics for Managers](/working-adults/free-webinars/business-analytics-managers/)<br>
 17 Nov, 12pm - 1pm
