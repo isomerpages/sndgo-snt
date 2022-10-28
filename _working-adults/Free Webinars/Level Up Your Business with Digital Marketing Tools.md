@@ -11,4 +11,4 @@ Marketing is not just about sales but building a relationship with your customer
 
 [Sign up here!](https://go.gov.sg/wa-carousell-nov2022)
 
-![Free webinar on digital marketing tools carousell for working adults](/images/Nov%202022/WA_11%20Nov.jpeg)
+![free webinars on digital marketing tools by carousell for working adults](/images/Nov%202022/WA_10%20Nov.jpeg)
