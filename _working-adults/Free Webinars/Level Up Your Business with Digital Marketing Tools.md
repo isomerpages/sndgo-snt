@@ -4,7 +4,7 @@ permalink: /working-adults/Free-Webinars/digital-marketing-tools/
 description: ""
 third_nav_title: Free Webinars
 ---
-**Date:** 11 November, Friday
+**Date:** 10 November, Friday
 <br> **Time:** 12pm - 1pm
 
 Marketing is not just about sales but building a relationship with your customers. Find out how Carousell does this by engaging with shoppers using digital marketing tools, and connecting with their customers. 
