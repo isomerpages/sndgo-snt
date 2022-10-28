@@ -2,8 +2,9 @@
 title: Intellectual Property Management of Artificial Intelligence Innovation
 permalink: /working-adults/Free-Webinars/ip-mgmt-ai-innovations/
 description: ""
-third_nav_title: Free Webinars
+third_nav_title: Oct 2022
 ---
+
 **Date:** 13 October, Thursday
 <br> **Time:** 12pm - 1:30pm
 

@@ -2,8 +2,9 @@
 title: Blockchain for Commercial Applications
 permalink: /working-adults/Free-Webinars/blockchain-commercial-apps/
 description: ""
-third_nav_title: Free Webinars
+third_nav_title: Oct 2022
 ---
+
 **Date:** 6 October, Thursday
 <br> **Time:** 12pm - 1:30pm
 
