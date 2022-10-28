@@ -4,7 +4,7 @@ permalink: /working-adults/free-webinars/overview/
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Adults OG Image.jpeg
 ---
-![November webinars for working adults](/images/Nov%202022/WA_Overall.jpeg)
+![November webinars for working adults](/images/Nov%202022/WA_Overall%20(Nov).jpeg)
 
 ![October webinars for working adults](/images/Oct%202022/WA_Overall_New.jpeg)
 
