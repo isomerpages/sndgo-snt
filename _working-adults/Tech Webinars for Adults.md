@@ -16,6 +16,9 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
  * [Build Consumer Trust through Good Cybersecurity Pratices](/working-adults/free-webinars/consumer-trust-cybersecurity/)<br>
 3 Nov, 12pm - 1pm
 
+ * [Transacting Safely Online with Singpass](/working-adults/free-webinars/transacting-safely-singpass/)<br>
+9 Nov, 3pm - 4pm
+
  * [Level Up Your Business with Digital Marketing Tools](/working-adults/free-webinars/digital-marketing-tools/)<br>
 10 Nov, 12pm - 1pm
 
