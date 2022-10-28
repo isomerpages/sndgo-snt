@@ -7,8 +7,8 @@ third_nav_title: Free Webinars
 **Date:** 9 November,Wednesday
 <br> **Time:** 3pm - 4pm
 
+Worried about new types of scams? In this webinar, learn about the latest scams, the tell-tale signs to look out for, and how you can actively protect your Singpass account.
 
+[Sign up here!](https://go.gov.sg/seniors-singpassurl-nov22)
 
-[Sign up here!](https://go.gov.sg/wa-cybertrust-nov22)
-
-![free webinars on how to transact safely online with singpass for working adults](/images/Nov%202022/WA_9%20Nov.jpeg)
+![Free webinars on how to transact safely online with singpass for working adults](/images/Nov%202022/WA_9%20Nov_Singpass.jpeg)
