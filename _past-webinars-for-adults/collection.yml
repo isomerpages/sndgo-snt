@@ -2,6 +2,7 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - Oct 2022/Supporting Digital Mental Health.md
       - Oct 2022/Intellectual Property Management of Artificial Intelligence
         Innovation.md
       - Oct 2022/Blockchain for Commercial Applications.md

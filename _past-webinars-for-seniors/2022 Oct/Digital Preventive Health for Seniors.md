@@ -2,8 +2,9 @@
 title: Digital Preventive Health for Seniors
 permalink: /seniors/My-Savvy-Kaki-Series/digital-preventive-health/
 description: ""
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Oct
 ---
+
 **Date:** 29 October, Saturday
 <br> **Time:** 12:30pm - 1:30pm
 

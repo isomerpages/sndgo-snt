@@ -2,8 +2,9 @@
 title: Improving Your Health Through Data
 permalink: /seniors/My-Savvy-Kaki-Series/improving-health-data/
 description: ""
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Oct
 ---
+
 **Date:** 30 October, Sunday
 <br> **Time:** 4pm - 5pm
 

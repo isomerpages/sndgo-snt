@@ -6,12 +6,8 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 ---
 ![November webinars for working adults](/images/Nov%202022/WA_Overall%20(Nov).jpeg)
 
-![October webinars for working adults](/images/Oct%202022/WA_Overall_New.jpeg)
-
 ### Click on the links below for more information on the FREE webinars
 
- * [Supporting Digital Mental Health](/working-adults/free-webinars/supporting-digital-mental-health/)<br>
-31 Oct, 12pm - 1pm
 
  * [Build Consumer Trust through Good Cybersecurity Pratices](/working-adults/free-webinars/consumer-trust-cybersecurity/)<br>
 3 Nov, 12pm - 1pm
