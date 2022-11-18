@@ -1,12 +1,13 @@
 ---
-title: Professional Certificate in Business Analytics and AI for Finance, Retail
-  and Supply Chain
+title: "NUS ACE: Professional Certificate in Business Analytics and AI for
+  Finance, Retail and Supply Chain"
 permalink: /working-adults/ba-ai/nus-ace/
 description: Get professional certification in Business Analytics and AI for
   Finance, Retail and Supply Chain
 image: ""
 third_nav_title: Paid Courses
 ---
+
 ![Professional certificate in business analytics and AI for finance, retail ](/images/NUS-BA-AI.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
