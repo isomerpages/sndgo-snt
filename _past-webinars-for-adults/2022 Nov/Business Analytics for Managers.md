@@ -2,8 +2,9 @@
 title: Business Analytics for Managers
 permalink: /working-adults/Free-Webinars/business-analytics-managers/
 description: ""
-third_nav_title: Free Webinars
+third_nav_title: 2022 Nov
 ---
+
 **Date:** 17 November, Thursday
 <br> **Time:** 12pm - 1pm
 

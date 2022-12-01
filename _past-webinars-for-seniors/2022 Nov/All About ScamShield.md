@@ -2,8 +2,9 @@
 title: All About ScamShield
 permalink: /seniors/My-Savvy-Kaki-Series/scamshield-nov2022/
 description: ""
-third_nav_title: My Savvy Kaki Series
+third_nav_title: 2022 Nov
 ---
+
 **Date:** 10 November, Thursday
 <br> **Time:** 2pm - 3pm
 

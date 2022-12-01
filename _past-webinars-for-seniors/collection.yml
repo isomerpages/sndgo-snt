@@ -2,6 +2,11 @@ collections:
   past-webinars-for-seniors:
     output: true
     order:
+      - 2022 Nov/All About OneService App & Chatbot Kaki.md
+      - 2022 Nov/All About ScamShield.md
+      - 2022 Nov/关于 ScamShield.md
+      - 2022 Nov/Transacting Safely Online with Singpass.md
+      - 2022 Nov/.keep
       - 2022 Oct/Improving Your Health Through Data.md
       - "2022 Oct/Project Pensieve: Detecting Dementia with AI.md"
       - 2022 Oct/Digital Preventive Health for Seniors.md

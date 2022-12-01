@@ -2,6 +2,11 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - 2022 Nov/Business Analytics for Managers.md
+      - 2022 Nov/Level Up Your Business with Digital Marketing Tools.md
+      - 2022 Nov/Transacting Safely Online with Singpass.md
+      - 2022 Nov/Build Consumer Trust through Good Cybersecurity Practices.md
+      - 2022 Nov/.keep
       - Oct 2022/Supporting Digital Mental Health.md
       - Oct 2022/Intellectual Property Management of Artificial Intelligence
         Innovation.md
