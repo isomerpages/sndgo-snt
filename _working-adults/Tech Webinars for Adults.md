@@ -17,7 +17,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 * [Detecting Dementia with Artificial Intelligence](/working-adults/free-webinars/detecting-dementia-ai/)<br>
 	18 Jan, 3pm - 4pm
 	
-* [Boost Your Wellness with Tech](/working-adults/free-webinars/wellness-tech/)<br>
+* [Boost Your Mental Wellness with Tech](/working-adults/free-webinars/mental-wellness-tech/)<br>
 	26 Jan, 12pm - 1pm
 	
 * [Telehealth for Physiotherapy: What, When & Why](/working-adults/free-webinars/telehealth-for-physiotherapy/)<br>
