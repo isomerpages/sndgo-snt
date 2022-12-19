@@ -17,7 +17,7 @@ image: /images/OG Image/SNT Senior OG Image.jpeg
 * [Detecting Dementia with Artificial Intelligence](/seniors/my-savvy-kaki-series/detecting-dementia-ai/)<br>
 	18 Jan, 3pm - 4pm
 	
-* [Boost Your Wellness with Tech](/seniors/my-savvy-kaki-series/wellness-tech/)<br>
+* [Boost Your Mental Wellness with Tech](/seniors/my-savvy-kaki-series/mental-wellness-tech/)<br>
 	26 Jan, 12pm - 1pm
 	
 * [Telehealth for Physiotherapy: What, When & Why](/seniors/my-savvy-kaki-series/telehealth-physiotherapy/)<br>
