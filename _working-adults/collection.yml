@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Tech Webinars for Adults.md
+      - Free Webinars/BioHacking with Tech for Better Health.md
       - Free Webinars/.keep
       - "Paid Courses/NUS ACE: Professional Certificate in Business Analytics
         and AI for Finance, Retail and Supply Chain.md"
