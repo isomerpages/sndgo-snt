@@ -11,9 +11,6 @@ image: /images/OG Image/SNT Senior OG Image.jpeg
 * [BioHacking with Tech for Better Health](/seniors/my-savvy-kaki-series/biohacking-with-tech/)<br>
 	11 Jan, 12pm - 1pm
 	
-* [Introduction to Health Informatics](/seniors/my-savvy-kaki-series/health-informatics/)<br>
-	16 Jan, 7pm - 8pm
-	
 * [Detecting Dementia with Artificial Intelligence](/seniors/my-savvy-kaki-series/detecting-dementia-ai/)<br>
 	18 Jan, 3pm - 4pm
 	
