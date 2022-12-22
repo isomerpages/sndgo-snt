@@ -11,4 +11,4 @@ What does it mean to be 'well', and how can we use tech tools to take charge of 
 
 [Sign up here!](https://go.gov.sg/wa-wellnesstech-jan23)
 
-![free webinar on boosting wellness with tech](/images/Jan%202023/WA_26%20Jan2023.jpeg)
+![free webinar on boosting mental wellness with tech](/images/Jan%202023/WA26%20Jan.jpeg)
