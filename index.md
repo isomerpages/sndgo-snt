@@ -14,14 +14,6 @@ sections:
         everyone!
       title: Welcome to the Smart Nation Together Online Channel!
   - infopic:
-      title: For Kids
-      description: It’s never too early to start. Give your child a head-start and
-        have fun at our hands-on workshops on coding, AI, and more.
-      button: Register Here
-      url: /kids-and-young-parents/overview
-      alt: Image alt text
-      image: /images/Home Page/SNT Kids Home Image.jpeg
-  - infopic:
       title: For Working Adults
       description: Want to level up on tech skills for your work? From data analytics
         to robotics, to softer skills like digital marketing, our subject
