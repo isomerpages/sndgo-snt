@@ -2,8 +2,9 @@
 title: Detecting Dementia with Artificial Intelligence
 permalink: /working-adults/Free-Webinars/detecting-dementia-ai/
 description: ""
-third_nav_title: Free Webinars
+third_nav_title: 2023 Jan
 ---
+
 **Date:** 18 January, Wednesday
 <br> **Time:** 3pm - 4pm
 

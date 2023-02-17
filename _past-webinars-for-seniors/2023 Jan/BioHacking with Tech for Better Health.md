@@ -1,9 +1,10 @@
 ---
 title: BioHacking with Tech for Better Health
-permalink: /working-adults/Free-Webinars/biohacking-with-tech/
+permalink: /seniors/My-Savvy-Kaki-Series/biohacking-with-tech/
 description: ""
-third_nav_title: Free Webinars
+third_nav_title: 2023 Jan
 ---
+
 **Date:** 11 January, Wednesday
 <br> **Time:** 12pm - 1pm
 
@@ -11,4 +12,4 @@ What is Biohacking and how does it work? Learn how you can 'upgrade' your mental
 
 [Sign up here!](https://go.gov.sg/wa-biohacking-jan23)
 
-![free webinar on biohacking with tech for better health](/images/Jan%202023/WA_11%20Jan2023.jpeg)
+![free webinar on biohacking with tech for better health](/images/Jan%202023/Seniors_11%20Jan2023.jpeg)

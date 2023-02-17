@@ -1,9 +1,10 @@
 ---
 title: Boost Your Mental Wellness with Tech
-permalink: /working-adults/Free-Webinars/mental-wellness-tech/
+permalink: /seniors/My-Savvy-Kaki-Series/mental-wellness-tech/
 description: ""
-third_nav_title: Free Webinars
+third_nav_title: 2023 Jan
 ---
+
 **Date:** 26 January, Thursday
 <br> **Time:** 12pm - 1pm
 
@@ -11,4 +12,4 @@ What does it mean to be 'well', and how can we use tech tools to take charge of 
 
 [Sign up here!](https://go.gov.sg/wa-wellnesstech-jan23)
 
-![free webinar on boosting mental wellness with tech](/images/Jan%202023/WA26%20Jan.jpeg)
+![free webinars on boosting mental wellness with tech](/images/Jan%202023/Seniors_26_Jan2023.jpeg)
