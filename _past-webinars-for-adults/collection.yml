@@ -2,6 +2,7 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - 2023 Jan/BioHacking with Tech for Better Health.md
       - 2023 Jan/.keep
       - 2022 Nov/Business Analytics for Managers.md
       - 2022 Nov/Level Up Your Business with Digital Marketing Tools.md
