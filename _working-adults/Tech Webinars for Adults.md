@@ -18,11 +18,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 
 <div class="col" style="padding: 10px 20px 10px 20px;">  <a href="/workingadults/techwebinarsforadults"><img src="/images/Mar%202023/WA_20%20Mar%202023.png"></a><br>
      <div class="header" style="font-size:18px"><b>Singapore’s Transition to Renewables</b></div><br><br>Ever wondered how solar energy is harnessed in Singapore? Can Singapore be powered solely by solar energy? In this webinar, learn more about Singapore’s energy transition, the four energy supply sources that will be transiting to solar, and technologies that Singapore is exploring to reach net-zero by 2050. Sign up now!
-	<br><br></div>	
-
-</div>
-
-<div class="row" style="padding: 20px 0px 0px 0px;">
+	<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="/community/showcases/cityscape"><img src="/images/community/cityscape/Cityscape-01.jpeg" alt="CityScape"></a><br>
 	<div class="header" style="font-size:18px"><b>Smart Nation CityScape</b></div><br><br>Smart Nation CityScape is an informational exhibition on how Smart Nation initiatives are embedded in our city. Visitors get to learn about Singapore's digital transformation journey through a series of interactive stations and displays.
