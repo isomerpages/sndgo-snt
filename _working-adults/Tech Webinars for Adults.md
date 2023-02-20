@@ -21,5 +21,5 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 	<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="/workingadults/techwebinarsforadults"><img src="/images/Mar%202023/WA_29%20Mar%202023.png"></a><br>
-	<div class="header" style="font-size:18px"><b>Science and Technology Behind Our City in Nature</b></div><br><br>What does it take to realise our City in a Garden vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity.
+	<div class="header" style="font-size:18px"><b>Science and Technology Behind Our City in Nature</b></div><br><br>What does it take to realise our City in a Garden vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity. Sign up now!
 	<br><br></div>
