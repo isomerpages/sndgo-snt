@@ -8,7 +8,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/workingadults/techwebinarsforadults"><img src="/images/Mar%202023/WA_6%20Mar%202023.png" alt="Tech Webinars for Adults"></a><br>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/workingadults/techwebinarsforadults"><img src="/images/Mar%202023/WA_6%20Mar%202023.png"></a><br>
 	<div class="header" style="font-size:18px"><b>Artificial Intelligence, Humanity and Sustainability</b></div><br><br>AI has been very much in the news, what with all the buzz over ChatGPT. But what is the place of AI in sustainability? In this webinar, learn how Artificial Intelligence and Blockchain can help us reach the Sustainable Development Goals and how we can all use these technologies responsibly. Sign up now!
 	<br><br></div>
 
@@ -20,30 +20,6 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
      <div class="header" style="font-size:18px"><b>Singapore’s Transition to Renewables</b></div><br><br>Ever wondered how solar energy is harnessed in Singapore? Can Singapore be powered solely by solar energy? In this webinar, learn more about Singapore’s energy transition, the four energy supply sources that will be transiting to solar, and technologies that Singapore is exploring to reach net-zero by 2050. Sign up now!
 	<br><br></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/community/showcases/cityscape"><img src="/images/community/cityscape/Cityscape-01.jpeg" alt="CityScape"></a><br>
-	<div class="header" style="font-size:18px"><b>Smart Nation CityScape</b></div><br><br>Smart Nation CityScape is an informational exhibition on how Smart Nation initiatives are embedded in our city. Visitors get to learn about Singapore's digital transformation journey through a series of interactive stations and displays.
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/workingadults/techwebinarsforadults"><img src="/images/Mar%202023/WA_29%20Mar%202023.png"></a><br>
+	<div class="header" style="font-size:18px"><b>Science and Technology Behind Our City in Nature</b></div><br><br>What does it take to realise our City in a Garden vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity.
 	<br><br></div>
-
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/community/showcases/playscape"><img src="/images/community/playscape/Playscape_Rubik.jpg" alt="PlayScape"></a><br>
-	<div class="header" style="font-size:18px"><b>Smart Nation PlayScape</b></div><br><br>Located at the Science Centre, Smart Nation PlayScape aims to educate the public on tech trends in a simple, relatable and easy-to-digest manner.
-	<br><br></div>
-
-<div class="col" style="padding: 10px 20px 10px 20px;"> 
-	<br><br></div>	
-
-</div>
-
-
-###  Click on the links below for more information on available paid courses
-
-* [NUS FinTech SG Programme](/working-adults/fintech/nus-ace)<br>
-	by NUS School of Computing (SoC) and AI Singapore
-
-* [PDPA Compliance for Executives](/working-adults/pdpa-compliance/nus-ace)<br>
-by NUS Advanced Computing for Executives
-
-* [Digital Transformation Programme](/working-adults/digi-transformation/nus-ace)<br>
- by NUS Advanced Computing for Executives 
-
-* [Data Science Immersive](/working-adults/paid-courses/ga-data-sci) <br>
- by General Assembly
