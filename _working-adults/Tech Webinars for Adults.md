@@ -16,8 +16,8 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 	<div class="header" style="font-size:18px"><b>Singapore: From Tech Front-Runner to Climate Leader</b></div><br><br>Did you know that Singapore aims to be the regional leader in decarbonisation and has put in place ambitious plans to reach net-zero by 2050? Learn more about how Singapore intends to do so by harnessing Green Technology. Sign up now!
 	<br><br></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;">  <a href="/community/showcases/builder"><img src="/images/community/builder/Smart_Nation_Builder_12.jpeg"></a><br>
-     <div class="header" style="font-size:18px"><b>Smart Nation Builder</b></div><br><br>Designed as a roving showcase, the Smart Nation Builder is fitted with eight interactive game stations for members of the public to learn about our Smart Nation initiatives and digital government services. Sign up now!
+<div class="col" style="padding: 10px 20px 10px 20px;">  <a href="/workingadults/techwebinarsforadults"><img src="/images/Mar%202023/WA_20%20Mar%202023.png"></a><br>
+     <div class="header" style="font-size:18px"><b>Singapore’s Transition to Renewables</b></div><br><br>Ever wondered how solar energy is harnessed in Singapore? Can Singapore be powered solely by solar energy? In this webinar, learn more about Singapore’s energy transition, the four energy supply sources that will be transiting to solar, and technologies that Singapore is exploring to reach net-zero by 2050. Sign up now!
 	<br><br></div>	
 
 </div>
