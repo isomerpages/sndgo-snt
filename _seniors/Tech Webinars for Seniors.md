@@ -8,7 +8,7 @@ image: /images/OG Image/SNT Senior OG Image.jpeg
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;">  <a href="https://go.gov.sg/snt-myenv"><img src=""></a><br>
+<div class="col" style="padding: 10px 20px 10px 20px;">  <a href="https://go.gov.sg/snt-myenv"><img src="/images/Mar%202023/Seniors_22%20Mar%202023.png"></a><br>
      <div class="header" style="font-size:18px"><b>Discover Popular Features to Understand Your Environment in myENV App</b></div><br><br>New to the myENV App? Join us as we bring you through the popular features of the app. Find the latest weather forecasts and learn how to get notifications on hawker centre closures (so you do not make a wasted trip)!
 	<br><br></div>
 
