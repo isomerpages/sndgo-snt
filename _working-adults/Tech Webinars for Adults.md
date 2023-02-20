@@ -8,7 +8,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/workingadults/techwebinarsforadults"><img src="/images/Mar%202023/WA_6%20Mar%202023.png"></a><br>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="https://go.gov.sg/wa-ai-sustainability-mar23"><img src="/images/Mar%202023/WA_6%20Mar%202023.png"></a><br>
 	<div class="header" style="font-size:18px"><b>Artificial Intelligence, Humanity and Sustainability</b></div><br><br>AI has been very much in the news, what with all the buzz over ChatGPT. But what is the place of AI in sustainability? In this webinar, learn how Artificial Intelligence and Blockchain can help us reach the Sustainable Development Goals and how we can all use these technologies responsibly. Sign up now!
 	<br><br></div>
 
