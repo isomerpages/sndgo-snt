@@ -18,7 +18,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 	<div class="header" style="font-size:18px"><b>Singapore - From Tech Front-Runner to Climate Leader</b></div><br><br>Did you know that Singapore aims to be the regional leader in decarbonisation and has put in place ambitious plans to reach net-zero by 2050? Learn more about how Singapore intends to do so by harnessing Green Technology. <a href="https://go.gov.sg/wa-greentech-mar23" target="_blank">Sign up now!</a>
 </div>
 <br>
-<br></div></div>
+<br>
 
 <br>
 <div class="row" style="padding: 20px 0px 10px 0px;">
@@ -33,6 +33,6 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 	<div class="header" style="font-size:18px"><b>Science and Technology Behind Our City in Nature</b></div><br><br>What does it take to realise our City in a Garden vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity. <a href="https://go.gov.sg/nparks-sustech" target="_blank">Sign up now!</a>
 </div>
 <br>
-<br></div></div>
+<br>
 		
 <div class="row" style="padding: 20px 0px 10px 0px;">
