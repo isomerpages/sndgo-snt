@@ -13,5 +13,5 @@ image: /images/OG Image/SNT Senior OG Image.jpeg
 	<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;">  <img src="/images/Mar%202023/Seniors_29%20Mar%202023.png"><br>
-	<div class="header" style="font-size:18px"><b>Science and Technology Behind Our City in Nature</b></div><br><br>What does it take to realise our City in a Garden vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity. <a href="https://go.gov.sg/nparks-sustech" target="_blank">Sign up now!</a>
+	<div class="header" style="font-size:18px"><b>Discover Science and Tech Behind Our City in Nature</b></div><br><br>What does it take to realise our City in Nature vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity. <a href="https://go.gov.sg/nparks-sustech" target="_blank">Sign up now!</a>
 	<br><br></div>
