@@ -1,39 +1,11 @@
 ---
 title: NUS FinTechSG Programme
-permalink: /working-adults/fintech/nus-ace
+permalink: /working-adults/fintech/nus-ace/
 description: "NUS FinTechSG programme for Working Adults "
 image: /images/NUS-FinTech.png
 third_nav_title: Paid Courses
 ---
-<div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
-            overflow: hidden;
-            position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/cCoD7kQfiPk"
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
-                left: 0;
-                right: 0;
-                bottom: 0;
-                height: 100%;
-                border: none;
-                max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
-    </div>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MSUB9w9kkf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Training provider:** National University Singapore (NUS) School of Computing (SoC) and AI Singapore<br>
 **Study Mode:** Online Learning   
