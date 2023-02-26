@@ -36,4 +36,4 @@ Please click on the links below for more information:
 [Master of IT in Business (Digital Transformation)](https://scis.smu.edu.sg/master-it-business/digital-transformation-track/curriculum)
 
 #### **ENQUIRIES**
-Please email [MITB](https://scis.smu.edu.sg/master-it-business/academic-experience/faculty-staff/mitb-staff) for more information and assistance. 
+Please email [MITB](https://scis.smu.edu.sg/master-it-business/academic-experience/faculty-staff/mitb-staff) for more information and assistance.
