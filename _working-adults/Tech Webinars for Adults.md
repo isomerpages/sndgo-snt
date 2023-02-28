@@ -19,6 +19,8 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 </div>
 <br><br></div>
 
+<div class="row" style="padding: 20px 0px 10px 0px;">
+
 <br>
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="padding: 0px 20px 0px 20px;">
