@@ -5,7 +5,35 @@ description: SMU Master of IT in Business (MITB) Programme
 image: /images/Mar 2023/Paid-SMU-MITB.jpeg
 third_nav_title: Paid Courses
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MSUB9w9kkf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/MSUB9w9kkf0"
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 **Training provider:** [School of Computing and Information Systems](https://scis.smu.edu.sg/)<br>
 **Study Mode:** Classroom Learning   
