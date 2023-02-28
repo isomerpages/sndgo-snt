@@ -13,12 +13,6 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 </div>
 <br>
 
-</div>
-<div class="col" style="padding: 20px 20px 0px 20px;"><img src="/images/Mar%202023/WA_9%20Mar%202023.png"><br>
-<div class="header" style="font-size:18px"><b>Singapore - From Tech Front-Runner to Climate Leader</b></div><br>Did you know that Singapore aims to be the regional leader in decarbonisation and has put in place ambitious plans to reach net-zero by 2050? Learn more about how Singapore intends to do so by harnessing Green Technology. <a href="https://go.gov.sg/wa-greentech-mar23" target="_blank"><br>Sign up now!</a>
-</div>
-<br><br></div>
-
 <br>
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="padding: 0px 20px 0px 20px;">
