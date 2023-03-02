@@ -15,7 +15,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 	
 </div>
 <div class="col" style="padding: 20px 20px 0px 20px;"><img src="/images/Mar%202023/WA_20%20Mar%202023.png"><br>
-<div class="header" style="font-size:18px"><b>Singapore’s Transition to Renewables</b></div><br>Ever wondered how solar energy is harnessed in Singapore? Can Singapore be powered solely by solar energy? In this webinar, learn more about Singapore’s energy transition, the four energy supply sources that will be transiting to solar, and technologies that Singapore is exploring to reach net-zero by 2050. <a href="https://go.gov.sg/wa-sgsolarenergy-mar23" target="_blank"><br>Sign up now!</a>
+<div class="header" style="font-size:18px"><b>Singapore’s Transition to Renewables</b></div><br>Ever wondered how solar energy is harnessed in Singapore? Can Singapore be powered solely by solar energy? In this webinar, learn more about Singapore’s energy transition, the four energy supply sources required, and technologies that Singapore is exploring to reach net-zero by 2050. <a href="https://go.gov.sg/wa-sgsolarenergy-mar23" target="_blank"><br>Sign up now!</a>
 </div>
 <br><br></div>
 
