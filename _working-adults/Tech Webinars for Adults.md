@@ -42,7 +42,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 </div>
 	
 </div>
-<div class="col" style="padding: 20px 20px 0px 20px;">
+<div class="col" style="padding: 20px 0px 10px 0px;">
 </div>
 <br><br></div>
 
