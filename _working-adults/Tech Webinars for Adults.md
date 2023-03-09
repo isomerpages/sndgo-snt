@@ -30,12 +30,12 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 <br>
 	
 </div>
-<div class="col" style="padding: 20px 20px 0px 20px;">
+<div class="col" style="padding: 20px 0px 10px 0px;">
 </div>
 <br><br></div>
 
 <br>
-<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="row" style="padding: 20px 20px 0px 20px;">
 <div class="col" style="padding: 0px 20px 0px 20px;">
 <div class="col" style="padding: 20px 0px 0px 0px;"><img src="/images/Mar%202023/WA_29%20Mar%202023.png"><br>
 <div class="header" style="font-size:18px"><b>Discover the Science and Tech Behind Our City in Nature</b></div><br>What does it take to realise our City in Nature vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity. <a href="https://go.gov.sg/wa-agritech-mar23" target="_blank"><br>Sign up now!</a>
