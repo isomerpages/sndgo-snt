@@ -23,12 +23,12 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="padding: 0px 20px 0px 20px;">
 <div class="col" style="padding: 20px 0px 0px 0px;"><img src="/images/Mar%202023/WA_28%20Mar%202023.png"><br>
-<div class="header" style="font-size:18px"><b>Agritech's Role in Sustainable Food Security</b></div><br>Did you know that SFA is working with our local agri-food industry towards the '30 by 30' goal, which is to build our capability and capacity to sustainbly produce 30% of our nutritional needs by 2030? In this webinar, learn about Singapore's vision for food security - and how it can be realised through tech-enabled and sustainable farming practices. <a href="https://go.gov.sg/nparks-sustech" target="_blank"><br>Sign up now!</a>
+<div class="header" style="font-size:18px"><b>Agritech's Role in Sustainable Food Security</b></div><br>Did you know that SFA is working with our local agri-food industry towards the '30 by 30' goal, which is to build our capability and capacity to sustainbly produce 30% of our nutritional needs by 2030? In this webinar, learn about Singapore's vision for food security - and how it can be realised through tech-enabled and sustainable farming practices. <a href="https://go.gov.sg/wa-agritech-mar23" target="_blank"><br>Sign up now!</a>
 </div>
 <br>
 	
 </div>
 <div class="col" style="padding: 0px 20px 0px 20px;">
 <div class="col" style="padding: 20px 0px 0px 0px;"><img src="/images/Mar%202023/WA_29%20Mar%202023.png"><br>
-<div class="header" style="font-size:18px"><b>Discover the Science and Tech Behind Our City in Nature</b></div><br>What does it take to realise our City in Nature vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity. <a href="https://go.gov.sg/wa-agritech-mar23" target="_blank"><br>Sign up now!</a>
+<div class="header" style="font-size:18px"><b>Discover the Science and Tech Behind Our City in Nature</b></div><br>What does it take to realise our City in Nature vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity. <a href="https://go.gov.sg/nparks-sustech" target="_blank"><br>Sign up now!</a>
 </div>
