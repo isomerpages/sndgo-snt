@@ -102,8 +102,6 @@ Participants may consider taking the following modules before attending **Level 
 * [Making Contracts Smart with Blockchain](https://ace.nus.edu.sg/event/making-contracts-smart-with-blockchain-e-learning/)
 * [Algo-Trading, Theory and Practice](https://ace.nus.edu.sg/event/algo-trading-theory-and-practice-e-learning/)
 
-Click here for more information on [E-Speed Interview](https://fintechlab.nus.edu.sg/e-speed-interview-for-graduating-fintech-sgus-trainee/).
-
 ![Training Roadmap for FinTechSG Programme](/images/Fintechsg-Training-Roadmap-espeed-Interview.jpeg)
 
 #### **ENQUIRIES**
