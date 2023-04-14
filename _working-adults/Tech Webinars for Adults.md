@@ -41,5 +41,5 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 	
 ![webinar on benefits of technology for SMEs in e-commerce and retail](/images/May%202023/wa_29%20may.png)	
 
-<div class="header" style="font-size:18px"><b>Discover the Science and Tech Behind Our City in Nature</b></div><br>What does it take to realise our City in Nature vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity. <a href="https://go.gov.sg/nparks-sustech" target="_blank"><br>Sign up now!</a>
+<div class="header" style="font-size:18px"><b>Retail and E-Commerce: Innovating with Technology</b></div><br>With the advent of E-Commerce, how are traditional brick-and-mortar stores innovating to improve their operations and customer solutions? Come hear from partners of UOB about digital innovations in the retail space, such as revolutionising Point-of-Sale (POS) to improve operational efficiency and sales. <a href="https://go.gov.sg/nparks-sustech" target="_blank"><br>Sign up now!</a>
 </div></div></div>
