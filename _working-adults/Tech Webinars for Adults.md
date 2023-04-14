@@ -12,7 +12,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 
 ![webinar on benefits of digital marketing and e-commerce by nus ace](/images/May%202023/wa_11%20may.png)
 
-<div class="header" style="font-size:18px"><b>Unlock Benefits of Digital Marketing and E-Commerce</b></div><br>How can businesses stay competitive in our growing digital economy? Whether you are a marketer of a business owner, learn from NUS ACE about the benefits and opportunities that digital marketing and e-commerce can bring to achieve success in today's changing digital landscape. <a href="https://go.gov.sg/wa-ai-sustainability-mar23" target="_blank"><br>Sign up now!</a>
+<div class="header" style="font-size:18px"><b>Unlock Benefits of Digital Marketing and E-Commerce</b></div><br>How can businesses stay competitive in our growing digital economy? Whether you are a marketer of a business owner, learn from NUS ACE about the benefits and opportunities that digital marketing and e-commerce can bring to achieve success in today's changing digital landscape. <a href="https://go.gov.sg/wa-sgecommerce-may23" target="_blank"><br>Sign up now!</a>
 </div>
 <br>
 	
