@@ -4,4 +4,42 @@ permalink: /working-adults/free-webinars/overview/
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Adults OG Image.jpeg
 ---
-![no webinars scheduled for april 2023](/images/No%20Webinar/No%20Webinar.png)
+# May 2023: E-Commerce and Retail 
+<br>
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="padding: 0px 20px 0px 20px;">
+<div class="col" style="padding: 20px 0px 0px 0px;">
+
+![webinar on benefits of digital marketing and e-commerce by nus ace](/images/May%202023/wa_11%20may.png)
+<div class="header" style="font-size:18px"><b>Unlock Benefits of Digital Marketing and E-Commerce</b></div><br>How can businesses stay competitive in our growing digital economy? Whether you are a marketer of a business owner, learn from NUS ACE about the benefits and opportunities that digital marketing and e-commerce can bring to achieve success in today's changing digital landscape. <a href="https://go.gov.sg/wa-ai-sustainability-mar23" target="_blank"><br>Sign up now!</a>
+</div>
+<br>
+	
+</div>
+<div class="col" style="padding: 20px 20px 0px 20px;">
+
+![webinar on e-commerce powered by artificial intelligence by rakuten](/images/May%202023/wa_18%20may.png)
+
+<div class="header" style="font-size:18px"><b>E-Commerce Powered by Artificial Intelligence</b></div><br>Keen to know what are the latest macro E-Commerce trends out there and how it affects the way merchants advertise their products? Hear from Rakuten - an internet services provider that has been leveraging on Artificial Intelligence (AI) to improve sales through targeted advertising. <a href="https://go.gov.sg/wa-ecommerce-may23" target="_blank"><br>Sign up now!</a>
+</div>
+<br><br></div>
+
+<br>
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="padding: 0px 20px 0px 20px;">
+<div class="col" style="padding: 20px 0px 0px 0px;">
+
+![webinar on recommender systems by smu](/images/May%202023/wa_22%20may.png)
+
+<div class="header" style="font-size:18px"><b>Sneak Peek: Recommender Systems</b></div><br>Ever wonder how your favourite shopping or entertainment apps seem to know exactly what you like? Find out more about recommender systems - an emerging area in Artificial Intelligence (AI) that studies information about your behaviour to find out your preferences and interests. <a href="https://go.gov.sg/wa-recommender-may23" target="_blank"><br>Sign up now!</a>
+</div>
+<br>
+	
+</div>
+<div class="col" style="padding: 0px 20px 0px 20px;">
+<div class="col" style="padding: 20px 0px 0px 0px;">
+	
+![webinar on benefits of technology for SMEs in e-commerce and retail](/images/May%202023/wa_29%20may.png)	
+
+<div class="header" style="font-size:18px"><b>Discover the Science and Tech Behind Our City in Nature</b></div><br>What does it take to realise our City in Nature vision? In this webinar, find out how NParks harnesses the power of science and technology and how the community can play a part! Come hear fascinating stories about the tech used in caring for our trees and biodiversity. <a href="https://go.gov.sg/nparks-sustech" target="_blank"><br>Sign up now!</a>
+</div></div></div>
