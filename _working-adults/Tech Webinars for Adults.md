@@ -19,7 +19,6 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 </div>
 <br><br></div>
 
-<br>
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="padding: 0px 20px 0px 20px;">
 <div class="col" style="padding: 20px 0px 0px 0px;"><img src="/images/May%202023/wa_22%20may.png" alt="Sneak Peek: Recommender Systems"><br>
