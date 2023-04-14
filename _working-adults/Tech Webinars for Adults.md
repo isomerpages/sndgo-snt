@@ -11,6 +11,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 <div class="col" style="padding: 20px 0px 0px 0px;">
 
 ![webinar on benefits of digital marketing and e-commerce by nus ace](/images/May%202023/wa_11%20may.png)
+
 <div class="header" style="font-size:18px"><b>Unlock Benefits of Digital Marketing and E-Commerce</b></div><br>How can businesses stay competitive in our growing digital economy? Whether you are a marketer of a business owner, learn from NUS ACE about the benefits and opportunities that digital marketing and e-commerce can bring to achieve success in today's changing digital landscape. <a href="https://go.gov.sg/wa-ai-sustainability-mar23" target="_blank"><br>Sign up now!</a>
 </div>
 <br>
@@ -41,5 +42,5 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 	
 ![webinar on benefits of technology for SMEs in e-commerce and retail](/images/May%202023/wa_29%20may.png)	
 
-<div class="header" style="font-size:18px"><b>Retail and E-Commerce: Innovating with Technology</b></div><br>With the advent of E-Commerce, how are traditional brick-and-mortar stores innovating to improve their operations and customer solutions? Come hear from partners of UOB about digital innovations in the retail space, such as revolutionising Point-of-Sale (POS) to improve operational efficiency and sales. <a href="https://go.gov.sg/nparks-sustech" target="_blank"><br>Sign up now!</a>
+<div class="header" style="font-size:18px"><b>Retail and E-Commerce: Innovating with Technology</b></div><br>With the advent of E-Commerce, how are traditional brick-and-mortar stores innovating to improve their operations and customer solutions? Come hear from partners of UOB about digital innovations in the retail space, such as revolutionising Point-of-Sale (POS) to improve operational efficiency and sales. <a href="https://go.gov.sg/wa-uob-may23" target="_blank"><br>Sign up now!</a>
 </div></div></div>
