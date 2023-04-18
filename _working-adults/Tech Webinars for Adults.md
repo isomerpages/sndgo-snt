@@ -13,7 +13,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 </div>
 
 <div class="col" style="padding: 20px 20px 0px 20px;"><img src="/images/May%202023/wa_18%20may.png" alt="E-Commerce Powered by Artificial Inteligence"><br>
-<div class="header" style="font-size:18px"><b>E-Commerce Powered by Artificial Inteligence</b></div><br>Keen to know what are the latest macro E-Commerce trends out there and how it affects the way merchants advertise their products? Hear from Rakuten - an internet services provider that has been leveraging on Artificial Intelligence (AI) to improve sales through targeted advertising.<br><br><a href="https://go.gov.sg/wa-ecommerce-may23" target="_blank">Sign up now!</a>
+<div class="header" style="font-size:18px"><b>E-Commerce Powered by Artificial Intelligence</b></div><br>Keen to know what are the latest macro E-Commerce trends out there and how it affects the way merchants advertise their products? Hear from Rakuten - an internet services provider that has been leveraging on Artificial Intelligence (AI) to improve sales through targeted advertising.<br><br><a href="https://go.gov.sg/wa-ecommerce-may23" target="_blank">Sign up now!</a>
 </div>
 
 </div>
