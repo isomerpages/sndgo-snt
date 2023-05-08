@@ -2,6 +2,7 @@ collections:
   past-themes:
     output: true
     order:
+      - Aug 2022/Free Webinars for Seniors (Aug 2022).md
       - Aug 2022/.keep
       - Jan 2023/Webinars on Healthcare Tech.md
       - Jan 2023/.keep
