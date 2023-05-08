@@ -2,6 +2,7 @@ collections:
   past-themes:
     output: true
     order:
+      - Jan 2023/Webinars on Healthcare Tech.md
       - Jan 2023/.keep
       - Apr 2022/.keep
       - "Apr 2022/Cybersecurity Webinars on #SNT.md"
