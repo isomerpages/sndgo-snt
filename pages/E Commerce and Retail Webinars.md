@@ -3,7 +3,7 @@ title: E Commerce and Retail Webinars
 permalink: /may2023/
 description: Boost your e-commerce & retail strategy with tech!
 ---
-# Get Ahead in E-Commerce and Retail with our Webinar Series
+# Get Ahead in your E-Commerce and Retail Journey with our Webinar Series
 
 Ready to take your e-commerce and retail strategy to the next level? Join our webinars and gain valuable insights on how to leverage technology to enhance sales and efficiency in the digital age. Sing up now!
  
