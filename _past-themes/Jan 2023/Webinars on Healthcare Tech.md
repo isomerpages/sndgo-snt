@@ -4,10 +4,11 @@ permalink: /healthcaretech-jan2023/
 description: Come and learn about the latest tech in healthcare and work towards
   your health goals.
 image: /images/OG Image/OG Image SNT Jan 2023.jpeg
+third_nav_title: Jan 2023
 ---
 ![](/images/OG%20Image/OG%20Image%20SNT%20Jan%202023.jpeg)
 
-> Come and learn about the latest tech in healthcare and work towards your health goals.
+&gt; Come and learn about the latest tech in healthcare and work towards your health goals.
 
 Click on the links below to register for the FREE webinars:
 
@@ -23,5 +24,5 @@ Click on the links below to register for the FREE webinars:
 * [Boost Your Mental Wellness with Tech](/seniors/my-savvy-kaki-series/mental-wellness-tech/)<br>
 	26 Jan, 12pm - 1pm
 	
-* [Telehealth for Physiotherapy: What, When & Why](/seniors/my-savvy-kaki-series/telehealth-physiotherapy/)<br>
+* [Telehealth for Physiotherapy: What, When &amp; Why](/seniors/my-savvy-kaki-series/telehealth-physiotherapy/)<br>
 	30 Jan, 7pm - 8pm
