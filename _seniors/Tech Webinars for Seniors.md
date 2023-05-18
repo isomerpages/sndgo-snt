@@ -4,7 +4,7 @@ permalink: /seniors/overview/
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Senior OG Image.jpeg
 ---
-# June 2023: All About Government Apps!
+# June 2023: All About Lifestyle Apps!
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 
