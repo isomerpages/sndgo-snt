@@ -13,7 +13,7 @@ image: /images/OG Image/SNT Senior OG Image.jpeg
 </div>
 
 <div class="col" style="padding: 20px 20px 0px 20px;"><img src="/images/Jun%202023/seniors_%2021%20jun%2023.png" alt="Explore New Features of the HealthHub App"><br>
-<div class="header" style="font-size:18px"><b>Explore New Features of the HealthHub App!</b></div><br>Book health appointments, obtain queue number and access health records for yourself and your loved ones, all in one place on HealthHub. Find out how you can make transactions such as bill payment digitally on HealthHub and learn more about the new features such as medical alert and allergies.<br><br><a href="https://go.gov.sg/wa-ecommerce-may23" target="_blank">Sign up now!</a>
+<div class="header" style="font-size:18px"><b>Explore New Features of the HealthHub App!</b></div><br>Book health appointments, obtain queue number and access health records for yourself and your loved ones, all in one place on HealthHub. Find out how you can make transactions such as bill payment digitally on HealthHub and learn more about the new features such as medical alert and allergies.<br><br><a href="https://go.gov.sg/hhapp-sndgosocials" target="_blank">Sign up now!</a>
 </div>
 
 </div>
