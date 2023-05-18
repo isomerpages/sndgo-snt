@@ -6,7 +6,7 @@ image: /images/OG Image/og-image-snt-may-2023.jpeg
 ---
 # Get Ahead in your E-Commerce and Retail Journey with our Webinar Series
 
-Ready to take your e-commerce and retail strategy to the next level? Join our webinars and gain valuable insights on how to leverage technology to enhance sales and efficiency in the digital age. Sing up now!
+Ready to take your e-commerce and retail strategy to the next level? Join our webinars and gain valuable insights on how to leverage technology to enhance sales and efficiency in the digital age. Sign up now!
  
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
