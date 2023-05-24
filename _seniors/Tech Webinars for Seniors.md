@@ -9,7 +9,7 @@ image: /images/OG Image/SNT Senior OG Image.jpeg
 <div class="row" style="padding: 20px 0px 10px 0px;">
 
 <div class="col" style="padding: 20px 20px 0px 20px;"><img src="/images/Jun%202023/seniors_14%20jun%2023.png" alt="Save More and Shop Easier with the FairPrice App"><br>
-<div class="header" style="font-size:18px"><b>Save More and Shop Easier with the FairPrice App</b></div><br>The FairPrice app helps you to save money and time at NTUC and Kopitiam! Let us teach you to use it to pay for your Kopitiam meals, marketing, plan shopping lists and get heavy groceries delivered to your doorstep, while earning attractive rewards using Linkpoints!<br><br><a href="https://go.gov.sg/fpapp" target="_blank">Sign up now!</a>
+<div class="header" style="font-size:18px"><b>Save More and Shop Easier with the FairPrice App</b></div><br>The FairPrice app helps you to save money and time at NTUC FairPrice and Kopitiam! Let us teach you to use it to pay for your Kopitiam meals, marketing, plan shopping lists and get heavy groceries delivered to your doorstep, while earning attractive rewards using Linkpoints!<br><br><a href="https://go.gov.sg/fpapp" target="_blank">Sign up now!</a>
 </div>
 
 <div class="col" style="padding: 20px 20px 0px 20px;"><img src="/images/Jun%202023/seniors_%2021%20jun%2023.png" alt="Explore New Features of the HealthHub App"><br>
