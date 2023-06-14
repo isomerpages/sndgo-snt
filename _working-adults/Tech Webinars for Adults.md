@@ -46,10 +46,6 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 
 </div>
 
-<div class="col" style="padding: 20px 20px 0px 20px;"><img src="/images/Jul%202023/wa_17%20jul%2023.png" alt="Data in the Modern World"><br>
-	
-<div class="header" style="font-size:18px"><b>Data in the Modern World</b></div><br>Data has been dubbed as the new oil, but what does it mean in the today’s context – especially with the rise of Large Language Models like ChatGPT? Join us to discover how data fuels our economy and enhances collaboration to achieve data intelligence at scale, through real-world examples illustrating the flow of data in today’s interconnected society. <br><br><a href="https://go.gov.sg/wa-data-17july" target="\_blank">Sign up now!</a>
-
-</div>
+<div class="col" style="padding: 20px 20px 0px 20px;"></div>
 
 </div>
