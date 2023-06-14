@@ -16,7 +16,7 @@ image: /images/OG Image/SNT Adults OG Image.jpeg
 
 <div class="col" style="padding: 20px 20px 0px 20px;"><img src="/images/Jul%202023/wa_6%20jul%2023.png" alt="Power of Data Analytics and AI for Positive Change"><br>
 
-<div class="header" style="font-size:18px"><b>Curious about how data and Artificial Intelligence (AI) can help shape a better world?</b></div><br> Listen to real-world success stories of data-driven initiatives in areas such as healthcare and education, and how it has revolutionised decision-making, resource allocation and problem-solving across various domains. Gain insights on its responsible implementation and the essential skills needed in our changing digital environment.<br><br><a href="https://go.gov.sg/wa-data-ai-6july" target="\_blank">Sign up now!</a>
+<div class="header" style="font-size:18px"><b>Power of Data Analytics and AI for Positive Change</b></div><br>Curious about how data and Artificial Intelligence (AI) can help shape a better world? Listen to real-world success stories of data-driven initiatives in areas such as healthcare and education, and how it has revolutionised decision-making, resource allocation and problem-solving across various domains. Gain insights on its responsible implementation and the essential skills needed in our changing digital environment.<br><br><a href="https://go.gov.sg/wa-data-ai-6july" target="\_blank">Sign up now!</a>
 
 </div>
 
