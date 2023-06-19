@@ -27,7 +27,7 @@ Uncover the power of data in today's digital landscape and discover how these tr
 
 <div class="col" style="padding: 20px 20px 0px 20px;"><img src="/images/Jul%202023/wa_13%20jul%2023.png" alt="Let’s Talk About Decision Automation and Intelligence"><br>
 
-<div class="header" style="font-size:18px"><b>Let’s Talk About Decision Automation and Intelligence</b></div><br>Simplify decision-making with the power of Artificial Intelligence (AI). In this webinar, join speakers from NUS ACE on how AI can revolutionise the way we make choices – from optimizing daily commutes to planning vacations. Learn how AI can provide convenience through decision automation and gain valuable insights for informed decision-making. .<br><br><a href="https://go.gov.sg/wa-di-13july" target="\_blank">Sign up now!</a>
+<div class="header" style="font-size:18px"><b>Let’s Talk About Decision Automation and Intelligence</b></div><br>Simplify decision-making with the power of Artificial Intelligence (AI). In this webinar, join speakers from NUS ACE on how AI can revolutionise the way we make choices – from optimizing daily commutes to planning vacations. Learn how AI can provide convenience through decision automation and gain valuable insights for informed decision-making.<br><br><a href="https://go.gov.sg/wa-di-13july" target="\_blank">Sign up now!</a>
 
 </div>
 
