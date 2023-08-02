@@ -42,11 +42,16 @@ sections:
       button: FIND OUT MORE
   - infopic:
       title: Singapore Together movement
-      description: "The Singapore Together movement is about the government working
+      description: The Singapore Together movement is about the government working
         with Singaporeans, and Singaporeans working with one another, to build
-        our future Singapore. "
+        our future Singapore.
       button: FIND OUT MORE
       url: https://www.sg/
       image: /images/Icons & Logos/SGT_transparent.png
-      alt: "Singapore Together "
+      alt: Singapore Together
+  - infobar:
+      title: Stay informed by signing up for our newsletter
+      description: Get the latest updates delivered to your mailbox
+      button: Register here
+      url: www.smartnation.gov.sg
 ---
