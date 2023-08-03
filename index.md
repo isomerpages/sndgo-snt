@@ -31,6 +31,11 @@ sections:
       url: /seniors/overview
       alt: Image alt text
       image: /images/Home Page/SNT Senior Home Image.jpeg
+  - infobar:
+      title: Subscribe to our newsletter
+      description: Get the latest updates delivered to your mailbox.
+      button: Register Here
+      url: /newsletter
   - infopic:
       title: Digital for Life movement
       description: The Digital for Life movement aims to galvanise the community to
@@ -42,11 +47,11 @@ sections:
       button: FIND OUT MORE
   - infopic:
       title: Singapore Together movement
-      description: "The Singapore Together movement is about the government working
+      description: The Singapore Together movement is about the government working
         with Singaporeans, and Singaporeans working with one another, to build
-        our future Singapore. "
+        our future Singapore.
       button: FIND OUT MORE
       url: https://www.sg/
       image: /images/Icons & Logos/SGT_transparent.png
-      alt: "Singapore Together "
+      alt: Singapore Together
 ---
