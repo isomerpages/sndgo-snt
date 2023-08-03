@@ -31,6 +31,11 @@ sections:
       url: /seniors/overview
       alt: Image alt text
       image: /images/Home Page/SNT Senior Home Image.jpeg
+  - infobar:
+      title: Subscribe to our newsletter
+      description: Get the latest updates delivered to your mailbox.
+      button: Register Here
+      url: /newsletter
   - infopic:
       title: Digital for Life movement
       description: The Digital for Life movement aims to galvanise the community to
