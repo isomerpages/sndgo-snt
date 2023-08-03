@@ -49,9 +49,4 @@ sections:
       url: https://www.sg/
       image: /images/Icons & Logos/SGT_transparent.png
       alt: Singapore Together
-  - infobar:
-      title: Subscribe to our newsletter
-      description: Get the latest updates delivered to your mailbox.
-      button: Register here
-      url: smartnation.gov.sg
 ---
