@@ -4,7 +4,7 @@ permalink: /seniors/overview/
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/OG Image/SNT Senior OG Image.jpeg
 ---
-# Aug 2023: Cybersecurity
+# Aug 2023: Cybersecurity and Wellness
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 
