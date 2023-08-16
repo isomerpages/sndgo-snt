@@ -1,10 +1,11 @@
 ---
-title: Tech Webinars for Seniors
-permalink: /seniors/overview/
-description: Sign up for our FREE webinars to learn more about tech!
-image: /images/OG Image/SNT Senior OG Image.jpeg
+title: Cybersecurity and Wellness Webinars
+permalink: /aug2023/
+description: ""
 ---
-# Aug 2023: Cybersecurity and Wellness
+# Dive into the fascinating world of AI and Data with our webinar series
+
+Uncover the power of data in today's digital landscape and discover how these transformative technologies are revolutionizing decision-making processes. Stay ahead in the fast-paced modern world by levelling up your AI and data skills! Sign up now.
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 
