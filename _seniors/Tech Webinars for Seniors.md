@@ -16,7 +16,7 @@ image: /images/OG Image/SNT Senior OG Image.jpeg
 
 <div class="col" style="padding: 20px 20px 0px 20px;"><img src="/images/Aug%202023/seniors_29aug.png" alt="Keep Fit, Earn Rewards, Step Into A Healthier You"><br>
 
-<div class="header" style="font-size:18px"><b> Keep Fit, Earn Rewards, Step Into A Healthier You </b></div><br>Keeping healthy has never been easier, thanks to technology. Join this session to learn about the Healthier SG initiative and how you can use the HealthHub app to track your medical appointments and records. We will also show you how to participate in the National Steps Challenge and earn rewards through the Healthy 365 app!<br><br><b>Online Session:</b> <a href="https://go.gov.sg/hsg-aug23" target="\_blank">Sign up now!</a><br><b>Physical Session:</b> <a href="https://www.eventbrite.sg/e/staying-cyber-safe-amidst-evolving-scams-tickets-695785502167?aff=ebdssbdestsearch&amp;from=c291e23839a311eeaa430a3919a6219c)" target="\_blank">Sign up now!</a>
+<div class="header" style="font-size:18px"><b> Keep Fit, Earn Rewards, Step Into A Healthier You </b></div><br>Keeping healthy has never been easier, thanks to technology. Join this session to learn about the Healthier SG initiative and how you can use the HealthHub app to track your medical appointments and records. We will also show you how to participate in the National Steps Challenge and earn rewards through the Healthy 365 app!<br><br><b>Online Session:</b> <a href="https://go.gov.sg/hsg-aug23" target="\_blank">Sign up now!</a><br>
 
 </div>
 
