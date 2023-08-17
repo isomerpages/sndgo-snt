@@ -4,9 +4,9 @@ permalink: /aug2023/
 description: Learn to keep fit and protect yourself with two useful mobile apps.
 image: /images/Aug 2023/august 2023 link.png
 ---
-# Dive into the fascinating world of AI and Data with our webinar series
+# Spot scams and stay healthy with two useful apps in our webinar series
 
-Uncover the power of data in today's digital landscape and discover how these transformative technologies are revolutionizing decision-making processes. Stay ahead in the fast-paced modern world by levelling up your AI and data skills! Sign up now.
+Staying safe from scams and maintaining your fitness are two essential aspects of leading a healthy and happy life, especially as we age. Just as we take care to safeguard our personal information from scams and frauds, it's equally important to prioritize our physical well-being. Join our webinars to learn more about how you can achieve both aspects. Sign up now!
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 
