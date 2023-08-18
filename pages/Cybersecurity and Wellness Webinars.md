@@ -4,9 +4,11 @@ permalink: /aug2023/
 description: Arms yourself against scams and boost your well-being with two useful apps.
 image: /images/Aug 2023/august 2023 link.png
 ---
-# Spot scams and stay healthy with two useful apps in our webinar series
+# Arm yourself against scams and boost your well-being with two useful apps featured in our webinar series
 
-Staying safe from scams and maintaining your fitness are two essential aspects of leading a healthy and happy life, especially as we age. Just as we take care to safeguard our personal information from scams and frauds, it's equally important to prioritize our physical well-being. Join our webinars to learn more about how you can achieve both aspects. Sign up now!
+Staying vigilant against scams and maintaining our fitness are two essential aspects of leading a healthy and happy life, especially as we age. Just as we take care to safeguard our personal information from scams and frauds, it’s equally important to prioritise our physical well-being. 
+
+Join our webinars and get your family and friends to sign up too!
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 
