@@ -2,7 +2,7 @@
 title: Cybersecurity and Wellness Webinars
 permalink: /aug2023/
 description: Arm yourself against scams and boost your well-being with two useful apps.
-image: /images/Aug 2023/aug 23 link banner.png
+image: /images/Aug 2023/aug23linkbanner.png
 ---
 # Arm yourself against scams and boost your well-being with two useful apps featured in our webinar series
 
