@@ -12,4 +12,4 @@ Want to make your website stand out from the crowd? Find out how by learning HTM
 
 [Sign up here!](https://go.gov.sg/wacoding-jan22)
 
-![Coding workshop](/images/10-Jan-WA.png)
+![Coding workshop](/images/10-jan-wa.png)

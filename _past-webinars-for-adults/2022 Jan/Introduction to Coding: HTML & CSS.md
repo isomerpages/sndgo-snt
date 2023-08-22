@@ -14,4 +14,4 @@ Want to make your website stand out from the crowd? Find out how by learning HTM
 
 [Sign up here!](https://zoom.us/webinar/register/8916393827123/WN_TOZ7hNb-Sya34QNPCGRosA)
 
-![SNT Adults 10 Jan](/images/10-Jan-WA.png)
+![SNT Adults 10 Jan](/images/10-jan-wa.png)

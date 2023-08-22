@@ -16,4 +16,4 @@ Social engineering, malware, phishing – these cyber threats are increasingly d
 
 [Sign up here!](https://zoom.us/webinar/register/4516393829400/WN_cb8qDwu9QvCp3VwHuF4_Yw)
 
-![SNT Adults 20 Jan](/images/20-Jan-WA.png)
+![SNT Adults 20 Jan](/images/20-jan-wa.png)

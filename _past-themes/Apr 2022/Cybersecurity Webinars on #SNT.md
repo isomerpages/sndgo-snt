@@ -22,7 +22,7 @@ third_nav_title: Apr 2022
 * [(NLB) SURE Skills for Seniors: Verifying Images & Video](/seniors/my-savvy-kaki/sureskills-apr2022)<br>
 21 Apr, 3pm - 4pm
 
-* [Staying Safe from Phishing and Online Scams ](/seniors/My-Savvy-Kaki-Series/cybersafe-phishing-apr2022)<br>
+* [Staying Safe from Phishing and Online Scams ](/seniors/my-savvy-kaki-series/cybersafe-phishing-apr2022)<br>
 25 Apr, 12pm - 1.30pm
 
 ### For Working Adults

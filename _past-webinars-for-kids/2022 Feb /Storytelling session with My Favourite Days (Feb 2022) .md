@@ -17,4 +17,4 @@ Follow a little girl and her grandpa on a journey of self-discovery, and open yo
 
 [Sign up here! ](https://go.gov.sg/kypstorytelling-feb22)<br> 
 
-![Kids Storytelling Session](/images/KidsStorytelling.png)
+![Kids Storytelling Session](/images/kidsstorytelling.png)

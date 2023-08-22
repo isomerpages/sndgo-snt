@@ -5,7 +5,7 @@ description: Register for our FREE webinars today!
 image: /images/OG Image/OG Image SF x SN 2022.png
 third_nav_title: Aug 2022
 ---
-![](/images/OG%20Image/OG%20Image%20SF%20x%20SN%202022.png)
+![](/images/og%20image/og%20image%20sf%20x%20sn%202022.png)
 
 Keen on a career in tech? SkillsFuture Festival X Smart Nation features an exciting line-up of roadshow activities for you to discover upskilling and job opportunities as well as free webinars to equip you with digital skills.
 

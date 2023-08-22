@@ -17,4 +17,4 @@ Going bananas over coding? Give your child a head-start on this life skill with 
 
 [Sign up here! ](https://go.gov.sg/kypcodemonkey-feb22)
 
-![Kids Coding Workshop in February](/images/KidsCoding.png)
+![Kids Coding Workshop in February](/images/kidscoding.png)

@@ -13,4 +13,4 @@ What is an augmented reality storybook, and how is it made? Find out yourself as
 
 [Sign up here! ](https://www.eventbrite.sg/e/my-favourite-days-behind-the-scenes-registration-226565803417?aff=ebdsoporgprofile)<br> 
 
-![Behind the scenes wrokshop](/images/23-Jan-kids.png)
+![Behind the scenes wrokshop](/images/23-jan-kids.png)

@@ -2,7 +2,7 @@
 title: "NUS ACE: Business Strategies for the New Economy"
 permalink: /working-adults/biz-strategies/nus-ace/
 description: Working Adults Course on Business Strategies for the New Economy
-image: /images/NUS-ACE-biz-strat.jpg
+image: /images/nus-ace-biz-strat.jpg
 ---
 ![Upskill Yourself With Business Strategies for the New Economy ](/images/NUS-ACE-biz-strat.jpg)
 

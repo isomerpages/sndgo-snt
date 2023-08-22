@@ -8,7 +8,7 @@ image: ""
 third_nav_title: Paid Courses
 ---
 
-![Professional certificate in business analytics and AI for finance, retail ](/images/NUS-BA-AI.png)
+![Professional certificate in business analytics and AI for finance, retail ](/images/nus-ba-ai.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** Online Learning   

@@ -46,7 +46,7 @@ We are in an era of disruption where technology has levelled the playing field i
 
 Drawing from thought leadership in the ambits of data analytics, technological platforms and business strategies, the Master of IT in Business (MITB) programme delves into four specialisation tracks to choose from.  
 
-![SMU Master of IT in Business Programme Tracks](/images/Mar%202023/MITB-Icons.png)
+![SMU Master of IT in Business Programme Tracks](/images/mar%202023/mitb-icons.png)
 
 Each of these tracks equips you with the relevant competencies to lead and compete effectively in the digital age.
 

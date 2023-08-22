@@ -12,4 +12,4 @@ What do the numbers on your fitness watch tell you about your physical activity,
 
 [Sign up here! ](https://go.gov.sg/wamobiletech-jan22)
 
-![Mobile tech workshop](/images/13-Jan-WA.png)
+![Mobile tech workshop](/images/13-jan-wa.png)

@@ -16,4 +16,4 @@ Not sure whether to spend the big bucks on a new IT system? Learn how to use com
 
 [Sign up here!](https://zoom.us/webinar/register/2516393876162/WN_SwLZOWhfRxqbbGcI-cNeuA)
 
-![SNT Adults 27 Jan](/images/27-Jan-WA.png)
+![SNT Adults 27 Jan](/images/27-jan-wa.png)

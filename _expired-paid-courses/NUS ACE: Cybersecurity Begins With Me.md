@@ -3,7 +3,7 @@ title: "NUS ACE: Cybersecurity Begins With Me"
 permalink: /working-adults/cybersecurity/nus-ace/
 description: ""
 ---
-![Cybersecurity Begins with Me](/images/NUS-ACE-Cybersecurity.png)
+![Cybersecurity Begins with Me](/images/nus-ace-cybersecurity.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** Classroom Learning   

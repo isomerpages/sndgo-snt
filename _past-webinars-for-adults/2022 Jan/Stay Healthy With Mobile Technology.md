@@ -14,4 +14,4 @@ What do the numbers on your fitness watch tell you about your physical activity,
 
 [Sign up here!](https://zoom.us/webinar/register/2116393827847/WN_mHqMUyD5SAqMYRWl_kbCdA)
 
-![SNT Adults 13 Jan](/images/13-Jan-WA.png)
+![SNT Adults 13 Jan](/images/13-jan-wa.png)

@@ -16,4 +16,4 @@ Revisit your favourite arcade games of your youth by creating these with your ch
 
 [Sign up here!](https://go.gov.sg/kypmakecodearcade-jan22)
 
-![Classic games workshop for kids](/images/29-Jan-kids.png)
+![Classic games workshop for kids](/images/29-jan-kids.png)

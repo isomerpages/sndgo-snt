@@ -12,4 +12,4 @@ Artificial Intelligence (AI) is no longer what you see in the movies. It has bec
 
 [Sign up here!](https://go.gov.sg/smarthealthcare-aug22)
 
-![Free webinar on artificial intelligene and robotics for working adults](/images/Aug%202022/WA-22Aug-updated.png)
+![Free webinar on artificial intelligene and robotics for working adults](/images/aug%202022/wa-22aug-updated.png)

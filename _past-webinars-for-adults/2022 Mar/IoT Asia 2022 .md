@@ -6,7 +6,7 @@ image: /images/IoT Asia.png
 third_nav_title: 2022 Mar
 ---
 
-![IoT Asia Plus 2022 Conference](/images/IoT-asia-masthead.png)
+![IoT Asia Plus 2022 Conference](/images/iot-asia-masthead.png)
 
 With the global pandemic, the emphasis on overall health and safety has doubled the growth in digital connectivity, telecommunications, retail and consumer industries. IoT is a key enabler to helping enterprises build new business models, stay competitive and deliver greater value in the new normal. 
 

@@ -13,4 +13,4 @@ Workflow automation helps drive business productivity, optimise operations and g
 
 [Sign up here! ](https://go.gov.sg/wanocodeautomation-jan22)
 
-![No Code Automation workshop](/images/17-Jan-WA.png)
+![No Code Automation workshop](/images/17-jan-wa.png)

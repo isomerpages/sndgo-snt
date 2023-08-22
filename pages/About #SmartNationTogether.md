@@ -5,7 +5,7 @@ description: "#SmartNationTogether is an online channel featuring tech-related
   talks and workshops for kids & young parents, working adults, and seniors."
 image: /images/OG Image/SNT-Website-OG-Image.jpg
 ---
-![#SmartNationTogether](/images/Icons%20&amp;%20Logos/SNT%20logo.png)
+![#SmartNationTogether](/images/icons%20&amp;%20logos/snt%20logo.png)
 
 #SmartNationTogether is an online channel featuring tech-related talks and workshops for working adults and seniors.
 

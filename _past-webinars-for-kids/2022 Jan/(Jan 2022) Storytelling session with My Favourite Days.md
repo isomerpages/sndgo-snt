@@ -13,4 +13,4 @@ Follow a little girl and her grandpa on a journey of self-discovery, and open yo
 
 [Sign up here! ](https://www.eventbrite.sg/e/storytelling-session-my-favourite-days-registration-226565442337?aff=ebdsoporgprofile)<br> 
 
-![Storytelling session for kids](/images/16-Jan-kids.png)
+![Storytelling session for kids](/images/16-jan-kids.png)
