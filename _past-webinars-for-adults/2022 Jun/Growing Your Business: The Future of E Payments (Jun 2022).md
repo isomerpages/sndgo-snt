@@ -2,7 +2,7 @@
 title: "Growing Your Business: The Future of E Payments (Jun 2022)"
 permalink: /working-adults/free-webinars/e-payments-jun2022/
 description: Free tech webinar for working adults in June
-image: /images/Jun22-WA-E-Payments.jpeg
+image: /images/jun22-wa-e-payments.jpeg
 third_nav_title: 2022 Jun
 ---
 

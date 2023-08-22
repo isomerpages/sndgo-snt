@@ -2,7 +2,7 @@
 title: AI and Data Analytics Webinars
 permalink: /jul2023/
 description: Level up your knowledge and skills through these enriching webinars.
-image: /images/Jul 2023/og image snt jul 2023.jpeg
+image: /images/jul 2023/og image snt jul 2023.jpeg
 ---
 # Dive into the fascinating world of AI and Data with our webinar series
 

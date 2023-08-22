@@ -2,7 +2,7 @@
 title: "Cybersecurity Webinars on #SNT"
 permalink: /april2022/
 description: Don't be an April's fool. Get Smart about it. Check out our webinars in April.
-image: /images/OG Image/OG Image Begone Phishing.jpeg
+image: /images/og image/og image begone phishing.jpeg
 third_nav_title: Apr 2022
 ---
 

@@ -2,7 +2,7 @@
 title: "SMU: Master of IT in Business (MITB) Programme"
 permalink: /working-adults/paid-courses/mitb/smu/
 description: SMU Master of IT in Business (MITB) Programme
-image: /images/Mar 2023/Paid-SMU-MITB.jpeg
+image: /images/mar 2023/paid-smu-mitb.jpeg
 third_nav_title: Paid Courses
 ---
 <div style="max-width: 1280px">

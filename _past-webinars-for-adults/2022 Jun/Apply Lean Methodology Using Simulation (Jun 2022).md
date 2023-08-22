@@ -2,7 +2,7 @@
 title: Apply Lean Methodology Using Simulation (Jun 2022)
 permalink: /working-adults/free-webinars/lean-jun2022/
 description: Free webinar on simulation for working adults
-image: /images/Jun22-WA-Lean.jpeg
+image: /images/jun22-wa-lean.jpeg
 third_nav_title: 2022 Jun
 ---
 

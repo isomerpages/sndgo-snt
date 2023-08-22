@@ -2,7 +2,7 @@
 title: "IoT Asia 2022 "
 permalink: /working-adults/free-webinars/iot-asia-mar2022/
 description: "IoT Asia+ Free Conference for Working Adults "
-image: /images/IoT Asia.png
+image: /images/iot asia.png
 third_nav_title: 2022 Mar
 ---
 

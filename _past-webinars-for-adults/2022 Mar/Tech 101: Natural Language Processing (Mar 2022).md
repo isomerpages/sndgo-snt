@@ -2,7 +2,7 @@
 title: "Tech 101: Natural Language Processing (Mar 2022)"
 permalink: /working-adults/free-webinars/nlp-mar2022/
 description: NLP Workshop for Working Adults
-image: /images/WA-mar-NLP.jpeg
+image: /images/wa-mar-nlp.jpeg
 third_nav_title: 2022 Mar
 ---
 

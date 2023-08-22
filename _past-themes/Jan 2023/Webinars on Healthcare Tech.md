@@ -3,7 +3,7 @@ title: Webinars on Healthcare Tech
 permalink: /healthcaretech-jan2023/
 description: Come and learn about the latest tech in healthcare and work towards
   your health goals.
-image: /images/OG Image/OG Image SNT Jan 2023.jpeg
+image: /images/og image/og image snt jan 2023.jpeg
 third_nav_title: Jan 2023
 ---
 ![](/images/OG%20Image/OG%20Image%20SNT%20Jan%202023.jpeg)

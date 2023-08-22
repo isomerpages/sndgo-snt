@@ -2,7 +2,7 @@
 title: Smart Homes for Better Living (Jun 2022)
 permalink: /seniors/my-savvy-kaki/smarthomes2-jun2022/
 description: Free webinar on smart homes for seniors
-image: /images/Jun22-Seniors-Smart-Homes-2.jpeg
+image: /images/jun22-seniors-smart-homes-2.jpeg
 third_nav_title: 2022 Jun
 ---
 

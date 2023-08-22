@@ -6,7 +6,7 @@ description: Professional Certificate in Governance, Risk & Data Breach Manageme
 image: /images/nus-ace-data-protection.png
 third_nav_title: Paid Courses
 ---
-![NUS professional certification in governance, risk and data breach management](/images/NUS-ACE-Data-Protection.png)
+![NUS professional certification in governance, risk and data breach management](/images/nus-ace-data-protection.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** Classroom & Online Learning   

@@ -2,7 +2,7 @@
 title: Tech webinars you should sign up for (Aug 2022)
 permalink: /aug-2022-adults/
 description: Pick up new tech skills.
-image: /images/OG Image/OG Image SNT Working Adults Webinars Aug 2022.png
+image: /images/og image/og image snt working adults webinars aug 2022.png
 third_nav_title: Aug 2022
 ---
 # Pick up new tech skills

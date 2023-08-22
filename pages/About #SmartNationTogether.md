@@ -3,7 +3,7 @@ title: "About #SmartNationTogether"
 permalink: /about-snt/
 description: "#SmartNationTogether is an online channel featuring tech-related
   talks and workshops for kids & young parents, working adults, and seniors."
-image: /images/OG Image/SNT-Website-OG-Image.jpg
+image: /images/og image/snt-website-og-image.jpg
 ---
 ![#SmartNationTogether](/images/icons%20&amp;%20logos/snt%20logo.png)
 
