@@ -1,6 +1,6 @@
 ---
 title: Build Consumer Trust through Good Cybersecurity Practices
-permalink: /working-adults/Free-Webinars/consumer-trust-cybersecurity/
+permalink: /working-adults/free-webinars/consumer-trust-cybersecurity/
 description: ""
 third_nav_title: 2022 Nov
 ---

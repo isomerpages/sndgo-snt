@@ -1,6 +1,6 @@
 ---
 title: Staying Safe with Smart Banking
-permalink: /seniors/My-Savvy-Kaki-Series/staying-safe-jul2022
+permalink: /seniors/my-savvy-kaki-series/staying-safe-jul2022/
 description: Staying Safe with Smart Banking
 third_nav_title: 2022 Jul
 ---

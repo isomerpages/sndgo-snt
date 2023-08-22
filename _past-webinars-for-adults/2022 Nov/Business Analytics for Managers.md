@@ -1,6 +1,6 @@
 ---
 title: Business Analytics for Managers
-permalink: /working-adults/Free-Webinars/business-analytics-managers/
+permalink: /working-adults/free-webinars/business-analytics-managers/
 description: ""
 third_nav_title: 2022 Nov
 ---

@@ -1,6 +1,6 @@
 ---
 title: Know All About Singpass
-permalink: /seniors/my-savvy-kaki/singpass
+permalink: /seniors/my-savvy-kaki/singpass/
 description: ""
 third_nav_title: 2022 Feb
 ---

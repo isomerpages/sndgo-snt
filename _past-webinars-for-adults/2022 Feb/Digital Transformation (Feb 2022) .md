@@ -1,6 +1,6 @@
 ---
 title: "Digital Transformation (Feb 2022) "
-permalink: /working-adults/Free-Webinars/digital-transformation-feb2022
+permalink: /working-adults/free-webinars/digital-transformation-feb2022/
 description: ""
 third_nav_title: 2022 Feb
 ---

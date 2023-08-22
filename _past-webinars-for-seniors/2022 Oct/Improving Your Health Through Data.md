@@ -1,6 +1,6 @@
 ---
 title: Improving Your Health Through Data
-permalink: /seniors/My-Savvy-Kaki-Series/improving-health-data/
+permalink: /seniors/my-savvy-kaki-series/improving-health-data/
 description: ""
 third_nav_title: 2022 Oct
 ---

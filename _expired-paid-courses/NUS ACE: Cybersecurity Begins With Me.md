@@ -1,6 +1,6 @@
 ---
 title: "NUS ACE: Cybersecurity Begins With Me"
-permalink: /working-adults/cybersecurity/nus-ace
+permalink: /working-adults/cybersecurity/nus-ace/
 description: ""
 ---
 ![Cybersecurity Begins with Me](/images/NUS-ACE-Cybersecurity.png)

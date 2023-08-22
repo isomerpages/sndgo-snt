@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Digital Marketing (Feb 2022) "
-permalink: /working-adults/free-webinars/digital-marketing-feb2022
+permalink: /working-adults/free-webinars/digital-marketing-feb2022/
 description: ""
 third_nav_title: 2022 Feb
 ---

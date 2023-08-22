@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Month X Smart Nation 2021
-permalink: /working-adults/past-webinars/sff21
+permalink: /working-adults/past-webinars/sff21/
 third_nav_title: Past Webinars for Adults
 ---
 Catch up on the SkillsFuture X Smart Nation 2021 webinars below!

@@ -1,6 +1,6 @@
 ---
 title: Career Opportunities
-permalink: /working-adults/techcareers
+permalink: /working-adults/techcareers/
 description: ""
 ---
 # Help Remake Singapore into a Smart Nation 

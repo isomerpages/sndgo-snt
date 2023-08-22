@@ -1,6 +1,6 @@
 ---
 title: Past Webinars for Seniors
-permalink: /seniors/past-webinars
+permalink: /seniors/past-webinars/
 description: ""
 ---
 Catch up on past webinars conducted on the #SmartNationTogether seniors track below!

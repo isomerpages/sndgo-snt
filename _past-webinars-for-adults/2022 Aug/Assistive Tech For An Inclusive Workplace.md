@@ -1,6 +1,6 @@
 ---
 title: Assistive Tech For An Inclusive Workplace
-permalink: /working-adults/Free-Webinars/assistive-tech-aug2022/
+permalink: /working-adults/free-webinars/assistive-tech-aug2022/
 description: ""
 third_nav_title: 2022 Aug
 ---

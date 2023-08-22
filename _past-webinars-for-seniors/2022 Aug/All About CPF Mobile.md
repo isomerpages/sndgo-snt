@@ -1,6 +1,6 @@
 ---
 title: All About CPF Mobile
-permalink: /seniors/My-Savvy-Kaki-Series/seniors-cpf-mobile-aug2022/
+permalink: /seniors/my-savvy-kaki-series/seniors-cpf-mobile-aug2022/
 description: ""
 third_nav_title: 2022 Aug
 ---

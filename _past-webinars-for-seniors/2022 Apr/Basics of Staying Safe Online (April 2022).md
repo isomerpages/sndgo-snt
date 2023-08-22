@@ -1,6 +1,6 @@
 ---
 title: Basics of Staying Safe Online (April 2022)
-permalink: /seniors/my-savvy-kaki/cybersafe-basics-apr2022
+permalink: /seniors/my-savvy-kaki/cybersafe-basics-apr2022/
 description: Free Cybersecurity Webinar on Staying Safe Online
 image: /images/Apr - Seniors - Staying Safe.jpeg
 third_nav_title: 2022 Apr

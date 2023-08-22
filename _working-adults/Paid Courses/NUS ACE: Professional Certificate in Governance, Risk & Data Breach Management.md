@@ -1,7 +1,7 @@
 ---
 title: "NUS ACE: Professional Certificate in Governance, Risk & Data Breach
   Management"
-permalink: /working-adults/pdpa-compliance/nus-ace
+permalink: /working-adults/pdpa-compliance/nus-ace/
 description: Professional Certificate in Governance, Risk & Data Breach Management
 image: /images/NUS-ACE-Data-Protection.png
 third_nav_title: Paid Courses

@@ -1,6 +1,6 @@
 ---
 title: Introduction to Facebook (March 2022)
-permalink: /seniors/my-savvy-kaki/facebook
+permalink: /seniors/my-savvy-kaki/facebook/
 description: Free workshop on Facebook for seniors
 image: /images/Seniors-mar-FB.jpeg
 third_nav_title: 2022 Mar

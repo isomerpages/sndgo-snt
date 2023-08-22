@@ -1,6 +1,6 @@
 ---
 title: "Growing Your Business: Increasing Online Reach (Apr 2022)"
-permalink: /working-adults/free-webinars/finlab1-apr2022
+permalink: /working-adults/free-webinars/finlab1-apr2022/
 description: "Free Webinar on Growing Online Reach for Working Adults "
 image: /images/Apr - WA - Online Reach.jpeg
 third_nav_title: 2022 Apr

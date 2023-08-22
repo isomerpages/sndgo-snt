@@ -1,6 +1,6 @@
 ---
 title: (Jan 2022) Stay Healthy With Mobile Technology
-permalink: /working-adults/free-webinars/stay-healthy-with-mobile-technology-jan2022
+permalink: /working-adults/free-webinars/stay-healthy-with-mobile-technology-jan2022/
 description: ""
 third_nav_title: 2022 Jan
 ---

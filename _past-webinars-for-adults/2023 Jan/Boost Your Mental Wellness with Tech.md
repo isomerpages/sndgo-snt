@@ -1,6 +1,6 @@
 ---
 title: Boost Your Mental Wellness with Tech
-permalink: /working-adults/Free-Webinars/mental-wellness-tech/
+permalink: /working-adults/free-webinars/mental-wellness-tech/
 description: ""
 third_nav_title: 2023 Jan
 ---

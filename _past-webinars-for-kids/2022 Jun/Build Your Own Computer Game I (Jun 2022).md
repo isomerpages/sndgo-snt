@@ -1,6 +1,6 @@
 ---
 title: Build Your Own Computer Game I (Jun 2022)
-permalink: /kids-and-young-parents/fun-with-tech/coding1-jun2022
+permalink: /kids-and-young-parents/fun-with-tech/coding1-jun2022/
 description: Free June holiday webinar on coding for kids
 image: ""
 third_nav_title: 2022 Jun

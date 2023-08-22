@@ -1,6 +1,6 @@
 ---
 title: 关于 ScamShield
-permalink: /seniors/My-Savvy-Kaki-Series/scamshield-chi-nov2022/
+permalink: /seniors/my-savvy-kaki-series/scamshield-chi-nov2022/
 description: ""
 third_nav_title: 2022 Nov
 ---

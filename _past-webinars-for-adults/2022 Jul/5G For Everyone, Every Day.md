@@ -1,6 +1,6 @@
 ---
 title: 5G For Everyone, Every Day
-permalink: /working-adults/Free-Webinars/5g-jul2022
+permalink: /working-adults/free-webinars/5g-jul2022/
 description: 5G For Everyone, Every Day
 third_nav_title: 2022 Jul
 ---

@@ -1,6 +1,6 @@
 ---
 title: "(Jan 2022) A Coding Adventure with CodeMonkey "
-permalink: /kids-and-young-parents/fun-with-tech/coding-jan2022
+permalink: /kids-and-young-parents/fun-with-tech/coding-jan2022/
 description: ""
 third_nav_title: 2022 Jan
 ---

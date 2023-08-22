@@ -1,6 +1,6 @@
 ---
 title: All About OneService App & Chatbot Kaki
-permalink: /seniors/My-Savvy-Kaki-Series/oneservice-app-chatbot-kaki/
+permalink: /seniors/my-savvy-kaki-series/oneservice-app-chatbot-kaki/
 description: ""
 third_nav_title: 2022 Nov
 ---

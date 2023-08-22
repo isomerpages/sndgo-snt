@@ -1,6 +1,6 @@
 ---
 title: "No code Automation: Changing the Business World"
-permalink: /working-adults/free-webinars/no-code-automation-changing-the-business-world
+permalink: /working-adults/free-webinars/no-code-automation-changing-the-business-world/
 third_nav_title: 2022 Jan
 description: ""
 ---

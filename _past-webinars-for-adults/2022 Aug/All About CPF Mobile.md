@@ -1,6 +1,6 @@
 ---
 title: All About CPF Mobile
-permalink: /working-adults/Free-Webinars/cpf-mobile-aug2022/
+permalink: /working-adults/free-webinars/cpf-mobile-aug2022/
 description: ""
 third_nav_title: 2022 Aug
 ---

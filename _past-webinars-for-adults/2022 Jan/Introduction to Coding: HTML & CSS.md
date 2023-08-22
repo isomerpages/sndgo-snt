@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Coding: HTML & CSS"
-permalink: /working-adults/free-webinars/coding-html-and-css
+permalink: /working-adults/free-webinars/coding-html-and-css/
 third_nav_title: 2022 Jan
 description: ""
 ---

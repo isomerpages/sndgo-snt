@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Festival X Smart Nation 2022
-permalink: /SkillsFutureFestival2022/
+permalink: /skillsfuturefestival2022/
 description: Register for our FREE webinars today!
 image: /images/OG Image/OG Image SF x SN 2022.png
 third_nav_title: Aug 2022

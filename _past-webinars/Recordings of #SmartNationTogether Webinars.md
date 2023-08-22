@@ -1,6 +1,6 @@
 ---
 title: "Recordings of #SmartNationTogether Webinars"
-permalink: /past-webinars/recordings
+permalink: /past-webinars/recordings/
 description: Missed a session? We've got you covered!
 image: /images/OG Image/Catch Up On the Webinars 01.jpeg
 ---

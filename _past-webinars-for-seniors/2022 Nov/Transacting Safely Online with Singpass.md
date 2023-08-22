@@ -1,6 +1,6 @@
 ---
 title: Transacting Safely Online with Singpass
-permalink: /seniors/My-Savvy-Kaki-Series/transacting-safely-singpass/
+permalink: /seniors/my-savvy-kaki-series/transacting-safely-singpass/
 description: ""
 third_nav_title: 2022 Nov
 ---

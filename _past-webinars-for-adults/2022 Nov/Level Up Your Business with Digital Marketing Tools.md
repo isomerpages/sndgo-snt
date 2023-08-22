@@ -1,6 +1,6 @@
 ---
 title: Level Up Your Business with Digital Marketing Tools
-permalink: /working-adults/Free-Webinars/digital-marketing-tools/
+permalink: /working-adults/free-webinars/digital-marketing-tools/
 description: ""
 third_nav_title: 2022 Nov
 ---

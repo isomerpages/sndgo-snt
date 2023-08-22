@@ -1,6 +1,6 @@
 ---
 title: "NUS DSDS: Professional Certificate in Data Literacy"
-permalink: /working-adults/paid-courses/nus-data-lit
+permalink: /working-adults/paid-courses/nus-data-lit/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/nus-data-lit.png)

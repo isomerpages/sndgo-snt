@@ -1,6 +1,6 @@
 ---
 title: 关于ScamShield (华语版本)
-permalink: /seniors/My-Savvy-Kaki-Series/scamshield-mandarin/
+permalink: /seniors/my-savvy-kaki-series/scamshield-mandarin/
 description: ""
 third_nav_title: 2022 Aug
 ---

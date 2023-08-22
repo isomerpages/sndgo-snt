@@ -1,6 +1,6 @@
 ---
 title: Smart Commuting with Gojek App
-permalink: /seniors/My-Savvy-Kaki-Series/gojek-app-jul2022
+permalink: /seniors/my-savvy-kaki-series/gojek-app-jul2022/
 description: Smart Commuting with Gojek App
 third_nav_title: 2022 Jul
 ---

@@ -1,6 +1,6 @@
 ---
 title: "NUS FASS: Professional Certificate in Computational Reasoning"
-permalink: /working-adults/paid-courses/nus-cr
+permalink: /working-adults/paid-courses/nus-cr/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/nus-cr.jpg)

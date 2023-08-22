@@ -1,6 +1,6 @@
 ---
 title: Making Healthier Decisions Through Data
-permalink: /working-adults/Free-Webinars/healthier-decisions-jul2022
+permalink: /working-adults/free-webinars/healthier-decisions-jul2022/
 description: Making Healthier Decisions Through Data
 third_nav_title: 2022 Jul
 ---

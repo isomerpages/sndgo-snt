@@ -1,6 +1,6 @@
 ---
 title: Transacting Safely Online with Singpass
-permalink: /working-adults/Free-Webinars/transacting-safely-singpass/
+permalink: /working-adults/free-webinars/transacting-safely-singpass/
 description: ""
 third_nav_title: 2022 Nov
 ---

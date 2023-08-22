@@ -1,6 +1,6 @@
 ---
 title: All About ScamShield
-permalink: /seniors/My-Savvy-Kaki-Series/scamshield-nov2022/
+permalink: /seniors/my-savvy-kaki-series/scamshield-nov2022/
 description: ""
 third_nav_title: 2022 Nov
 ---

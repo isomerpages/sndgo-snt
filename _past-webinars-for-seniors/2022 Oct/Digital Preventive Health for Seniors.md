@@ -1,6 +1,6 @@
 ---
 title: Digital Preventive Health for Seniors
-permalink: /seniors/My-Savvy-Kaki-Series/digital-preventive-health/
+permalink: /seniors/my-savvy-kaki-series/digital-preventive-health/
 description: ""
 third_nav_title: 2022 Oct
 ---

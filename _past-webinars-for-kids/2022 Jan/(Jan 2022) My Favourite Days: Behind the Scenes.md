@@ -1,6 +1,6 @@
 ---
 title: "(Jan 2022) My Favourite Days: Behind the Scenes"
-permalink: /kids-and-young-parents/fun-with-tech/my-favourite-days-behind-the-scenes-jan2022
+permalink: /kids-and-young-parents/fun-with-tech/my-favourite-days-behind-the-scenes-jan2022/
 description: ""
 third_nav_title: 2022 Jan
 ---

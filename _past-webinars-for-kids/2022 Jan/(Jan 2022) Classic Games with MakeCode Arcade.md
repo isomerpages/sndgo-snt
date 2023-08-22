@@ -1,6 +1,6 @@
 ---
 title: (Jan 2022) Classic Games with MakeCode Arcade
-permalink: /kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-jan2022
+permalink: /kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-jan2022/
 description: ""
 third_nav_title: 2022 Jan
 ---

@@ -1,6 +1,6 @@
 ---
 title: Advanced Machine Learning Approaches in Decision Making
-permalink: /working-adults/Free-Webinars/machine-learning-jul2022
+permalink: /working-adults/free-webinars/machine-learning-jul2022/
 description: Advanced Machine Learning Approaches in Decision Making
 third_nav_title: 2022 Jul
 ---

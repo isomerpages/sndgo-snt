@@ -1,6 +1,6 @@
 ---
 title: "#SNT"
-permalink: /working-adults/past-webinars/snt
+permalink: /working-adults/past-webinars/snt/
 third_nav_title: Past Webinars for Adults
 ---
 Catch up on past webinars conducted on the #SmartNationTogether working adults track below!

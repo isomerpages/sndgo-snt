@@ -1,6 +1,6 @@
 ---
 title: Safeguarding Your Business from Cyber Attacks
-permalink: /working-adults/Free-Webinars/safeguarding-your-business/
+permalink: /working-adults/free-webinars/safeguarding-your-business/
 description: ""
 third_nav_title: Oct 2022
 ---

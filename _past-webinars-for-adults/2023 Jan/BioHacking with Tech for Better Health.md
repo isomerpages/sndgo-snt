@@ -1,6 +1,6 @@
 ---
 title: BioHacking with Tech for Better Health
-permalink: /working-adults/Free-Webinars/biohacking-with-tech/
+permalink: /working-adults/free-webinars/biohacking-with-tech/
 description: ""
 third_nav_title: 2023 Jan
 ---

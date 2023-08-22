@@ -1,6 +1,6 @@
 ---
 title: Our Accordion
-permalink: /our-accordion
+permalink: /our-accordion/
 ---
 
 

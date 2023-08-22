@@ -1,6 +1,6 @@
 ---
 title: Introduction to Health Informatics
-permalink: /working-adults/Free-Webinars/health-informatics/
+permalink: /working-adults/free-webinars/health-informatics/
 description: ""
 third_nav_title: 2023 Jan
 ---

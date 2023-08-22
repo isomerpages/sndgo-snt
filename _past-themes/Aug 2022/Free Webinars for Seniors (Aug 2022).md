@@ -1,6 +1,6 @@
 ---
 title: Free Webinars for Seniors (Aug 2022)
-permalink: /Aug-2022-Seniors/
+permalink: /aug-2022-seniors/
 description: Learn how to become savvy and at ease with apps.
 image: /images/OG Image/OG Image SNT Seniors Webinars Aug 2022.png
 third_nav_title: Aug 2022

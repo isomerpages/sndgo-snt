@@ -1,6 +1,6 @@
 ---
 title: Learning About E Commerce Scams
-permalink: /seniors/My-Savvy-Kaki-Series/e-commerce-scams-aug2022/
+permalink: /seniors/my-savvy-kaki-series/e-commerce-scams-aug2022/
 description: ""
 third_nav_title: 2022 Aug
 ---
