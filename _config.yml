@@ -44,8 +44,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 resources_name: whats-on
-staging: https://sndgo-snt-staging.netlify.app
-prod: https://sndgo-snt-prod.netlify.app
+staging: https://staging.d52w5o0mwefk9.amplifyapp.com/
+prod: https://master.d52w5o0mwefk9.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
