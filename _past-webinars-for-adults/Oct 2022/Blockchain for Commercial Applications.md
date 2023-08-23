@@ -4,7 +4,6 @@ permalink: /working-adults/free-webinars/blockchain-commercial-apps/
 description: ""
 third_nav_title: Oct 2022
 ---
-
 **Date:** 6 October, Thursday
 <br> **Time:** 12pm - 1:30pm
 
@@ -12,4 +11,4 @@ Blockchain technology is not just about crypto currencies. It can also improve b
 
 [Sign up here!](https://go.gov.sg/wa-blockchain-oct22)
 
-![Free webinar on blockchain for commercial applications for working adults](/images/Oct%202022/WA_6%20Oct.jpeg)
+![Free webinar on blockchain for commercial applications for working adults](/images/oct%202022/wa_6%20oct.jpeg)
