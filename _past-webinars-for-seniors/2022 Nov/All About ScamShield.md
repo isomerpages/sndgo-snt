@@ -4,7 +4,6 @@ permalink: /seniors/my-savvy-kaki-series/scamshield-nov2022/
 description: ""
 third_nav_title: 2022 Nov
 ---
-
 **Date:** 10 November, Thursday
 <br> **Time:** 2pm - 3pm
 
@@ -12,4 +11,4 @@ Tired of endless calls and messages from unknown numbers? The ScamShield app wil
 
 [Sign up here!](https://go.gov.sg/seniors-scamshield-nov22-2) 
 
-![free webinar on scamshield app for seniors in english](/images/Nov%202022/Seniors_10%20Nov%20(Eng).jpeg)
+![free webinar on scamshield app for seniors in english](/images/nov%202022/seniors_10%20nov%20(eng).jpeg)
