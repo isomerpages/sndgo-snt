@@ -4,7 +4,6 @@ permalink: /seniors/my-savvy-kaki-series/scamshield-mandarin/
 description: ""
 third_nav_title: 2022 Aug
 ---
-
 **Date:** 26 August, Friday
 <br> **Time:** 3pm - 4pm
 
@@ -12,4 +11,4 @@ third_nav_title: 2022 Aug
 
 [Sign up here!](https://go.gov.sg/seniors-scamshieldeng-aug26-ml)
 
-![free webinars on scamshield in mandarin chinese for seniors](/images/Aug%202022/Seniors_26%20Aug.jpeg)
+![free webinars on scamshield in mandarin chinese for seniors](/images/aug%202022/seniors_26%20aug.jpeg)
