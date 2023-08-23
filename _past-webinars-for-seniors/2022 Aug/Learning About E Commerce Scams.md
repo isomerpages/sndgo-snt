@@ -4,7 +4,6 @@ permalink: /seniors/my-savvy-kaki-series/e-commerce-scams-aug2022/
 description: ""
 third_nav_title: 2022 Aug
 ---
-
 **Date:** 10 August, Wednesday
 <br> **Time:** 3pm - 4pm
 
@@ -12,4 +11,4 @@ Love to shop online? You should make sure you know about the latest e-commerce s
 
 [Sign up here!](https://go.gov.sg/seniors-ecommercescam-aug10)
 
-![free webinars on e-commerce scams for seniors](/images/Aug%202022/Seniors_10%20Aug.jpeg)
+![free webinars on e-commerce scams for seniors](/images/aug%202022/seniors_10%20aug.jpeg)
