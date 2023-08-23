@@ -5,7 +5,6 @@ description: Tech Webinar for Working Adults
 image: /images/wa - mar22 - disruptivetech.jpeg
 third_nav_title: 2022 Mar
 ---
-
 **Date:** 3 March, Thursday
 <br> **Time:** 12pm - 1pm
 
@@ -13,4 +12,4 @@ With the COVID-19 pandemic disrupting travel and supply chains, how can business
 
 [Sign up here! ](https://go.gov.sg/wa-disruptivetech-mar22)
 
-![Disruptive Tech Webinar for Working Adults](/images/WA%20-%20mar%20-%20DisruptiveTech.jpeg)
+![Disruptive Tech Webinar for Working Adults](/images/wa%20-%20mar%20-%20disruptivetech.jpeg)
