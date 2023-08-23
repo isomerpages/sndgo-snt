@@ -4,7 +4,6 @@ permalink: /working-adults/free-webinars/safeguarding-your-business/
 description: ""
 third_nav_title: Oct 2022
 ---
-
 **Date:** 3 October, Monday
 <br> **Time:** 12pm - 1pm
 
@@ -12,4 +11,4 @@ Cyber-attacks can cause major damage to your business and reputation. As busines
 
 [Sign up here!](https://go.gov.sg/wa-cybersecurity-oct22)
 
-![Free webinar on safeguarding your business from cyber attacks for working adults](/images/Oct%202022/WA_3%20Oct_New.jpeg)
+![Free webinar on safeguarding your business from cyber attacks for working adults](/images/oct%202022/wa_3%20oct_new.jpeg)
