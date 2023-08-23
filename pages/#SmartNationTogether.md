@@ -4,7 +4,7 @@ permalink: /about-snt/
 description: "#SmartNationTogether is an online channel featuring tech-related
   talks and workshops for kids & young parents, working adults, and seniors."
 ---
-![#SmartNationTogether Online Channel](/images/Home%20Page/snt-page-header.jpeg)
+![#SmartNationTogether Online Channel](/images/home%20page/snt-page-header.jpeg)
 
 #SmartNationTogether is an online channel featuring tech-related talks and workshops for working adults and seniors.
 
