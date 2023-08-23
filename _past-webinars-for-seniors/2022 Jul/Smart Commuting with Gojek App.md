@@ -4,7 +4,6 @@ permalink: /seniors/my-savvy-kaki-series/gojek-app-jul2022/
 description: Smart Commuting with Gojek App
 third_nav_title: 2022 Jul
 ---
-
 **Date:** 13 July, Wednesday
 <br> **Time:** 3pm - 4:30pm
 
@@ -12,4 +11,4 @@ Can't find a taxi? No worries. Learn how you can use Gojek to get around Singapo
 
 [Sign up here!](https://go.gov.sg/seniors-gojekapp-jul22)
 
-![free webinars on smart commuting with gojek app for seniors](/images/Jul%202022/13%20Jul_Seniors.jpeg)
+![free webinars on smart commuting with gojek app for seniors](/images/jul%202022/13%20jul_seniors.jpeg)
