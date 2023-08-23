@@ -5,7 +5,6 @@ description: Free webinar on simulation for working adults
 image: /images/jun22-wa-lean.jpeg
 third_nav_title: 2022 Jun
 ---
-
 **Date:** 16 June, Thursday
 <br> **Time:** 12pm - 1pm
 
@@ -13,4 +12,4 @@ Can businesses really be lean and mean? Find out how business owners and decisio
 
 [Sign up here!](https://go.gov.sg/wa-lean-jun22)
 
-![Free webinar on simulation for working adults](/images/Jun22-Updated-WA-Lean.jpeg)
+![Free webinar on simulation for working adults](/images/jun22-updated-wa-lean.jpeg)
