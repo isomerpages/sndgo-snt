@@ -5,7 +5,6 @@ description: Free Webinar on Staying Safe from Phishing and Online Scams
 image: /images/apr - general - phishing.jpeg
 third_nav_title: 2022 Apr
 ---
-
 **Date:** 25 April, Monday
 <br> **Time:** 12pm - 1.30pm
 
@@ -15,4 +14,4 @@ What the phish?! To avoid falling prey to the ever-evolving tricks of scammers, 
 
 [Sign up here!](https://go.gov.sg/cybersafe-ss-apr25)
 
-![Free Cybersecurity Webinar on Phishing for Working Adults](/images/Apr%20-%20General%20-%20Phishing.jpeg)
+![Free Cybersecurity Webinar on Phishing for Working Adults](/images/apr%20-%20general%20-%20phishing.jpeg)
