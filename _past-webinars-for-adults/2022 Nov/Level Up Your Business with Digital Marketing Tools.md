@@ -4,7 +4,6 @@ permalink: /working-adults/free-webinars/digital-marketing-tools/
 description: ""
 third_nav_title: 2022 Nov
 ---
-
 **Date:** 10 November, Friday
 <br> **Time:** 12pm - 1pm
 
@@ -12,4 +11,4 @@ Marketing is not just about sales but building a relationship with your customer
 
 [Sign up here!](https://go.gov.sg/wa-carousell-nov2022)
 
-![free webinars on digital marketing tools by carousell for working adults](/images/Nov%202022/WA_10%20Nov.jpeg)
+![free webinars on digital marketing tools by carousell for working adults](/images/nov%202022/wa_10%20nov.jpeg)
