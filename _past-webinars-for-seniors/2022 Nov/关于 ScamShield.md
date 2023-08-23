@@ -4,7 +4,6 @@ permalink: /seniors/my-savvy-kaki-series/scamshield-chi-nov2022/
 description: ""
 third_nav_title: 2022 Nov
 ---
-
 **Date:** 10 November, Thursday
 <br> **Time:** 11am - 12pm
 
@@ -12,4 +11,4 @@ third_nav_title: 2022 Nov
 
 [Sign up here!](https://go.gov.sg/seniors-scamshield-nov22) 
 
-![free webinar on scamshield app for seniors in chinese](/images/Nov%202022/Seniors_10%20Nov%20(Chi).jpeg)
+![free webinar on scamshield app for seniors in chinese](/images/nov%202022/seniors_10%20nov%20(chi).jpeg)
