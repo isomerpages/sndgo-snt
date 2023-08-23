@@ -5,8 +5,6 @@ description: NFT Workshop for Working Adults
 image: /images/wa-nft.jpeg
 third_nav_title: 2022 Mar
 ---
-
-
 **Date:** 31 Mar, Thursday
 <br> **Time:** 12pm - 1.30pm
 
@@ -14,4 +12,4 @@ Think your selfie could be sold for a million bucks? In this webinar, discover t
 
 [Sign up here! ](https://go.gov.sg/wa-nft-mar22)
 
-![NFT Workshop for Working Adults](/images/WA-NFT.jpeg)
+![NFT Workshop for Working Adults](/images/wa-nft.jpeg)
