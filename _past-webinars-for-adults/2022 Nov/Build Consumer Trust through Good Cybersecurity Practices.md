@@ -4,7 +4,6 @@ permalink: /working-adults/free-webinars/consumer-trust-cybersecurity/
 description: ""
 third_nav_title: 2022 Nov
 ---
-
 **Date:** 3 November, Thursday
 <br> **Time:** 12pm - 1pm
 
@@ -12,4 +11,4 @@ How does cybersecurity help you build customer confidence? In the face of an alw
 
 [Sign up here!](https://go.gov.sg/wa-cybertrust-nov22)
 
-![Free webinar on building consumer trust through good cybersecurity practices for working adults](/images/Nov%202022/WA_3%20Nov.jpeg)
+![Free webinar on building consumer trust through good cybersecurity practices for working adults](/images/nov%202022/wa_3%20nov.jpeg)
