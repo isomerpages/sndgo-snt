@@ -4,7 +4,6 @@ permalink: /working-adults/free-webinars/ip-mgmt-ai-innovations/
 description: ""
 third_nav_title: Oct 2022
 ---
-
 **Date:** 13 October, Thursday
 <br> **Time:** 12pm - 1:30pm
 
@@ -12,4 +11,4 @@ How do businesses protect innovations in Artificial Intelligence (AI)? Learn all
 
 [Sign up here!](https://go.gov.sg/wa-ip-oct22)
 
-![Free webinar on ip management of ai innovations for working adults](/images/Oct%202022/WA_13%20Oct.jpeg)
+![Free webinar on ip management of ai innovations for working adults](/images/oct%202022/wa_13%20oct.jpeg)
