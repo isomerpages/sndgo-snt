@@ -16,10 +16,8 @@ We have a wide array of workshops available for you to learn more. Whether you a
 **In Support Of**
 
 
-<div style="width:40%"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/Icons%20&amp;%20Logos/SNS-logo.png" alt="Smart Nation Singapore" title="Smart Nation Singapore"></a><br></div>
+<div style="width:40%"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/icons%20&amp;%20logos/sns-logo.png" alt="Smart Nation Singapore" title="Smart Nation Singapore"></a><br></div>
 
-<div style="width:40%"><a href="https://www.digitalforlife.gov.sg/" target="new"><img src="/images/Icons%20&amp;%20Logos/Digital-For-Life-Logo-transparent.png" alt="Digital For Life" title="Digital For Life"></a><br></div>
+<div style="width:40%"><a href="https://www.digitalforlife.gov.sg/" target="new"><img src="/images/icons%20&amp;%20logos/digital-for-life-logo-transparent.png" alt="Digital For Life" title="Digital For Life"></a><br></div>
 
-<div style="width:40%"><a href="https://www.sg/" target="new"><img src="/images/Icons%20&amp;%20Logos/SGT_transparent.png" alt="SG Together" title="SG Together"></a><br></div>
-
-
+<div style="width:40%"><a href="https://www.sg/" target="new"><img src="/images/icons%20&amp;%20logos/sgt_transparent.png" alt="SG Together" title="SG Together"></a><br></div>
