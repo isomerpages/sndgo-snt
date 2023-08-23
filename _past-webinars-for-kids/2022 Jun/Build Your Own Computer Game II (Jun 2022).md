@@ -5,7 +5,6 @@ description: Free June holiday webinar on coding for kidss
 image: ""
 third_nav_title: 2022 Jun
 ---
-
 **Date:** 25 June, Saturday
 <br> **Time:** 10am - 11am
 
@@ -17,4 +16,4 @@ Bonus: They get to pick up coding skills while they're at it.
 
 [Sign up here!](https://go.gov.sg/kids-introtocoding-june22)
 
-![Free June holiday webinar on coding for kids](/images/Jun22-Kids-Gaming-10-12.jpeg)
+![Free June holiday webinar on coding for kids](/images/jun22-kids-gaming-10-12.jpeg)
