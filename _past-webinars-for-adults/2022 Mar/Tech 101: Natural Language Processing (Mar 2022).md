@@ -5,8 +5,6 @@ description: NLP Workshop for Working Adults
 image: /images/wa-mar-nlp.jpeg
 third_nav_title: 2022 Mar
 ---
-
-
 **Date:** 24 Mar, Thursday
 <br> **Time:** 12pm - 1.30pm
 
@@ -14,4 +12,4 @@ Experiencing information overload from the flood of social media posts, tweets, 
 
 [Sign up here! ](https://go.gov.sg/wa-nlp-mar22)
 
-![Natural Language Processing Workshop for Working Adults](/images/WA-mar-NLP.jpeg)
+![Natural Language Processing Workshop for Working Adults](/images/wa-mar-nlp.jpeg)
