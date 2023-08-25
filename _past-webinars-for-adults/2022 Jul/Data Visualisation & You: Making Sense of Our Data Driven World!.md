@@ -1,10 +1,9 @@
 ---
 title: "Data Visualisation & You: Making Sense of Our Data Driven World!"
-permalink: /working-adults/Free-Webinars/data-visualisation-jul2022
+permalink: /working-adults/free-webinars/data-visualisation-jul2022/
 description: "Data Visualisation & You: Making Sense of Our Data Driven World!"
 third_nav_title: 2022 Jul
 ---
-
 **Date:** 25 July, Monday
 <br> **Time:** 12pm - 1pm
 
@@ -12,4 +11,4 @@ Ever agonised over rows of Excel spreadsheets? In this webinar, learn how to mak
 
 [Sign up here!](https://go.gov.sg/wa-tableau-jul22)
 
-![free webinars on data visualisation for working adults](/images/Jul%202022/25%20Jul_WA.jpeg)
+![free webinars on data visualisation for working adults](/images/jul%202022/25%20jul_wa.jpeg)

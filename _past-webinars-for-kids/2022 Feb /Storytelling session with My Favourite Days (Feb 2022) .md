@@ -1,6 +1,6 @@
 ---
 title: "Storytelling session with My Favourite Days (Feb 2022) "
-permalink: /kids-and-young-parents/fun-with-tech/my-favourite-days-feb2022
+permalink: /kids-and-young-parents/fun-with-tech/my-favourite-days-feb2022/
 description: ""
 third_nav_title: "2022 Feb "
 ---
@@ -17,4 +17,4 @@ Follow a little girl and her grandpa on a journey of self-discovery, and open yo
 
 [Sign up here! ](https://go.gov.sg/kypstorytelling-feb22)<br> 
 
-![Kids Storytelling Session](/images/KidsStorytelling.png)
+![Kids Storytelling Session](/images/kidsstorytelling.png)

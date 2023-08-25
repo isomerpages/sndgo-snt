@@ -2,12 +2,12 @@
 layout: homepage
 title: "#SmartNationTogether"
 description: An online channel featuring tech-related talks and workshops.
-image: /images/OG Image/SNT-Website-OG-Image.jpg
+image: /images/og image/snt-website-og-image.jpg
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage_SNT_Website.jpg
+      background: /images/homepage_snt_website.jpg
   - infobar:
       description: Ready to pick up new digital skills? Register for our talks,
         interactive webinars and workshops today. There is something for
@@ -21,7 +21,7 @@ sections:
       button: Register Here
       url: /working-adults/free-webinars/overview
       alt: Image alt text
-      image: /images/Home Page/SNT Adults Home Image.jpeg
+      image: /images/home page/snt adults home image.jpeg
   - infopic:
       title: For Seniors
       description: Afraid of going digital or anxious about learning new technologies?
@@ -30,7 +30,7 @@ sections:
       button: Register Here
       url: /seniors/overview
       alt: Image alt text
-      image: /images/Home Page/SNT Senior Home Image.jpeg
+      image: /images/home page/snt senior home image.jpeg
   - infobar:
       title: Subscribe to our newsletter
       description: Get the latest updates delivered to your mailbox.
@@ -42,7 +42,7 @@ sections:
         help citizens of all ages and walks of life to embrace digital learning
         as a lifelong pursuit.
       url: https://www.imda.gov.sg/digitalforlife
-      image: /images/Icons & Logos/Digital-For-Life-Logo-transparent.png
+      image: /images/icons & logos/digital-for-life-logo-transparent.png
       alt: Image alt text
       button: FIND OUT MORE
   - infopic:
@@ -52,6 +52,6 @@ sections:
         our future Singapore.
       button: FIND OUT MORE
       url: https://www.sg/
-      image: /images/Icons & Logos/SGT_transparent.png
+      image: /images/icons & logos/sgt_transparent.png
       alt: Singapore Together
 ---

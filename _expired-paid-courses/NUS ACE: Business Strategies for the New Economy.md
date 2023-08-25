@@ -1,10 +1,10 @@
 ---
 title: "NUS ACE: Business Strategies for the New Economy"
-permalink: /working-adults/biz-strategies/nus-ace
+permalink: /working-adults/biz-strategies/nus-ace/
 description: Working Adults Course on Business Strategies for the New Economy
-image: /images/NUS-ACE-biz-strat.jpg
+image: /images/nus-ace-biz-strat.jpg
 ---
-![Upskill Yourself With Business Strategies for the New Economy ](/images/NUS-ACE-biz-strat.jpg)
+![Upskill Yourself With Business Strategies for the New Economy ](/images/nus-ace-biz-strat.jpg)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** Online Learning   

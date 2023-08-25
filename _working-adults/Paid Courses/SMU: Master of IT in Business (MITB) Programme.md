@@ -1,8 +1,8 @@
 ---
 title: "SMU: Master of IT in Business (MITB) Programme"
-permalink: /working-adults/Paid-Courses/mitb/smu/
+permalink: /working-adults/paid-courses/mitb/smu/
 description: SMU Master of IT in Business (MITB) Programme
-image: /images/Mar 2023/Paid-SMU-MITB.jpeg
+image: /images/mar 2023/paid-smu-mitb.jpeg
 third_nav_title: Paid Courses
 ---
 <div style="max-width: 1280px">
@@ -46,7 +46,7 @@ We are in an era of disruption where technology has levelled the playing field i
 
 Drawing from thought leadership in the ambits of data analytics, technological platforms and business strategies, the Master of IT in Business (MITB) programme delves into four specialisation tracks to choose from.  
 
-![SMU Master of IT in Business Programme Tracks](/images/Mar%202023/MITB-Icons.png)
+![SMU Master of IT in Business Programme Tracks](/images/mar%202023/mitb-icons.png)
 
 Each of these tracks equips you with the relevant competencies to lead and compete effectively in the digital age.
 

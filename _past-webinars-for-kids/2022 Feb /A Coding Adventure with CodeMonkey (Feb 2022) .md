@@ -1,6 +1,6 @@
 ---
 title: "A Coding Adventure with CodeMonkey (Feb 2022) "
-permalink: /kids-and-young-parents/fun-with-tech/coding-feb2022
+permalink: /kids-and-young-parents/fun-with-tech/coding-feb2022/
 third_nav_title: "2022 Feb "
 description: ""
 ---
@@ -17,4 +17,4 @@ Going bananas over coding? Give your child a head-start on this life skill with 
 
 [Sign up here! ](https://go.gov.sg/kypcodemonkey-feb22)
 
-![Kids Coding Workshop in February](/images/KidsCoding.png)
+![Kids Coding Workshop in February](/images/kidscoding.png)

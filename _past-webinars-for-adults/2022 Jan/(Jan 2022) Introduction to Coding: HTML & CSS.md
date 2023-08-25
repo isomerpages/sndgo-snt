@@ -1,6 +1,6 @@
 ---
 title: "(Jan 2022) Introduction to Coding: HTML & CSS"
-permalink: /working-adults/free-webinars/coding-html-and-css-jan2022
+permalink: /working-adults/free-webinars/coding-html-and-css-jan2022/
 description: ""
 third_nav_title: 2022 Jan
 ---
@@ -12,4 +12,4 @@ Want to make your website stand out from the crowd? Find out how by learning HTM
 
 [Sign up here!](https://go.gov.sg/wacoding-jan22)
 
-![Coding workshop](/images/10-Jan-WA.png)
+![Coding workshop](/images/10-jan-wa.png)

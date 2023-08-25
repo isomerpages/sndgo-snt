@@ -1,6 +1,6 @@
 ---
 title: Know all about LifeSG
-permalink: /seniors/my-savvy-kaki/lifesg
+permalink: /seniors/my-savvy-kaki/lifesg/
 description: ""
 third_nav_title: 2022 Feb
 ---

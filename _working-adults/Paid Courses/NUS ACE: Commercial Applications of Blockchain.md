@@ -5,7 +5,7 @@ description: "Explore commercial applications of blockchain with this online cou
 image: ""
 third_nav_title: Paid Courses
 ---
-![Online course on commercial applications of blockchain](/images/Oct%202022/Blockchain.png)
+![Online course on commercial applications of blockchain](/images/oct%202022/blockchain.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/self-directed-online-programmes/)<br>
 **Study Mode:** Self-Directed Online Programme   

@@ -1,10 +1,9 @@
 ---
 title: Introduction to Health Informatics
-permalink: /working-adults/Free-Webinars/health-informatics/
+permalink: /working-adults/free-webinars/health-informatics/
 description: ""
 third_nav_title: 2023 Jan
 ---
-
 **Date:** 16 January, Monday
 <br> **Time:** 7pm - 8pm
 
@@ -12,4 +11,4 @@ Interested in a career that merges healthcare and technology? Come learn about h
 
 [Sign up here!](https://go.gov.sg/wa-healthinformatics-jan23)
 
-![free webinar on introduction to health informatics](/images/Jan%202023/WA_16%20Jan2023.jpeg)
+![free webinar on introduction to health informatics](/images/jan%202023/wa_16%20jan2023.jpeg)

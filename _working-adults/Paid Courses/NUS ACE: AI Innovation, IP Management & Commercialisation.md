@@ -1,11 +1,11 @@
 ---
 title: "NUS ACE: AI Innovation, IP Management & Commercialisation"
-permalink: /working-adults/AI/nus-ace/
+permalink: /working-adults/ai/nus-ace/
 description: Professional certificate in AI innovation, IP management and commercialisation
 image: ""
 third_nav_title: Paid Courses
 ---
-![Professional certificate in AI innovation, intellectual property management and commercialisation](/images/Oct%202022/AI%20IP%20Management.png)
+![Professional certificate in AI innovation, intellectual property management and commercialisation](/images/oct%202022/ai%20ip%20management.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** Online Learning   

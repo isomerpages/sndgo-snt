@@ -1,11 +1,10 @@
 ---
 title: "Growing Your Business: The Future of E Payments (Jun 2022)"
-permalink: /working-adults/free-webinars/e-payments-jun2022
+permalink: /working-adults/free-webinars/e-payments-jun2022/
 description: Free tech webinar for working adults in June
-image: /images/Jun22-WA-E-Payments.jpeg
+image: /images/jun22-wa-e-payments.jpeg
 third_nav_title: 2022 Jun
 ---
-
 **Date:** 9 June, Thursday
 <br> **Time:** 12pm - 1pm
 
@@ -13,4 +12,4 @@ How can businesses tap on payment platforms like NETS to enhance the customer ex
 
 [Sign up here!](https://go.gov.sg/wa-finlab3-june22)
 
-![Free webinar on e-payments for businesses](/images/Updated-Jun22-WA-E-Payments.jpeg)
+![Free webinar on e-payments for businesses](/images/updated-jun22-wa-e-payments.jpeg)

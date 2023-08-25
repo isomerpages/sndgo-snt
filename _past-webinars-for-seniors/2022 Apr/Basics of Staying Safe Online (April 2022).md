@@ -1,11 +1,10 @@
 ---
 title: Basics of Staying Safe Online (April 2022)
-permalink: /seniors/my-savvy-kaki/cybersafe-basics-apr2022
+permalink: /seniors/my-savvy-kaki/cybersafe-basics-apr2022/
 description: Free Cybersecurity Webinar on Staying Safe Online
-image: /images/Apr - Seniors - Staying Safe.jpeg
+image: /images/apr - seniors - staying safe.jpeg
 third_nav_title: 2022 Apr
 ---
-
 **Date:** 20 April, Wednesday
 <br> **Time:** 3pm - 4pm
 
@@ -15,4 +14,4 @@ As online crimes continue to evolve, it’s easy to give in to despair. In this 
 
 [Sign up here! ](https://go.gov.sg/staysafeonline101-ss-apr20)
 
-![Free Cybersecurity Webinar on Staying Safe Online for Seniors](/images/Apr%20-%20Seniors%20-%20Staying%20Safe.jpeg)
+![Free Cybersecurity Webinar on Staying Safe Online for Seniors](/images/apr%20-%20seniors%20-%20staying%20safe.jpeg)

@@ -4,7 +4,7 @@ permalink: /working-adults/ba/nus-ace/
 description: Get professional certification in business analytics with this course
 third_nav_title: Paid Courses
 ---
-![Professional certificate in business analytics](/images/NUS-BA.png)
+![Professional certificate in business analytics](/images/nus-ba.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** Online & Classroom Learning   

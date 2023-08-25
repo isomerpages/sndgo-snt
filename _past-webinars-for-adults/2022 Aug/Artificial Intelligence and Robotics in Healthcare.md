@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence and Robotics in Healthcare
-permalink: /working-adults/Free-Webinars/ai-robotics-healthcare-aug2022/
+permalink: /working-adults/free-webinars/ai-robotics-healthcare-aug2022/
 description: ""
 third_nav_title: 2022 Aug
 ---
@@ -12,4 +12,4 @@ Artificial Intelligence (AI) is no longer what you see in the movies. It has bec
 
 [Sign up here!](https://go.gov.sg/smarthealthcare-aug22)
 
-![Free webinar on artificial intelligene and robotics for working adults](/images/Aug%202022/WA-22Aug-updated.png)
+![Free webinar on artificial intelligene and robotics for working adults](/images/aug%202022/wa-22aug-updated.png)

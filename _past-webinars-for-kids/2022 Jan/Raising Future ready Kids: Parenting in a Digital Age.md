@@ -1,6 +1,6 @@
 ---
 title: "Raising Future ready Kids: Parenting in a Digital Age"
-permalink: /kids-and-young-parents/tech-talks/raising-future-ready-kids
+permalink: /kids-and-young-parents/tech-talks/raising-future-ready-kids/
 description: ""
 third_nav_title: 2022 Jan
 ---
@@ -12,4 +12,4 @@ As more of our daily activities go digital, how do we keep kids safe while they 
 
 [Sign up here!](https://go.gov.sg/kypparenting-jan22)
 
-![Parenting workshop](/images/06-Jan-kids.png)
+![Parenting workshop](/images/06-jan-kids.png)

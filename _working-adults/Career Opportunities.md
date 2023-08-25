@@ -1,10 +1,10 @@
 ---
 title: Career Opportunities
-permalink: /working-adults/techcareers
+permalink: /working-adults/techcareers/
 description: ""
 ---
 # Help Remake Singapore into a Smart Nation 
-![Smart Nation Singapore](/images/Icons%20&%20Logos/sndgo.png)
+![Smart Nation Singapore](/images/icons%20&%20logos/sndgo.png)
 
 We envision Singapore to be a world-class city, a leading economy and an inclusive society where everyone benefits from the latest developments in technology.
 

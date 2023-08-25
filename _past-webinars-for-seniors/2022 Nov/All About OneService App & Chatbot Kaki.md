@@ -1,10 +1,9 @@
 ---
 title: All About OneService App & Chatbot Kaki
-permalink: /seniors/My-Savvy-Kaki-Series/oneservice-app-chatbot-kaki/
+permalink: /seniors/my-savvy-kaki-series/oneservice-app-chatbot-kaki/
 description: ""
 third_nav_title: 2022 Nov
 ---
-
 **Date:** 23 November, Wednesday
 <br> **Time:** 3pm - 4pm
 
@@ -12,4 +11,4 @@ third_nav_title: 2022 Nov
 
 [Sign up here!](https://go.gov.sg/seniors-oneservice-nov22) 
 
-![free webinar on oneservice app and chatbot kaki for seniors](/images/Nov%202022/Seniors_23%20Nov.jpeg)
+![free webinar on oneservice app and chatbot kaki for seniors](/images/nov%202022/seniors_23%20nov.jpeg)

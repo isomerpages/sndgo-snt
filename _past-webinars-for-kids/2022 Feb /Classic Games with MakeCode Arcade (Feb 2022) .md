@@ -1,6 +1,6 @@
 ---
 title: "Classic Games with MakeCode Arcade (Feb 2022) "
-permalink: /kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-feb2022
+permalink: /kids-and-young-parents/fun-with-tech/classic-games-with-makecode-arcade-feb2022/
 description: ""
 third_nav_title: "2022 Feb "
 ---
@@ -16,4 +16,4 @@ Revisit your favourite arcade games of your youth by creating these with your ch
 
 [Sign up here!](https://www.graphiteacademy.com/smartnationsg)
 
-![Classic Games Workshop](/images/KidsGames.png)
+![Classic Games Workshop](/images/kidsgames.png)

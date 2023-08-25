@@ -1,11 +1,10 @@
 ---
 title: Metaverse & NFTs 101 (Jun 2022)
-permalink: /working-adults/free-webinars/metaverse-jun2022
+permalink: /working-adults/free-webinars/metaverse-jun2022/
 description: Free tech talk on the Metaverse for working adults
-image: /images/Jun22-WA-Metaverse.jpeg
+image: /images/jun22-wa-metaverse.jpeg
 third_nav_title: 2022 Jun
 ---
-
 **Date:** 23 June, Thursday
 <br> **Time:** 12pm - 1.30pm
 
@@ -13,4 +12,4 @@ Think your selfie could be sold for a million bucks? In this webinar, discover t
 
 [Sign up here!](https://go.gov.sg/wa-metaverse-jun22)
 
-![Free webinar on metaverse for working adults ](/images/Updated-Jun22-WA-Metaverse-updated.jpeg)
+![Free webinar on metaverse for working adults ](/images/updated-jun22-wa-metaverse-updated.jpeg)
