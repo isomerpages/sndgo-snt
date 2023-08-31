@@ -4,7 +4,7 @@ permalink: /working-adults/free-webinars/overview/
 description: Sign up for our FREE webinars to learn more about tech!
 image: /images/og image/snt adults og image.jpeg
 ---
-# September 2023: Cybersecurity and Wellness
+# September 2023: Cybersecurity
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 
