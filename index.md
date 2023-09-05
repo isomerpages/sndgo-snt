@@ -4,9 +4,7 @@ title: "#SmartNationTogether"
 description: An online channel featuring tech-related talks and workshops.
 image: /images/og image/snt-website-og-image.jpg
 permalink: /
-notification: Our website will be undergoing scheduled maintenance on 5 Sep from
-  10:30am to 1:30pm. During this time, the website may be unavailable. We
-  apologise for any inconvenience caused.
+notification: ""
 sections:
   - hero:
       background: /images/homepage_snt_website.jpg
