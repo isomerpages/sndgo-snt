@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Tech Webinars For Working Adults
           description: Level up your tech skills
-          url: ""
+          url: /working-adults/free-webinars/overview/
         - title: Tech Webinars For Seniors
           description: Learn to go digital
           url: /seniors/overview
         - title: Subscribe to our newsletter
           description: Register here
-          url: ""
+          url: /newsletter/
   - infobar:
       description: Register for our interactive webinars, workshops and talks today.
         There is something for everyone!
