@@ -2,6 +2,7 @@ collections:
   past-themes:
     output: true
     order:
+      - May 2023/.keep
       - Aug 2023/.keep
       - Aug 2022/SkillsFuture Festival X Smart Nation 2022.md
       - Aug 2022/Tech webinars you should sign up for (Aug 2022).md
