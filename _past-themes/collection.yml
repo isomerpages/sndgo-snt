@@ -2,6 +2,7 @@ collections:
   past-themes:
     output: true
     order:
+      - Aug 2023/Cybersecurity and Wellness Webinars.md
       - Aug 2023/.keep
       - May 2023/E Commerce and Retail Webinars.md
       - May 2023/.keep
