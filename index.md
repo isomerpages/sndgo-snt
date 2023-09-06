@@ -8,6 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage_snt_website.jpg
+      key_highlights:
+        - title: Tech Webinars For Working Adults
+          description: Level up your tech skills
+          url: ""
+        - title: Tech Webinars For Seniors
+          description: Learn to go digital
+          url: /seniors/overview
+        - title: Subscribe to our newsletter
+          description: Register here
+          url: ""
   - infobar:
       description: Register for our interactive webinars, workshops and talks today.
         There is something for everyone!
@@ -30,11 +40,6 @@ sections:
       url: /seniors/overview
       alt: Image alt text
       image: /images/home page/snt senior home image.jpeg
-  - infobar:
-      title: Subscribe to our newsletter
-      description: Get the latest updates delivered to your mailbox.
-      button: Register Here
-      url: /newsletter
   - infopic:
       title: The Smart Nation initiative
       subtitle: IN SUPPORT OF
