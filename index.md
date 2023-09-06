@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/homepage_snt_website.jpg
   - infobar:
-      description: Register for our talks, interactive webinars and workshops today.
+      description: Register for our interactive webinars, workshops and talks today.
         There is something for everyone!
-      title: "Ready to pick up new digital skills? "
+      title: Ready to pick up new digital skills?
   - infopic:
       title: For Working Adults
       description: Want to level up on tech skills for your work? From data analytics
