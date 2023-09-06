@@ -46,7 +46,7 @@ sections:
       description: The Smart Nation initiative is all about transforming Singapore
         through technology to improve how we live, work, and play.
       button: FIND OUT MORE
-      url: www.smartnation.gov.sg
+      url: https://www.smartnation.gov.sg
       image: /images/icons & logos/smart-nation-logo.svg
       alt: Image alt text
   - infopic:
