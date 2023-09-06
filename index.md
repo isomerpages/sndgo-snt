@@ -9,10 +9,9 @@ sections:
   - hero:
       background: /images/homepage_snt_website.jpg
   - infobar:
-      description: Ready to pick up new digital skills? Register for our talks,
-        interactive webinars and workshops today. There is something for
-        everyone!
-      title: Welcome to the Smart Nation Together Online Channel!
+      description: Register for our talks, interactive webinars and workshops today.
+        There is something for everyone!
+      title: "Ready to pick up new digital skills? "
   - infopic:
       title: For Working Adults
       description: Want to level up on tech skills for your work? From data analytics
@@ -37,6 +36,15 @@ sections:
       button: Register Here
       url: /newsletter
   - infopic:
+      title: The Smart Nation initiative
+      subtitle: IN SUPPORT OF
+      description: The Smart Nation initiative is all about transforming Singapore
+        through technology to improve how we live, work, and play.
+      button: FIND OUT MORE
+      url: www.smartnation.gov.sg
+      image: /images/icons & logos/smart-nation-logo.svg
+      alt: Image alt text
+  - infopic:
       title: Digital for Life movement
       description: The Digital for Life movement aims to galvanise the community to
         help citizens of all ages and walks of life to embrace digital learning
@@ -45,6 +53,7 @@ sections:
       image: /images/icons & logos/digital-for-life-logo-transparent.png
       alt: Image alt text
       button: FIND OUT MORE
+      subtitle: IN SUPPORT OF
   - infopic:
       title: Singapore Together movement
       description: The Singapore Together movement is about the government working
@@ -54,4 +63,5 @@ sections:
       url: https://www.sg/
       image: /images/icons & logos/sgt_transparent.png
       alt: Singapore Together
+      subtitle: IN SUPPORT OF
 ---
