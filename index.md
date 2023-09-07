@@ -15,6 +15,9 @@ sections:
         - title: Tech Webinars For Seniors
           description: Learn to go digital
           url: /seniors/overview
+        - title: Get to know Smart Nation
+          description: Learn all about the initiative
+          url: https://www.smartnation.gov.sg
         - title: Subscribe to our newsletter
           description: Register here
           url: /newsletter/
