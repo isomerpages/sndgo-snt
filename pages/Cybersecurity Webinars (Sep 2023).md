@@ -1,10 +1,14 @@
 ---
-title: Tech Webinars for Adults
-permalink: /working-adults/free-webinars/overview/
-description: Sign up for our FREE webinars to learn more about tech!
-image: /images/og image/snt adults og image.jpeg
+title: Cybersecurity Webinars (Sep 2023)
+permalink: /sep2023/
+description: Learn how individuals impact cybersecurity and build better systems
+  to minimise cyber threats.
+image: /images/Sep 2023/‎‎‎sep23-fb-1.png
 ---
 # September 2023: Cybersecurity
+
+
+Explore the latest technologies and your crucial role in maintaining a secure digital landscape for both work and play. Don’t miss out on this opportunity to enhance your cybersecurity knowledge with tips from our expert speakers.
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 

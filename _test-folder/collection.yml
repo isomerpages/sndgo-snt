@@ -2,5 +2,6 @@ collections:
   test-folder:
     output: true
     order:
+      - "#SmartNationTogether.md"
       - faq.md
       - accordion.md

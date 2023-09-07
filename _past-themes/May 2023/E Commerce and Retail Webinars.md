@@ -3,6 +3,7 @@ title: E Commerce and Retail Webinars
 permalink: /may2023/
 description: Boost your e-commerce & retail strategy with tech!
 image: /images/og image/og-image-snt-may-2023.jpeg
+third_nav_title: May 2023
 ---
 # Get Ahead in your E-Commerce and Retail Journey with our Webinar Series
 
