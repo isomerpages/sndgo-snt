@@ -88,7 +88,7 @@ Participants may consider taking the following modules before attending **Level 
 * [Making Contracts Smart with Blockchain](https://ace.nus.edu.sg/event/making-contracts-smart-with-blockchain-e-learning/)
 * [Algo-Trading, Theory and Practice](https://ace.nus.edu.sg/event/algo-trading-theory-and-practice-e-learning/)
 
-![Training Roadmap for FinTechSG Programme](/images/nus%20fintech%20training%20roadmap.png)
+![Training Roadmap for NUS Advanced Professional Certificate in FinTech](/images/nus%20fintech%20training%20roadmap.png)
 
 #### **ENQUIRIES**
 Please email [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg)
