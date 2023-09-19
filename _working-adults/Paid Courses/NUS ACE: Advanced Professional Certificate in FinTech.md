@@ -1,56 +1,42 @@
 ---
-title: NUS FinTechSG Programme
+title: "NUS ACE: Advanced Professional Certificate in FinTech"
 permalink: /working-adults/fintech/nus-ace/
-description: "NUS FinTechSG programme for Working Adults "
+description: Get a professional certification in FinTech
 image: /images/nus-fintech.png
 third_nav_title: Paid Courses
 ---
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/cCoD7kQfiPk"
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/cCoD7kQfiPk" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
-**Training provider:** National University Singapore (NUS) School of Computing (SoC) and AI Singapore<br>
+**Training provider:** National University Singapore (NUS) School of Computing (SoC)<br>
 **Study Mode:** Online Learning   
-**Duration:** 3 Months <br>
-**Sign up for the programme here:** [NUS FinTech SG Progamme](https://ace.nus.edu.sg/nus-fintech-sg-programme/)
+**Duration:** 18 Days <br>
+**Sign up for the programme here:** [NUS ACE: Advanced Professional Certificate in FinTech](https://ace.nus.edu.sg/advanced-professional-certificate-in-fintech/)
 
 #### **OVERVIEW**
 
-The NUS FinTech SG Programme is a Professional Certificate in FinTech designed to enhance the competitiveness of the Singapore FinTech Industry. The program is jointly developed by National University Singapore (NUS) School of Computing (SoC) and AI Singapore, in consultation with experts in innovation and FinTech from UBS Bank, RIPPLE, World Economic Forum, and Bank of New York Mellon.
+The Advanced Professional Certificate in Fintech was created for people to learn and be inspired to consider a career in the fast-growing field of FinTech.
+With more than 25,000 technology jobs now open in Singapore, employers are on the lookout for qualified professionals who are willing and able to take the bold step to fill up the positions.
 
-We've made the course to be very hands-on and ideally, someone with a full-time job can work with their employer to:
+NUS ACE has designed a training programme that:
+1. Launches you on a journey of understanding and appreciation of FinTech and its importance
+2. Teaches you vital front-end/backend programming and other skills crucial to the sector
+3. Enriches your portfolio with real-word demonstrated capabilities that employers are looking for
 
-1. Take 2 weeks at the beginning of the course for the immersion portion. This is critical to learn "WHY" Fintech and connect into the FinTech ecosystem.
-2. Take 2 or 3 days per week for class (perhaps adjust work hours)
-3. Discuss how you can apply your learning to your work
-
-The programme will be fully funded for NUS students graduating in 2021 (for eligible students). 
+To this end, we worked closely with companies and global standard organisations to ensure that the programme is in line with the industry requirements and abreast of international trends.
 
 
 #### **LEARNING OUTCOMES**
@@ -65,7 +51,7 @@ Through the program, you will be equipped with the following:
 * Foundations of Finance and IT 
 Financial Products
 * Programming Fundamentals 
-* APIs & Automation 
+* APIs &amp; Automation 
 * Database, Network, Blockchain Tools 
 * Dev Ops
 
@@ -102,7 +88,7 @@ Participants may consider taking the following modules before attending **Level 
 * [Making Contracts Smart with Blockchain](https://ace.nus.edu.sg/event/making-contracts-smart-with-blockchain-e-learning/)
 * [Algo-Trading, Theory and Practice](https://ace.nus.edu.sg/event/algo-trading-theory-and-practice-e-learning/)
 
-![Training Roadmap for FinTechSG Programme](/images/Fintechsg-Training-Roadmap-espeed-Interview.jpeg)
+![Training Roadmap for NUS Advanced Professional Certificate in FinTech](/images/nus%20fintech%20training%20roadmap.png)
 
 #### **ENQUIRIES**
 Please email [soc-ace@nus.edu.sg](mailto:soc-ace@nus.edu.sg)

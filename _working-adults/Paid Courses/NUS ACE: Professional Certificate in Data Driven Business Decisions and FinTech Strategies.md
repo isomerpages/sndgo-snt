@@ -1,19 +1,18 @@
 ---
-title: "NUS ACE: Professional Certificate in Business Analytics and AI for
-  Finance, Retail and Supply Chain"
+title: "NUS ACE: Professional Certificate in Data Driven Business Decisions and
+  FinTech Strategies"
 permalink: /working-adults/ba-ai/nus-ace/
-description: Get professional certification in Business Analytics and AI for
-  Finance, Retail and Supply Chain
+description: Get a professional certification in Data Driven Business Decisions
+  and FinTech Strategies
 image: ""
 third_nav_title: Paid Courses
 ---
-
 ![Professional certificate in business analytics and AI for finance, retail ](/images/nus-ba-ai.png)
 
 **Training provider:** [National University of Singapore, Advanced Computing for Executives](https://ace.nus.edu.sg/)  
 **Study Mode:** Online Learning   
 **Duration:** 6 Days <br>
-**Sign up here:** [Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain](https://ace.nus.edu.sg/professional-certificate-in-business-analytics-and-ai-for-finance-retail-and-supply-chain/)
+**Sign up here:** [Professional Certificate in Data-Driven Business Decisions and FinTech Strategies](https://ace.nus.edu.sg/professional-certificate-in-data-driven-business-decisions-and-fintech-strategies/)
 
 #### **COURSE OVERVIEW**
 
