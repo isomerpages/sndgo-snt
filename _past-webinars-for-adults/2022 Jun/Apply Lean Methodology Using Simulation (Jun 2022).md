@@ -10,6 +10,4 @@ third_nav_title: 2022 Jun
 
 Can businesses really be lean and mean? Find out how business owners and decision-makers can make informed decisions using simulation with this real-world case study.   
 
-[Sign up here!](https://go.gov.sg/wa-lean-jun22)
-
 ![Free webinar on simulation for working adults](/images/jun22-updated-wa-lean.jpeg)
