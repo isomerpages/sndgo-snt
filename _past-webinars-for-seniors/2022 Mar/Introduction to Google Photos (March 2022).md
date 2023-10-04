@@ -10,6 +10,4 @@ third_nav_title: 2022 Mar
 
 Precious moments are meant to be captured and shared. In this webinar, learn how to enhance, store, manage and share photos with your loved ones with Google Photos.
 
-[Sign up here!](https://go.gov.sg/igp-ss-mar23)
-
 ![Free workshop on Google Photos for seniors](/images/seniors-mar-googlephotos.jpeg)
