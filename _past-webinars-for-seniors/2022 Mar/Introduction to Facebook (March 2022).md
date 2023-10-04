@@ -10,6 +10,4 @@ third_nav_title: 2022 Mar
 
 Want to connect with your kakis with just a tap on your mobile device? Keep in touch with family members remotely? In this webinar, master the basics of Facebook to do these, and more.  
 
-[Sign up here! ](https://go.gov.sg/itf-ss-mar9)
-
 ![Free workshop on Facebook for seniors](/images/seniors-mar-fb.jpeg)
