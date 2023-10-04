@@ -10,6 +10,4 @@ third_nav_title: 2022 Jun
 
 Going bananas over coding? Give your child a head-start on this life skill with this fun-filled introductory course. 
 
-[Sign up here!](https://go.gov.sg/kids-codingadv-june22)
-
 ![Free june holidays webinar on coding for kids ](/images/jun22-kids-codemonkey-jun22jpeg.jpeg)
