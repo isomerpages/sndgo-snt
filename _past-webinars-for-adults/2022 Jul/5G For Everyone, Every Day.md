@@ -9,6 +9,4 @@ third_nav_title: 2022 Jul
 
 Ever wondered about the power of 5G? Find out how 5G technologies will be used across different industries, and in our everyday life!
 
-[Sign up here!](https://go.gov.sg/wa-5gforeveryone-jul22)
-
 ![free webinars on 5g technology for working adults](/images/jul%202022/7%20jul_wa_final.jpeg)
