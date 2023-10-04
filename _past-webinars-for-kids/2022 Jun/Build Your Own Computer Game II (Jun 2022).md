@@ -14,6 +14,4 @@ Bonus: They get to pick up coding skills while they're at it.
 
 *Suitable for kids aged 10 - 12.*
 
-[Sign up here!](https://go.gov.sg/kids-introtocoding-june22)
-
 ![Free June holiday webinar on coding for kids](/images/jun22-kids-gaming-10-12.jpeg)
