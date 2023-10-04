@@ -10,6 +10,4 @@ third_nav_title: 2022 Apr
 
 Received an image that you suspect is fake, but cannot be sure? Discover tools to check for dubious images and videos at this workshop.  
 
-[Sign up here!](https://www.eventbrite.sg/e/sure-skills-series-for-seniors-verifying-images-videos-registration-244274691177?aff=ebdsoporgprofile)
-
 ![Free Webinar on Verifying Images and Videos for Seniors](/images/apr%20-%20seniors%20-%20sure.jpeg)
