@@ -2,55 +2,61 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
+      - 2023 Jan/.keep
       - "2023 Jan/Telehealth for Physiotherapy: What, When & Why.md"
       - 2023 Jan/Boost Your Mental Wellness with Tech.md
       - 2023 Jan/Detecting Dementia with Artificial Intelligence.md
       - 2023 Jan/Introduction to Health Informatics.md
       - 2023 Jan/BioHacking with Tech for Better Health.md
-      - 2023 Jan/.keep
+      - 2022 Nov/.keep
       - 2022 Nov/Business Analytics for Managers.md
       - 2022 Nov/Level Up Your Business with Digital Marketing Tools.md
       - 2022 Nov/Transacting Safely Online with Singpass.md
       - 2022 Nov/Build Consumer Trust through Good Cybersecurity Practices.md
-      - 2022 Nov/.keep
+      - 2022 Oct/.keep
       - 2022 Oct/Supporting Digital Mental Health.md
       - 2022 Oct/Intellectual Property Management of Artificial Intelligence
         Innovation.md
       - 2022 Oct/Blockchain for Commercial Applications.md
       - 2022 Oct/Safeguarding Your Business from Cyber Attacks.md
-      - 2022 Oct/.keep
+      - 2022 Aug/.keep
       - 2022 Aug/Artificial Intelligence and Robotics in Healthcare.md
       - 2022 Aug/Creating A Smart Nation Through User Centred Design.md
       - 2022 Aug/All About CPF Mobile.md
       - 2022 Aug/Assistive Tech For An Inclusive Workplace.md
-      - 2022 Aug/.keep
+      - 2022 Jul/.keep
       - "2022 Jul/Data Visualisation & You: Making Sense of Our Data Driven
         World!.md"
       - 2022 Jul/Advanced Machine Learning Approaches in Decision Making.md
       - 2022 Jul/Making Healthier Decisions Through Data.md
       - 2022 Jul/Data Driven Artificial Intelligence.md
       - 2022 Jul/5G For Everyone, Every Day.md
-      - 2022 Jul/.keep
+      - 2022 Jun/.keep
       - 2022 Jun/Metaverse & NFTs 101 (Jun 2022).md
       - 2022 Jun/Apply Lean Methodology Using Simulation (Jun 2022).md
       - "2022 Jun/Growing Your Business: Setting up Your Online Store (Jun
         2022).md"
       - "2022 Jun/Growing Your Business: The Future of E Payments (Jun 2022).md"
       - 2022 Jun/Emerging and Disruptive Technologies (Jun 2022).md
-      - 2022 Jun/.keep
+      - 2022 Apr/.keep
       - 2022 Apr/Data Protection in a Digital Age (Apr 2022).md
       - "2022 Apr/Growing Your Business: Increasing Online Reach (Apr 2022).md"
       - "2022 Apr/Growing Your Business: Leveraging Ecommerce (Apr 2022).md"
       - 2022 Apr/Staying Safe from Phishing and Online Scams (Apr 2022).md
       - 2022 Apr/Securing Your IoT Devices at Home (April 2022).md
-      - 2022 Apr/.keep
+      - 2022 Mar/.keep
       - 2022 Mar/Introduction to GoBusiness (Mar 2022).md
       - "2022 Mar/Tech 101: Natural Language Processing (Mar 2022).md"
       - "2022 Mar/Tech 101: Metaverse & NFTs (Mar 2022).md"
       - 2022 Mar/IoT Asia 2022 .md
       - 2022 Mar/Debunking Myths in Cybersecurity (Mar 2022).md
       - 2022 Mar/Disruptive Technologies  in the New Economy (Mar 2022).md
-      - 2022 Mar/.keep
+      - 2022 Feb/.keep
+      - 2022 Feb/Introduction to Digital Marketing (Feb 2022) .md
+      - 2022 Feb/Grow Your Career in Ops Strategy and Analytics with Shopee (Feb
+        2022) .md
+      - 2022 Feb/Digital Transformation (Feb 2022) .md
+      - 2022 Jan/.keep
       - "2022 Jan/No code Automation: Changing the Business World.md"
       - 2022 Jan/Stay Healthy With Mobile Technology.md
       - "2022 Jan/Introduction to Coding: HTML & CSS.md"
@@ -60,9 +66,3 @@ collections:
       - "2022 Jan/(Jan 2022) Introduction to Coding: HTML & CSS.md"
       - 2022 Jan/(Jan 2022) Stay Healthy With Mobile Technology.md
       - 2022 Jan/(Jan 2022) No Code Automation Changing the Business World.md
-      - 2022 Jan/.keep
-      - 2022 Feb/Introduction to Digital Marketing (Feb 2022) .md
-      - 2022 Feb/Grow Your Career in Ops Strategy and Analytics with Shopee (Feb
-        2022) .md
-      - 2022 Feb/Digital Transformation (Feb 2022) .md
-      - 2022 Feb/.keep
