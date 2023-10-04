@@ -10,6 +10,4 @@ third_nav_title: 2022 Apr
 
 Looking to take your business online? Get quick tips on how to tap on e-commerce, financing and payment solutions in this webinar.  
 
-[Sign up here!](https://go.gov.sg/wa-finlab2-apr22)
-
 ![Free webinar on e-commerce for businesses](/images/apr-wa-e-commerce.jpeg)
