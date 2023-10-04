@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sep 2023/.keep
-      - Cybersecurity Webinars (Sep 2023).md
       - Aug 2023/.keep
       - Aug 2023/Cybersecurity and Wellness Webinars.md
       - Jul 2023/AI and Data Analytics Webinars.md
