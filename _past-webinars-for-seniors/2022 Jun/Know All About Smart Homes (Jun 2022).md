@@ -10,6 +10,4 @@ third_nav_title: 2022 Jun
 
 What is a smart home? Find out more about the tech and concepts behind it, and why a smart home might be something for you. 
 
-[Sign up here!](https://zoom.us/webinar/register/3316521615184/WN_9-cppcSnQXObPj-pVdb_Hw)
-
 ![Free webinar on smart homes for seniors in June](/images/updated-jun%20-%20smart%20homes1.jpeg)
