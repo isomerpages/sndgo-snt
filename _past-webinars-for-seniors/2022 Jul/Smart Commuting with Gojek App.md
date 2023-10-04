@@ -9,6 +9,4 @@ third_nav_title: 2022 Jul
 
 Can't find a taxi? No worries. Learn how you can use Gojek to get around Singapore - via cashless transactions.
 
-[Sign up here!](https://go.gov.sg/seniors-gojekapp-jul22)
-
 ![free webinars on smart commuting with gojek app for seniors](/images/jul%202022/13%20jul_seniors.jpeg)
