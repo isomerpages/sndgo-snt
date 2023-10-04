@@ -10,6 +10,4 @@ third_nav_title: 2022 Jun
 
 What is Artificial Intelligence (AI), data science and other emerging tech that are disrupting our lives today? Find out more about these tech and how we can harness them for positive outcomes. 
 
-[Sign up here!](https://go.gov.sg/wa-emerging-tech-jun22)
-
 ![Tech talk for working adults in June](/images/jun22-wa-emerging-disruptive-tech.jpeg)
