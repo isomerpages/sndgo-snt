@@ -10,6 +10,4 @@ third_nav_title: 2022 Jun
 
 Want to get ahead with your business? Learn how you can set up your own digital shopfront in three easy steps, plus tips and tricks to grow your sales. 
 
-[Sign up here!](https://go.gov.sg/wa-finlab4-june22)
-
 ![Free webinar for working adults on e-commerce](/images/wa-jun-online-store.jpeg)
