@@ -9,6 +9,4 @@ third_nav_title: 2022 Nov
 
 Marketing is not just about sales but building a relationship with your customers. Find out how Carousell does this by engaging with shoppers using digital marketing tools, and connecting with their customers. 
 
-[Sign up here!](https://go.gov.sg/wa-carousell-nov2022)
-
 ![free webinars on digital marketing tools by carousell for working adults](/images/nov%202022/wa_10%20nov.jpeg)
