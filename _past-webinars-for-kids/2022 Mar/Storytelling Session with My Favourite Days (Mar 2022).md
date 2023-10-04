@@ -10,6 +10,4 @@ third_nav_title: 2022 Mar
 
 Follow a little girl and her grandpa on a journey of self-discovery, and open your kids’ eyes to the many possibilities that tech brings.  
 
-[Sign up here! ](https://go.gov.sg/kids-storytelling-mar22)
-
 ![Kids Tech Storytelling Session in March ](/images/kids-mar-storytelling.jpeg)
