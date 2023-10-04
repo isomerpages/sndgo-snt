@@ -10,6 +10,4 @@ third_nav_title: 2022 Apr
 
 With growing concerns on privacy and misuse of data, how can organisations build trust by safeguarding consumers’ data? Find out how in this webinar.   
 
-[Sign up here!](https://go.gov.sg/wa-pdpa-apr22)
-
 ![Data Protection Webinar for Working Adults](/images/apr%20-%20wa%20-%20data%20protection.jpeg)
