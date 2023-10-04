@@ -9,6 +9,4 @@ third_nav_title: 2022 Aug
 
 Find out how you can access CPF-related information and services easily via your smartphone, and carry out simple transactions securely. You will also learn how to check your monthly CPF contributions without leaving home.
 
-[Sign up here!](https://go.gov.sg/seniors-cpfmobile-aug3)
-
 ![free webinars on cpf mobile app for working adults](/images/aug%202022/wa_3%20aug%20(revised).jpeg)
