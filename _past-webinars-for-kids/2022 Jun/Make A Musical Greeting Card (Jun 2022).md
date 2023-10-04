@@ -12,6 +12,4 @@ Have you seen a greeting card that could sing and change its colour? At the end 
 
 *Scratch is a programming language and online community where participants can create their own interactive stories, games and animations.*
 
-[Sign up here!](https://go.gov.sg/kids-musicalgreetingcard-june2022)
-
 ![Free June holiday tech webinar for kids](/images/jun22-kids-musical-card.jpeg)
