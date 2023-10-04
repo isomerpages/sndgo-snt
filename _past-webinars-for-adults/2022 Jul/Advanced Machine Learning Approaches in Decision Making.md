@@ -9,6 +9,4 @@ third_nav_title: 2022 Jul
 
 Facing a difficult decision at work? Discover how you can use modern Machine Learning (ML) techniques as your assistant to help you with more accurate and timely decision-making.
 
-[Sign up here!](https://go.gov.sg/wa-advancedmachinelearning-jul22)
-
 ![free webinars for machine learning approaches for working adults](/images/jul%202022/28%20jul_wa.jpeg)
