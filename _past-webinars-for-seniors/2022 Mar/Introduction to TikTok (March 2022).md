@@ -10,6 +10,4 @@ third_nav_title: 2022 Mar
 
 What is this TikTok that all your children and grandchildren are hooked on? Can you also make these 15-second videos and surprise your grandkids? Sign up to find out.
 
-[Sign up here!](https://go.gov.sg/itt-ss-mar16)
-
 ![Free workshop on TikTok for seniors](/images/seniors%20-%20tiktok.jpeg)

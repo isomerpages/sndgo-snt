@@ -12,6 +12,4 @@ Still not confident with mobile banking - or not sure it it's safe? Let our trai
 
 **Note:** *This is a physical hands-on session and participants should have attended at least one webinar in July and downloaded the DBS PayLah!/PayNow apps on their mobile phones.*
 
-[Sign up here!](https://form.gov.sg/62a8108fb3ba9500129b75c3)
-
 ![free webinars on staying safe with smart banking for seniors](/images/jul%202022/27%20jul_seniors.jpeg)

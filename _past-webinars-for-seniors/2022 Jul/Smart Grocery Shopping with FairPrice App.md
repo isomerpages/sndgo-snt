@@ -9,6 +9,4 @@ third_nav_title: 2022 Jul
 
 Want to be a smart shopper? Learn how to track your spending and enjoy savings with the FairPrice App - while having groceries delivered right to your doorstep. 
 
-[Sign up here!](https://go.gov.sg/seniors-fairpriceapp-july22)
-
 ![free webinars on smart grocery shopping with fairprice app for seniors](/images/jul%202022/6%20jul_seniors.jpeg)

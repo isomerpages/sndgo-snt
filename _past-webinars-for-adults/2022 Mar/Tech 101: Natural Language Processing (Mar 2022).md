@@ -10,6 +10,4 @@ third_nav_title: 2022 Mar
 
 Experiencing information overload from the flood of social media posts, tweets, news and emails your business is receiving? Find out how computers can help us make sense of it all using Natural Language Processing (NLP). 
 
-[Sign up here! ](https://go.gov.sg/wa-nlp-mar22)
-
 ![Natural Language Processing Workshop for Working Adults](/images/wa-mar-nlp.jpeg)

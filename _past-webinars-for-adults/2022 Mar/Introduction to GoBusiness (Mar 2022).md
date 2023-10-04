@@ -10,6 +10,4 @@ third_nav_title: 2022 Mar
 
 Starting and growing your business is never easy. With GoBusiness, the nuts and bolts of running a company – including applying for licences, permits and grants – can now be done via a single portal. Find out how in this webinar.  
 
-[Sign up here!](https://go.gov.sg/wa-gobiz-mar22)
-
 ![GoBusiness workshop for working adults](/images/wa-mar-gobiz.jpeg)

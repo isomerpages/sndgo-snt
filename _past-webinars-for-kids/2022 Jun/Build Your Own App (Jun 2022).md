@@ -10,6 +10,4 @@ third_nav_title: 2022 Jun
 
 Learn to build an app like how you build structures with LEGO, by using the MIT APP Inventor platform – it’s as easy as a drag-and-drop! 
 
-[Sign up here! ](https://go.gov.sg/kids-speechapp-june2022)
-
 ![Free june holiday webinar on building an app for kids](/images/jun22-kids-build-your-app.jpeg)

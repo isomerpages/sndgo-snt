@@ -12,6 +12,4 @@ Don't let your children just play computer games and while the day away; get the
 
 *Suitable for kids aged 7 - 9.*
 
-[Sign up here!](https://go.gov.sg/kids-introtocoding7to9-june22)
-
 ![Free June holiday webinar on coding for kids](/images/jun22-kids-gaming-7-9.jpeg)

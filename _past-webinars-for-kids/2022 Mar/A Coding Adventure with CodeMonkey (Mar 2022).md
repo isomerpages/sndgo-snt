@@ -10,6 +10,4 @@ third_nav_title: 2022 Mar
 
 Going bananas over coding? Give your child a head-start on this life skill with this fun-filled introductory course. 
 
-[Sign up here! ](https://go.gov.sg/kids-codemonkey-mar22)
-
 ![Fun Coding workshop for kids](/images/kids-codemonkey.jpeg)

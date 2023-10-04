@@ -10,6 +10,4 @@ third_nav_title: 2022 Jun
 
 How can smart homes improve the health of our elderly, help them stay connected and keep them safe? Find out more in this session.
 
-[Sign up here!](https://go.gov.sg/seniors-smarthome2)
-
 ![Free webinar on smart homes for seniors in June](/images/updated-jun%20-%20smart%20homes2.jpeg)

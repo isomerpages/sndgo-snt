@@ -10,6 +10,4 @@ third_nav_title: 2022 Jun
 
 How can businesses tap on payment platforms like NETS to enhance the customer experience? These moves can also help you improve your processes and productivity! Find out more in this webinar.  
 
-[Sign up here!](https://go.gov.sg/wa-finlab3-june22)
-
 ![Free webinar on e-payments for businesses](/images/updated-jun22-wa-e-payments.jpeg)

@@ -9,6 +9,4 @@ third_nav_title: 2022 Aug
 
 厌倦了没完没了的来电和来历不明的信息吗？了解有关ScamShield应用程序的所有咨询，以及如何使用它来确保网络安全和防范诈骗的行为。
 
-[Sign up here!](https://go.gov.sg/seniors-scamshieldeng-aug26-ml)
-
 ![free webinars on scamshield in mandarin chinese for seniors](/images/aug%202022/seniors_26%20aug.jpeg)

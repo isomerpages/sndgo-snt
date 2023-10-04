@@ -9,6 +9,4 @@ third_nav_title: 2023 Jan
 
 What is Biohacking and how does it work? Learn how you can 'upgrade' your mental and physical well-being with tech by using health solutions more effectively. Apply the hacks to everything from exercise, nutrition, to your sleep! 
 
-[Sign up here!](https://go.gov.sg/wa-biohacking-jan23)
-
 ![free webinar on biohacking with tech for better health](/images/jan%202023/wa_11%20jan2023.jpeg)

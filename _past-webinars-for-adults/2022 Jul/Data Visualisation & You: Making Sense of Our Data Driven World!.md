@@ -9,6 +9,4 @@ third_nav_title: 2022 Jul
 
 Ever agonised over rows of Excel spreadsheets? In this webinar, learn how to make better use of data to draw insights. Discover the power of Tableau, a data visualisation software, as we take you through a live demo in this session. 
 
-[Sign up here!](https://go.gov.sg/wa-tableau-jul22)
-
 ![free webinars on data visualisation for working adults](/images/jul%202022/25%20jul_wa.jpeg)

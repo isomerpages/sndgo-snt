@@ -10,6 +10,4 @@ third_nav_title: 2022 Apr
 
 What the phish?! To avoid falling prey to the ever-evolving tricks of scammers, learn how you can identify phishing attempts and other scam tactics used today from the experts at the Cyber Security Agency of Singapore and Singapore Police Force. 
 
-[Sign up here!](https://go.gov.sg/cybersafe-ss-apr25)
-
 ![Free Cybersecurity Webinar on Phishing for Seniors](/images/apr%20-%20general%20-%20phishing.jpeg)
