@@ -2,8 +2,6 @@ collections:
   past-webinars-for-adults:
     output: true
     order:
-      - 2023 Sep/Sep 2023.md
-      - 2023 Sep/.keep
       - 2023 Jan/.keep
       - "2023 Jan/Telehealth for Physiotherapy: What, When & Why.md"
       - 2023 Jan/Boost Your Mental Wellness with Tech.md
