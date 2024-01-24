@@ -1,0 +1,5 @@
+collections:
+  past-webinars:
+    output: true
+    order:
+      - "Recordings of #SmartNationTogether Webinars.md"

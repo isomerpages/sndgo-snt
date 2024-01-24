@@ -1,0 +1,7 @@
+collections:
+  seniors:
+    output: true
+    order:
+      - Tech Webinars for Seniors.md
+      - My Savvy Kaki Series/.keep
+      - Past Webinars for Seniors.md

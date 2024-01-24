@@ -1,0 +1,45 @@
+collections:
+  past-webinars-for-seniors:
+    output: true
+    order:
+      - "2023 Jan/Telehealth for Physiotherapy: What, When & Why.md"
+      - 2023 Jan/Boost Your Mental Wellness with Tech.md
+      - 2023 Jan/Detecting Dementia with Artificial Intelligence.md
+      - 2023 Jan/BioHacking with Tech for Better Health.md
+      - 2023 Jan/.keep
+      - 2022 Nov/All About OneService App & Chatbot Kaki.md
+      - 2022 Nov/All About ScamShield.md
+      - 2022 Nov/关于 ScamShield.md
+      - 2022 Nov/Transacting Safely Online with Singpass.md
+      - 2022 Nov/.keep
+      - 2022 Oct/Improving Your Health Through Data.md
+      - "2022 Oct/Project Pensieve: Detecting Dementia with AI.md"
+      - 2022 Oct/Digital Preventive Health for Seniors.md
+      - 2022 Oct/.keep
+      - 2022 Aug/关于ScamShield (华语版本).md
+      - 2022 Aug/All About ScamShield (English).md
+      - 2022 Aug/Learning About E Commerce Scams.md
+      - 2022 Aug/All About CPF Mobile.md
+      - 2022 Aug/.keep
+      - 2022 Jul/Staying Safe with Smart Banking.md
+      - 2022 Jul/Smart Banking with PayLah! and PayNow.md
+      - 2022 Jul/Smart Commuting with Gojek App.md
+      - 2022 Jul/Smart Grocery Shopping with FairPrice App.md
+      - 2022 Jul/.keep
+      - 2022 Jun/How to Make Your Home Smarter (Jun 2022).md
+      - 2022 Jun/Smart Homes for Better Living (Jun 2022).md
+      - 2022 Jun/Know All About Smart Homes (Jun 2022).md
+      - 2022 Jun/.keep
+      - 2022 Apr/Basics of Staying Safe Online (April 2022).md
+      - "2022 Apr/(NLB) SURE Skills Series: Verifying Images & Videos (April
+        2022).md"
+      - 2022 Apr/Staying Safe from Phishing and Online Scams (April 2022).md
+      - 2022 Apr/.keep
+      - 2022 Mar/Introduction to TikTok (March 2022).md
+      - 2022 Mar/Introduction to Google Photos (March 2022).md
+      - 2022 Mar/Introduction to Facebook (March 2022).md
+      - 2022 Mar/.keep
+      - 2022 Feb/Know all about LifeSG.md
+      - 2022 Feb/Know All About Singpass.md
+      - 2022 Feb/.keep
+      - 2022 Jan/.keep
