@@ -2,35 +2,22 @@
 title: "General Assembly: Data Science Immersive"
 permalink: /working-adults/paid-courses/ga-data-sci/
 third_nav_title: Paid Courses
-description: ""
+description: "General Assembly: Data Science Immersive"
+variant: tiptap
 ---
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/60ppnDlFgtw"
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/60ppnDlFgtw" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
@@ -82,7 +69,7 @@ Thousands of companies have hired GA graduates. Our career coaches work one-on-o
 * A Dedicated Career Coach. This accountability partner helps keep your professional goals and job search on track, before and after graduation.
 * Job-Search Prep. Delve into career development workshops in resume writing, networking, and more. Receive in-depth interview training, negotiation tactics, self-branding advice, and job search check-ins with your coach.
 * Real-World Learning. Get an intimate, inside look at leading companies in the field through case studies from real businesses and insightful talks featuring industry pros.
-* Partner & Networking Opportunities. Connect with GA grads at our alumni community meetups and meet local employers — from hot startups to Fortune 500 companies — at exclusive events and showcases with GA’s hiring partners.
+* Partner &amp; Networking Opportunities. Connect with GA grads at our alumni community meetups and meet local employers — from hot startups to Fortune 500 companies — at exclusive events and showcases with GA’s hiring partners.
 
 #### **ABOUT GENERAL ASSEMBLY**  
 
