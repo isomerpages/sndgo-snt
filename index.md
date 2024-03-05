@@ -18,6 +18,7 @@ sections:
         - title: Subscribe to our newsletter
           description: Register here
           url: /newsletter/
+      variant: image
   - infobar:
       description: Ready to pick up new digital skills? Register for our interactive
         webinars, workshops and talks today. There is something for everyone!
