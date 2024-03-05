@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage_snt_website.jpg
+      background: /images/transforming_sg_through_technology_engagement.jpg
       key_highlights:
         - title: Tech Webinars For Working Adults
           description: Level up your tech skills
@@ -19,9 +19,9 @@ sections:
           description: Register here
           url: /newsletter/
   - infobar:
-      description: Register for our interactive webinars, workshops and talks today.
-        There is something for everyone!
-      title: Ready to pick up new digital skills?
+      description: Ready to pick up new digital skills? Register for our interactive
+        webinars, workshops and talks today. There is something for everyone!
+      title: "#SmartNationTogether"
   - infopic:
       title: For Working Adults
       description: Want to level up on tech skills for your work? From data analytics
